@@ -4,8 +4,8 @@
   "description": "Discover 3,300+ curated developer tools, AI coding assistants, and open-source GitHub repositories.",
   "start_url": "/",
   "display": "standalone",
-  "background_color": "#070B14",
-  "theme_color": "#0D9488",
+  "background_color": "#FAF6F1",
+  "theme_color": "#783F27",
   "icons": [
     {
       "src": "/icon-48.png",

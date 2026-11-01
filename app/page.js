@@ -10,7 +10,7 @@ export default function HomePage() {
   const [activeTab, setActiveTab] = useState('tools'); // 'tools' | 'repositories'
 
   return (
-    <div className="min-h-screen flex flex-col bg-[#F8FAFC] dark:bg-[#070B14] relative selection:bg-slate-900 selection:text-white dark:selection:bg-white dark:selection:text-slate-900">
+    <div className="min-h-screen flex flex-col bg-[#FAF6F1] dark:bg-[#070B14] relative selection:bg-[#783F27] selection:text-[#FAF6F1] dark:selection:bg-white dark:selection:text-slate-900">
       {/* Clean Navbar with DevAtlas Logo, Tools & Repositories tabs, and Theme button */}
       <Navbar activeTab={activeTab} onTabChange={setActiveTab} />
 

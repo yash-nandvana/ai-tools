@@ -12,10 +12,10 @@ function Draw-DevAtlasIcon {
     $g.InterpolationMode = [System.Drawing.Drawing2D.InterpolationMode]::HighQualityBicubic
     $g.PixelOffsetMode = [System.Drawing.Drawing2D.PixelOffsetMode]::HighQuality
 
-    # Background gradient
+    # Background gradient (Espresso Brown)
     $rect = New-Object System.Drawing.Rectangle(0, 0, $Size, $Size)
-    $color1 = [System.Drawing.ColorTranslator]::FromHtml("#0D9488")
-    $color2 = [System.Drawing.ColorTranslator]::FromHtml("#0284C7")
+    $color1 = [System.Drawing.ColorTranslator]::FromHtml("#783F27")
+    $color2 = [System.Drawing.ColorTranslator]::FromHtml("#9C5234")
     $brush = New-Object System.Drawing.Drawing2D.LinearGradientBrush($rect, $color1, $color2, 45.0)
 
     # Rounded rectangle path
@@ -71,9 +71,9 @@ function Draw-OgImage {
     $bgBrush = New-Object System.Drawing.SolidBrush([System.Drawing.ColorTranslator]::FromHtml("#070B14"))
     $g.FillRectangle($bgBrush, 0, 0, $width, $height)
 
-    # Top Teal Gradient Strip
+    # Top Brown Gradient Strip
     $topRect = New-Object System.Drawing.Rectangle(0, 0, $width, 8)
-    $stripBrush = New-Object System.Drawing.Drawing2D.LinearGradientBrush($topRect, [System.Drawing.ColorTranslator]::FromHtml("#0D9488"), [System.Drawing.ColorTranslator]::FromHtml("#06B6D4"), 0.0)
+    $stripBrush = New-Object System.Drawing.Drawing2D.LinearGradientBrush($topRect, [System.Drawing.ColorTranslator]::FromHtml("#783F27"), [System.Drawing.ColorTranslator]::FromHtml("#9C5234"), 0.0)
     $g.FillRectangle($stripBrush, $topRect)
 
     # Logo Emblem
@@ -81,8 +81,8 @@ function Draw-OgImage {
     $logoX = 100
     $logoY = 120
     $logoRect = New-Object System.Drawing.Rectangle($logoX, $logoY, $logoSize, $logoSize)
-    $color1 = [System.Drawing.ColorTranslator]::FromHtml("#0D9488")
-    $color2 = [System.Drawing.ColorTranslator]::FromHtml("#0284C7")
+    $color1 = [System.Drawing.ColorTranslator]::FromHtml("#783F27")
+    $color2 = [System.Drawing.ColorTranslator]::FromHtml("#9C5234")
     $logoBrush = New-Object System.Drawing.Drawing2D.LinearGradientBrush($logoRect, $color1, $color2, 45.0)
 
     $radius = 32
@@ -149,7 +149,4 @@ Draw-DevAtlasIcon -Size 192 -OutputPath "public/icon-192.png"
 Draw-DevAtlasIcon -Size 512 -OutputPath "public/icon-512.png"
 Draw-OgImage -OutputPath "public/og-image.png"
 
-# Copy icon-192 and icon-48
-Copy-Item "public/icon-48.png" "public/favicon.ico" -Force
-Copy-Item "public/apple-touch-icon.png" "app/apple-icon.png" -Force -ErrorAction SilentlyContinue
 Write-Output "Favicon and icons setup complete!"

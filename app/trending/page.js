@@ -19,7 +19,7 @@ export default function TrendingPage() {
   const trendingRepos = repositoriesData.filter((r) => r.trending);
 
   return (
-    <div className="min-h-screen flex flex-col bg-[#F8FAFC] dark:bg-[#070B14] relative">
+    <div className="min-h-screen flex flex-col bg-[#FAF6F1] dark:bg-[#070B14] relative">
       <Navbar activeTab="trending" />
 
       <main className="flex-1 mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 py-10 w-full relative">

@@ -3,74 +3,140 @@
 @tailwind utilities;
 
 :root {
-  --primary: #0D9488;
-  --primary-hover: #0F766E;
-  --primary-glow: rgba(13, 148, 136, 0.25);
-  --primary-ring: rgba(13, 148, 136, 0.15);
-  --primary-subtle: rgba(13, 148, 136, 0.08);
-  --gradient-from: #0D9488;
-  --gradient-to: #06B6D4;
-}
+  --primary: #783F27;
+  --primary-hover: #5F311E;
+  --primary-glow: rgba(120, 63, 39, 0.22);
+  --primary-ring: rgba(120, 63, 39, 0.18);
+  --primary-subtle: rgba(120, 63, 39, 0.08);
+  --gradient-from: #783F27;
+  --gradient-to: #9C5234;
 
-html.accent-teal {
-  --primary: #0D9488;
-  --primary-hover: #0F766E;
-  --primary-glow: rgba(13, 148, 136, 0.3);
-  --primary-ring: rgba(13, 148, 136, 0.2);
-  --primary-subtle: rgba(13, 148, 136, 0.08);
-  --gradient-from: #0D9488;
-  --gradient-to: #06B6D4;
-}
-
-html.accent-violet {
-  --primary: #7C3AED;
-  --primary-hover: #6D28D9;
-  --primary-glow: rgba(124, 58, 237, 0.3);
-  --primary-ring: rgba(124, 58, 237, 0.2);
-  --primary-subtle: rgba(124, 58, 237, 0.08);
-  --gradient-from: #7C3AED;
-  --gradient-to: #6366F1;
-}
-
-html.accent-emerald {
-  --primary: #059669;
-  --primary-hover: #047857;
-  --primary-glow: rgba(16, 185, 129, 0.3);
-  --primary-ring: rgba(16, 185, 129, 0.2);
-  --primary-subtle: rgba(16, 185, 129, 0.08);
-  --gradient-from: #059669;
-  --gradient-to: #10B981;
-}
-
-html.accent-rose {
-  --primary: #E11D48;
-  --primary-hover: #BE123C;
-  --primary-glow: rgba(225, 29, 72, 0.3);
-  --primary-ring: rgba(225, 29, 72, 0.2);
-  --primary-subtle: rgba(225, 29, 72, 0.08);
-  --gradient-from: #E11D48;
-  --gradient-to: #F59E0B;
-}
-
-html.accent-blue {
-  --primary: #2563EB;
-  --primary-hover: #1D4ED8;
-  --primary-glow: rgba(37, 99, 235, 0.3);
-  --primary-ring: rgba(37, 99, 235, 0.2);
-  --primary-subtle: rgba(37, 99, 235, 0.08);
-  --gradient-from: #2563EB;
-  --gradient-to: #38BDF8;
+  --color-espresso: #783F27;
+  --color-cocoa: #30231F;
+  --color-ivory: #FAF6F1;
+  --color-sand: #EFE3D9;
+  --color-card: #FFFCF9;
+  --color-taupe: #89776D;
 }
 
 @layer base {
   body {
-    @apply antialiased text-slate-800 dark:text-slate-100 bg-[#F8FAFC] dark:bg-[#070B14] transition-colors duration-200;
+    @apply antialiased text-[#30231F] dark:text-slate-100 bg-[#FAF6F1] dark:bg-[#070B14] transition-colors duration-200;
   }
+}
+
+/* Light Mode Custom Palette Mapping */
+html:not(.dark) {
+  color-scheme: light;
+}
+
+html:not(.dark) body {
+  background-color: #FAF6F1 !important;
+  color: #30231F !important;
+}
+
+/* Pure Card (#FFFCF9) for all cards, containers, modals, and navbar */
+html:not(.dark) .bg-white,
+html:not(.dark) .bg-white\/80,
+html:not(.dark) .bg-white\/85,
+html:not(.dark) .bg-white\/90,
+html:not(.dark) .bg-white\/95 {
+  background-color: #FFFCF9 !important;
+}
+
+/* Soft Sand (#EFE3D9) for borders and dividers */
+html:not(.dark) .border-slate-200,
+html:not(.dark) .border-slate-200\/80,
+html:not(.dark) .border-slate-200\/90,
+html:not(.dark) .border-slate-200\/50,
+html:not(.dark) .border-slate-200\/60,
+html:not(.dark) .border-slate-100 {
+  border-color: #EFE3D9 !important;
+}
+
+/* Soft Sand (#EFE3D9) for subtle badge/input/button backgrounds */
+html:not(.dark) .bg-slate-50,
+html:not(.dark) .bg-slate-50\/50,
+html:not(.dark) .bg-slate-50\/70,
+html:not(.dark) .bg-slate-100 {
+  background-color: #EFE3D9 !important;
+}
+
+/* Soft Sand hover backgrounds */
+html:not(.dark) .hover\:bg-slate-50:hover,
+html:not(.dark) .hover\:bg-slate-100:hover {
+  background-color: #E4D5C7 !important;
+}
+
+/* Dark Cocoa (#30231F) for headings and main text */
+html:not(.dark) .text-slate-900,
+html:not(.dark) .text-slate-800,
+html:not(.dark) .text-slate-700 {
+  color: #30231F !important;
+}
+
+/* Muted Taupe (#89776D) for secondary descriptions, placeholders, and meta labels */
+html:not(.dark) .text-slate-600,
+html:not(.dark) .text-slate-500,
+html:not(.dark) .text-slate-400 {
+  color: #89776D !important;
+}
+
+html:not(.dark) input::placeholder,
+html:not(.dark) textarea::placeholder {
+  color: #89776D !important;
+}
+
+/* Espresso Brown (#783F27) for interactive hover states */
+html:not(.dark) .hover\:text-slate-900:hover,
+html:not(.dark) .hover\:text-slate-800:hover {
+  color: #783F27 !important;
+}
+
+/* Espresso Brown (#783F27) for badges, links, and highlights */
+html:not(.dark) .text-teal-600,
+html:not(.dark) .text-teal-700,
+html:not(.dark) .text-teal-500,
+html:not(.dark) .hover\:text-teal-600:hover,
+html:not(.dark) .hover\:text-teal-700:hover {
+  color: #783F27 !important;
+}
+
+html:not(.dark) .bg-teal-50 {
+  background-color: #EFE3D9 !important;
+  color: #783F27 !important;
+}
+
+html:not(.dark) .border-teal-200,
+html:not(.dark) .border-teal-200\/50 {
+  border-color: #EFE3D9 !important;
+}
+
+html:not(.dark) .border-teal-500,
+html:not(.dark) .hover\:border-teal-500:hover,
+html:not(.dark) .hover\:border-teal-500\/50:hover,
+html:not(.dark) .hover\:border-teal-500\/60:hover {
+  border-color: #783F27 !important;
+}
+
+html:not(.dark) .bg-\[\#0D9488\],
+html:not(.dark) .bg-teal-600 {
+  background-color: #783F27 !important;
+}
+
+html:not(.dark) .hover\:bg-teal-700:hover {
+  background-color: #5F311E !important;
+}
+
+/* Selection */
+html:not(.dark) ::selection {
+  background-color: #783F27;
+  color: #FAF6F1;
 }
 
 /* Background patterns */
 .bg-dot-grid {
-  background-image: radial-gradient(rgba(148, 163, 184, 0.15) 1px, transparent 1px);
+  background-image: radial-gradient(rgba(137, 119, 109, 0.22) 1px, transparent 1px);
   background-size: 24px 24px;
 }
 
@@ -87,7 +153,7 @@ html.accent-blue {
   transform: translateX(-50%);
   width: 900px;
   height: 400px;
-  background: radial-gradient(circle, var(--primary-glow) 0%, rgba(99, 102, 241, 0.08) 40%, transparent 70%);
+  background: radial-gradient(circle, var(--primary-glow) 0%, rgba(120, 63, 39, 0.08) 40%, transparent 70%);
   filter: blur(80px);
   pointer-events: none;
   z-index: 0;
@@ -143,12 +209,12 @@ html.accent-blue {
 }
 
 ::-webkit-scrollbar-thumb {
-  background: rgba(148, 163, 184, 0.25);
+  background: rgba(137, 119, 109, 0.35);
   border-radius: 9999px;
 }
 
 ::-webkit-scrollbar-thumb:hover {
-  background: rgba(148, 163, 184, 0.45);
+  background: rgba(120, 63, 39, 0.55);
 }
 
 .dark ::-webkit-scrollbar-thumb {

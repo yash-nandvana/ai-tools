@@ -1,5 +1,5 @@
 import Link from 'next/link';
-import { Compass, Github, Heart, Sparkles, ShieldCheck, Terminal, Cpu } from 'lucide-react';
+import { Compass, Github, Heart, Sparkles, ShieldCheck, Terminal, Cpu, ExternalLink } from 'lucide-react';
 import { directoryStats } from '@/data';
 
 export default function Footer() {
@@ -103,16 +103,42 @@ export default function Footer() {
             <h4 className="text-xs font-bold uppercase tracking-wider text-slate-900 dark:text-white">
               Developer
             </h4>
+
+            {/* Developer Card */}
+            <a 
+              href="https://yashnandvana.in"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="group flex items-center gap-2.5 p-2 rounded-xl border border-slate-200/90 bg-slate-50/70 dark:border-slate-800 dark:bg-slate-900/60 hover:border-teal-500/60 dark:hover:border-teal-500/60 hover:bg-white dark:hover:bg-slate-800/80 transition-all shadow-sm"
+            >
+              <img 
+                src="/developer-logo.png" 
+                alt="Yash Nandvana Logo" 
+                className="h-8 w-8 rounded-lg object-contain bg-slate-950 ring-1 ring-slate-200 dark:ring-slate-700/80 shrink-0 group-hover:scale-105 transition-transform" 
+              />
+              <div className="flex-1 min-w-0">
+                <div className="flex items-center justify-between gap-1">
+                  <span className="text-xs font-bold text-slate-900 dark:text-white truncate group-hover:text-teal-600 dark:group-hover:text-teal-400 transition-colors">
+                    Yash Nandvana
+                  </span>
+                  <ExternalLink className="h-3 w-3 text-slate-400 group-hover:text-teal-600 dark:group-hover:text-teal-400 shrink-0 transition-colors" />
+                </div>
+                <span className="text-[11px] text-slate-500 dark:text-slate-400 truncate block">
+                  yashnandvana.in
+                </span>
+              </div>
+            </a>
+
             <ul className="space-y-2 text-xs">
               <li>
                 <a 
-                  href="https://github.com" 
+                  href="https://github.com/yash-nandvana/ai-tools" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="hover:text-teal-600 dark:hover:text-teal-400 transition-colors flex items-center gap-1.5"
                 >
                   <Github className="h-3.5 w-3.5" />
-                  <span>GitHub Community</span>
+                  <span>Open Source on GitHub</span>
                 </a>
               </li>
               <li>

@@ -137,13 +137,27 @@ export default function RootLayout({ children }) {
         <link rel="icon" href="/favicon.ico" sizes="48x48" />
         <link rel="icon" type="image/svg+xml" href="/icon.svg" />
         <link rel="apple-touch-icon" href="/apple-touch-icon.png" sizes="180x180" />
-        <meta name="theme-color" content="#0D9488" />
+        <meta name="theme-color" content="#783F27" />
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `
+              try {
+                var theme = localStorage.getItem('devatlas-theme') || 'light';
+                if (theme === 'dark') {
+                  document.documentElement.classList.add('dark');
+                } else {
+                  document.documentElement.classList.remove('dark');
+                }
+              } catch (e) {}
+            `,
+          }}
+        />
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
         />
       </head>
-      <body className="min-h-screen font-sans bg-[#F8FAFC] dark:bg-[#070B14] text-slate-800 dark:text-slate-100 transition-colors duration-200">
+      <body className="min-h-screen font-sans bg-[#FAF6F1] dark:bg-[#070B14] text-[#30231F] dark:text-slate-100 transition-colors duration-200">
         <ThemeProvider>
           <BookmarksProvider>
             <ToastProvider>
