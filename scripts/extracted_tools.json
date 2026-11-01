@@ -1,0 +1,6266 @@
+[
+  {
+    "name": "Testsigma",
+    "category": "AI-powered QA and autonomous testing platforms",
+    "website": "https://testsigma.com",
+    "source": "qa"
+  },
+  {
+    "name": "Katalon",
+    "category": "AI-powered QA and autonomous testing platforms",
+    "website": "https://katalon.com",
+    "source": "qa"
+  },
+  {
+    "name": "Katalon TrueTest",
+    "category": "AI-powered QA and autonomous testing platforms",
+    "website": "https://qa.katalon.com/truetest",
+    "source": "qa"
+  },
+  {
+    "name": "KaneAI by TestMu AI",
+    "category": "AI-powered QA and autonomous testing platforms",
+    "website": "https://www.testmuai.com",
+    "source": "qa"
+  },
+  {
+    "name": "mabl",
+    "category": "AI-powered QA and autonomous testing platforms",
+    "website": "https://www.mabl.com",
+    "source": "qa"
+  },
+  {
+    "name": "testRigor",
+    "category": "AI-powered QA and autonomous testing platforms",
+    "website": "https://testrigor.com",
+    "source": "qa"
+  },
+  {
+    "name": "ACCELQ",
+    "category": "AI-powered QA and autonomous testing platforms",
+    "website": "https://www.accelq.com",
+    "source": "qa"
+  },
+  {
+    "name": "Functionize",
+    "category": "AI-powered QA and autonomous testing platforms",
+    "website": "https://www.functionize.com",
+    "source": "qa"
+  },
+  {
+    "name": "Virtuoso QA",
+    "category": "AI-powered QA and autonomous testing platforms",
+    "website": "https://www.virtuosoqa.com",
+    "source": "qa"
+  },
+  {
+    "name": "Autify",
+    "category": "AI-powered QA and autonomous testing platforms",
+    "website": "https://autify.com",
+    "source": "qa"
+  },
+  {
+    "name": "Momentic",
+    "category": "AI-powered QA and autonomous testing platforms",
+    "website": "https://momentic.ai",
+    "source": "qa"
+  },
+  {
+    "name": "TestSprite",
+    "category": "AI-powered QA and autonomous testing platforms",
+    "website": "https://www.testsprite.com",
+    "source": "qa"
+  },
+  {
+    "name": "QA.tech",
+    "category": "AI-powered QA and autonomous testing platforms",
+    "website": "https://qa.tech",
+    "source": "qa"
+  },
+  {
+    "name": "QA Wolf",
+    "category": "AI-powered QA and autonomous testing platforms",
+    "website": "https://www.qawolf.com",
+    "source": "qa"
+  },
+  {
+    "name": "Reflect",
+    "category": "AI-powered QA and autonomous testing platforms",
+    "website": "https://reflect.run",
+    "source": "qa"
+  },
+  {
+    "name": "test.ai",
+    "category": "AI-powered QA and autonomous testing platforms",
+    "website": "https://test.ai",
+    "source": "qa"
+  },
+  {
+    "name": "Tricentis",
+    "category": "AI-powered QA and autonomous testing platforms",
+    "website": "https://www.tricentis.com",
+    "source": "qa"
+  },
+  {
+    "name": "Tricentis Tosca",
+    "category": "AI-powered QA and autonomous testing platforms",
+    "website": "https://www.tricentis.com/products/automate-testing-tosca",
+    "source": "qa"
+  },
+  {
+    "name": "Leapwork",
+    "category": "AI-powered QA and autonomous testing platforms",
+    "website": "https://www.leapwork.com",
+    "source": "qa"
+  },
+  {
+    "name": "Eggplant",
+    "category": "AI-powered QA and autonomous testing platforms",
+    "website": "https://www.keysight.com/us/en/products/software/eggplant.html",
+    "source": "qa"
+  },
+  {
+    "name": "ACCELQ Autopilot",
+    "category": "AI-powered QA and autonomous testing platforms",
+    "website": "https://www.accelq.com/platform/autopilot",
+    "source": "qa"
+  },
+  {
+    "name": "BrowserStack AI Agents",
+    "category": "AI-powered QA and autonomous testing platforms",
+    "website": "https://www.browserstack.com/automate/ai-agents",
+    "source": "qa"
+  },
+  {
+    "name": "Applitools",
+    "category": "AI-powered QA and autonomous testing platforms",
+    "website": "https://applitools.com",
+    "source": "qa"
+  },
+  {
+    "name": "Keploy",
+    "category": "AI-powered QA and autonomous testing platforms",
+    "website": "https://keploy.io",
+    "source": "qa"
+  },
+  {
+    "name": "Meticulous",
+    "category": "AI-powered QA and autonomous testing platforms",
+    "website": "https://www.meticulous.ai",
+    "source": "qa"
+  },
+  {
+    "name": "Pythagora",
+    "category": "AI-powered QA and autonomous testing platforms",
+    "website": "https://pythagora.ai",
+    "source": "qa"
+  },
+  {
+    "name": "Diffblue",
+    "category": "AI-powered QA and autonomous testing platforms",
+    "website": "https://www.diffblue.com",
+    "source": "qa"
+  },
+  {
+    "name": "Qodo",
+    "category": "AI-powered QA and autonomous testing platforms",
+    "website": "https://www.qodo.ai",
+    "source": "qa"
+  },
+  {
+    "name": "QA Pilot",
+    "category": "AI-powered QA and autonomous testing platforms",
+    "website": "https://qapilot.com",
+    "source": "qa"
+  },
+  {
+    "name": "testRex",
+    "category": "AI-powered QA and autonomous testing platforms",
+    "website": "https://testrex.com",
+    "source": "qa"
+  },
+  {
+    "name": "Tester Army",
+    "category": "AI-powered QA and autonomous testing platforms",
+    "website": "https://tester.army",
+    "source": "qa"
+  },
+  {
+    "name": "Browser Use",
+    "category": "AI-powered QA and autonomous testing platforms",
+    "website": "https://browser-use.com",
+    "source": "qa"
+  },
+  {
+    "name": "OpenHands",
+    "category": "AI-powered QA and autonomous testing platforms",
+    "website": "https://openhands.dev",
+    "source": "qa"
+  },
+  {
+    "name": "SWE-agent",
+    "category": "AI-powered QA and autonomous testing platforms",
+    "website": "https://github.com/SWE-agent/SWE-agent",
+    "source": "qa"
+  },
+  {
+    "name": "OmniParser",
+    "category": "AI-powered QA and autonomous testing platforms",
+    "website": "https://github.com/microsoft/OmniParser",
+    "source": "qa"
+  },
+  {
+    "name": "Stagehand",
+    "category": "AI-powered QA and autonomous testing platforms",
+    "website": "https://www.stagehand.dev",
+    "source": "qa"
+  },
+  {
+    "name": "Skyvern",
+    "category": "AI-powered QA and autonomous testing platforms",
+    "website": "https://www.skyvern.com",
+    "source": "qa"
+  },
+  {
+    "name": "Browserbase",
+    "category": "AI-powered QA and autonomous testing platforms",
+    "website": "https://www.browserbase.com",
+    "source": "qa"
+  },
+  {
+    "name": "Cognition Devin",
+    "category": "AI-powered QA and autonomous testing platforms",
+    "website": "https://devin.ai",
+    "source": "qa"
+  },
+  {
+    "name": "Applitools Eyes",
+    "category": "Visual regression testing and screenshot comparison",
+    "website": "https://applitools.com",
+    "source": "qa"
+  },
+  {
+    "name": "Percy by BrowserStack",
+    "category": "Visual regression testing and screenshot comparison",
+    "website": "https://percy.io",
+    "source": "qa"
+  },
+  {
+    "name": "Chromatic",
+    "category": "Visual regression testing and screenshot comparison",
+    "website": "https://www.chromatic.com",
+    "source": "qa"
+  },
+  {
+    "name": "Argos CI",
+    "category": "Visual regression testing and screenshot comparison",
+    "website": "https://argos-ci.com",
+    "source": "qa"
+  },
+  {
+    "name": "Lost Pixel",
+    "category": "Visual regression testing and screenshot comparison",
+    "website": "https://lost-pixel.com",
+    "source": "qa"
+  },
+  {
+    "name": "Happo",
+    "category": "Visual regression testing and screenshot comparison",
+    "website": "https://happo.io",
+    "source": "qa"
+  },
+  {
+    "name": "BackstopJS",
+    "category": "Visual regression testing and screenshot comparison",
+    "website": "https://github.com/garris/BackstopJS",
+    "source": "qa"
+  },
+  {
+    "name": "Playwright",
+    "category": "Visual regression testing and screenshot comparison",
+    "website": "https://playwright.dev",
+    "source": "qa"
+  },
+  {
+    "name": "Cypress",
+    "category": "Visual regression testing and screenshot comparison",
+    "website": "https://www.cypress.io",
+    "source": "qa"
+  },
+  {
+    "name": "Vitest Visual Regression",
+    "category": "Visual regression testing and screenshot comparison",
+    "website": "https://vitest.dev/guide/browser/visual-regression-testing",
+    "source": "qa"
+  },
+  {
+    "name": "Loki",
+    "category": "Visual regression testing and screenshot comparison",
+    "website": "https://github.com/oblador/loki",
+    "source": "qa"
+  },
+  {
+    "name": "reg-suit",
+    "category": "Visual regression testing and screenshot comparison",
+    "website": "https://github.com/reg-viz/reg-suit",
+    "source": "qa"
+  },
+  {
+    "name": "jest-image-snapshot",
+    "category": "Visual regression testing and screenshot comparison",
+    "website": "https://github.com/americanexpress/jest-image-snapshot",
+    "source": "qa"
+  },
+  {
+    "name": "Pixeleye",
+    "category": "Visual regression testing and screenshot comparison",
+    "website": "https://pixeleye.io",
+    "source": "qa"
+  },
+  {
+    "name": "Screener",
+    "category": "Visual regression testing and screenshot comparison",
+    "website": "https://screener.io",
+    "source": "qa"
+  },
+  {
+    "name": "Crosscheck",
+    "category": "Visual regression testing and screenshot comparison",
+    "website": "https://crosscheck.cloud",
+    "source": "qa"
+  },
+  {
+    "name": "Needle",
+    "category": "Visual regression testing and screenshot comparison",
+    "website": "https://needle.tools",
+    "source": "qa"
+  },
+  {
+    "name": "VisualReview",
+    "category": "Visual regression testing and screenshot comparison",
+    "website": "https://github.com/VisualReview/VisualReview",
+    "source": "qa"
+  },
+  {
+    "name": "Wraith",
+    "category": "Visual regression testing and screenshot comparison",
+    "website": "https://github.com/BBC-News/wraith",
+    "source": "qa"
+  },
+  {
+    "name": "PhantomCSS",
+    "category": "Visual regression testing and screenshot comparison",
+    "website": "https://github.com/Huddle/PhantomCSS",
+    "source": "qa"
+  },
+  {
+    "name": "Gemini Visual Testing",
+    "category": "Visual regression testing and screenshot comparison",
+    "website": "https://github.com/gemini-testing/gemini",
+    "source": "qa"
+  },
+  {
+    "name": "WebdriverIO Visual Service",
+    "category": "Visual regression testing and screenshot comparison",
+    "website": "https://webdriver.io/docs/visual-testing/",
+    "source": "qa"
+  },
+  {
+    "name": "Storycap",
+    "category": "Visual regression testing and screenshot comparison",
+    "website": "https://github.com/reg-viz/storycap",
+    "source": "qa"
+  },
+  {
+    "name": "Storybook",
+    "category": "Visual regression testing and screenshot comparison",
+    "website": "https://storybook.js.org",
+    "source": "qa"
+  },
+  {
+    "name": "ScreenshotOne",
+    "category": "Visual regression testing and screenshot comparison",
+    "website": "https://screenshotone.com",
+    "source": "qa"
+  },
+  {
+    "name": "Urlbox",
+    "category": "Visual regression testing and screenshot comparison",
+    "website": "https://urlbox.com",
+    "source": "qa"
+  },
+  {
+    "name": "Browserless",
+    "category": "Visual regression testing and screenshot comparison",
+    "website": "https://www.browserless.io",
+    "source": "qa"
+  },
+  {
+    "name": "CaptureKit",
+    "category": "Visual regression testing and screenshot comparison",
+    "website": "https://www.capturekit.dev",
+    "source": "qa"
+  },
+  {
+    "name": "ScreenshotAPI",
+    "category": "Visual regression testing and screenshot comparison",
+    "website": "https://screenshotapi.net",
+    "source": "qa"
+  },
+  {
+    "name": "HTMLCSStoImage",
+    "category": "Visual regression testing and screenshot comparison",
+    "website": "https://htmlcsstoimage.com",
+    "source": "qa"
+  },
+  {
+    "name": "Selenium",
+    "category": "Browser automation and end-to-end testing",
+    "website": "https://www.selenium.dev",
+    "source": "qa"
+  },
+  {
+    "name": "Puppeteer",
+    "category": "Browser automation and end-to-end testing",
+    "website": "https://pptr.dev",
+    "source": "qa"
+  },
+  {
+    "name": "WebdriverIO",
+    "category": "Browser automation and end-to-end testing",
+    "website": "https://webdriver.io",
+    "source": "qa"
+  },
+  {
+    "name": "Nightwatch.js",
+    "category": "Browser automation and end-to-end testing",
+    "website": "https://nightwatchjs.org",
+    "source": "qa"
+  },
+  {
+    "name": "TestCafe",
+    "category": "Browser automation and end-to-end testing",
+    "website": "https://testcafe.io",
+    "source": "qa"
+  },
+  {
+    "name": "CodeceptJS",
+    "category": "Browser automation and end-to-end testing",
+    "website": "https://codecept.io",
+    "source": "qa"
+  },
+  {
+    "name": "Robot Framework",
+    "category": "Browser automation and end-to-end testing",
+    "website": "https://robotframework.org",
+    "source": "qa"
+  },
+  {
+    "name": "Taiko",
+    "category": "Browser automation and end-to-end testing",
+    "website": "https://taiko.dev",
+    "source": "qa"
+  },
+  {
+    "name": "Cucumber",
+    "category": "Browser automation and end-to-end testing",
+    "website": "https://cucumber.io",
+    "source": "qa"
+  },
+  {
+    "name": "Gauge",
+    "category": "Browser automation and end-to-end testing",
+    "website": "https://gauge.org",
+    "source": "qa"
+  },
+  {
+    "name": "Capybara",
+    "category": "Browser automation and end-to-end testing",
+    "website": "https://github.com/teamcapybara/capybara",
+    "source": "qa"
+  },
+  {
+    "name": "Watir",
+    "category": "Browser automation and end-to-end testing",
+    "website": "https://watir.com",
+    "source": "qa"
+  },
+  {
+    "name": "Testim",
+    "category": "Browser automation and end-to-end testing",
+    "website": "https://www.testim.io",
+    "source": "qa"
+  },
+  {
+    "name": "Endtest",
+    "category": "Browser automation and end-to-end testing",
+    "website": "https://endtest.io",
+    "source": "qa"
+  },
+  {
+    "name": "Rainforest QA",
+    "category": "Browser automation and end-to-end testing",
+    "website": "https://www.rainforestqa.com",
+    "source": "qa"
+  },
+  {
+    "name": "BugBug",
+    "category": "Browser automation and end-to-end testing",
+    "website": "https://bugbug.io",
+    "source": "qa"
+  },
+  {
+    "name": "TestProject",
+    "category": "Browser automation and end-to-end testing",
+    "website": "https://testproject.io",
+    "source": "qa"
+  },
+  {
+    "name": "Sahi Pro",
+    "category": "Browser automation and end-to-end testing",
+    "website": "https://www.sahipro.com",
+    "source": "qa"
+  },
+  {
+    "name": "Ranorex",
+    "category": "Browser automation and end-to-end testing",
+    "website": "https://www.ranorex.com",
+    "source": "qa"
+  },
+  {
+    "name": "SmartBear TestComplete",
+    "category": "Browser automation and end-to-end testing",
+    "website": "https://smartbear.com/product/testcomplete/",
+    "source": "qa"
+  },
+  {
+    "name": "OpenText UFT One",
+    "category": "Browser automation and end-to-end testing",
+    "website": "https://www.opentext.com/products/uft-one",
+    "source": "qa"
+  },
+  {
+    "name": "Selenoid",
+    "category": "Browser automation and end-to-end testing",
+    "website": "https://aerokube.com/selenoid/latest/",
+    "source": "qa"
+  },
+  {
+    "name": "Moon",
+    "category": "Browser automation and end-to-end testing",
+    "website": "https://aerokube.com/moon/latest/",
+    "source": "qa"
+  },
+  {
+    "name": "Zalenium",
+    "category": "Browser automation and end-to-end testing",
+    "website": "https://github.com/zalando/zalenium",
+    "source": "qa"
+  },
+  {
+    "name": "Testcontainers",
+    "category": "Browser automation and end-to-end testing",
+    "website": "https://testcontainers.com",
+    "source": "qa"
+  },
+  {
+    "name": "WireMock",
+    "category": "Browser automation and end-to-end testing",
+    "website": "https://wiremock.org",
+    "source": "qa"
+  },
+  {
+    "name": "Mock Service Worker",
+    "category": "Browser automation and end-to-end testing",
+    "website": "https://mswjs.io",
+    "source": "qa"
+  },
+  {
+    "name": "Mockoon",
+    "category": "Browser automation and end-to-end testing",
+    "website": "https://mockoon.com",
+    "source": "qa"
+  },
+  {
+    "name": "Hoverfly",
+    "category": "Browser automation and end-to-end testing",
+    "website": "https://hoverfly.io",
+    "source": "qa"
+  },
+  {
+    "name": "Mountebank",
+    "category": "Browser automation and end-to-end testing",
+    "website": "https://www.mbtest.org",
+    "source": "qa"
+  },
+  {
+    "name": "BrowserStack",
+    "category": "Cross-browser and real-device testing platforms",
+    "website": "https://www.browserstack.com",
+    "source": "qa"
+  },
+  {
+    "name": "LambdaTest",
+    "category": "Cross-browser and real-device testing platforms",
+    "website": "https://www.testmuai.com",
+    "source": "qa"
+  },
+  {
+    "name": "Sauce Labs",
+    "category": "Cross-browser and real-device testing platforms",
+    "website": "https://saucelabs.com",
+    "source": "qa"
+  },
+  {
+    "name": "TestingBot",
+    "category": "Cross-browser and real-device testing platforms",
+    "website": "https://testingbot.com",
+    "source": "qa"
+  },
+  {
+    "name": "Kobiton",
+    "category": "Cross-browser and real-device testing platforms",
+    "website": "https://kobiton.com",
+    "source": "qa"
+  },
+  {
+    "name": "Perfecto",
+    "category": "Cross-browser and real-device testing platforms",
+    "website": "https://www.perfecto.io",
+    "source": "qa"
+  },
+  {
+    "name": "HeadSpin",
+    "category": "Cross-browser and real-device testing platforms",
+    "website": "https://www.headspin.io",
+    "source": "qa"
+  },
+  {
+    "name": "pCloudy",
+    "category": "Cross-browser and real-device testing platforms",
+    "website": "https://www.pcloudy.com",
+    "source": "qa"
+  },
+  {
+    "name": "BitBar",
+    "category": "Cross-browser and real-device testing platforms",
+    "website": "https://smartbear.com/product/bitbar/",
+    "source": "qa"
+  },
+  {
+    "name": "AWS Device Farm",
+    "category": "Cross-browser and real-device testing platforms",
+    "website": "https://aws.amazon.com/device-farm/",
+    "source": "qa"
+  },
+  {
+    "name": "Firebase Test Lab",
+    "category": "Cross-browser and real-device testing platforms",
+    "website": "https://firebase.google.com/docs/test-lab",
+    "source": "qa"
+  },
+  {
+    "name": "App Center Test",
+    "category": "Cross-browser and real-device testing platforms",
+    "website": "https://learn.microsoft.com/en-us/appcenter/test-cloud/",
+    "source": "qa"
+  },
+  {
+    "name": "Appetize",
+    "category": "Cross-browser and real-device testing platforms",
+    "website": "https://appetize.io",
+    "source": "qa"
+  },
+  {
+    "name": "Genymotion",
+    "category": "Cross-browser and real-device testing platforms",
+    "website": "https://www.genymotion.com",
+    "source": "qa"
+  },
+  {
+    "name": "Browserling",
+    "category": "Cross-browser and real-device testing platforms",
+    "website": "https://www.browserling.com",
+    "source": "qa"
+  },
+  {
+    "name": "CrossBrowserTesting",
+    "category": "Cross-browser and real-device testing platforms",
+    "website": "https://smartbear.com/product/crossbrowsertesting/",
+    "source": "qa"
+  },
+  {
+    "name": "Comparium",
+    "category": "Cross-browser and real-device testing platforms",
+    "website": "https://comparium.app",
+    "source": "qa"
+  },
+  {
+    "name": "MultiBrowser",
+    "category": "Cross-browser and real-device testing platforms",
+    "website": "https://www.multibrowser.com",
+    "source": "qa"
+  },
+  {
+    "name": "Browsera",
+    "category": "Cross-browser and real-device testing platforms",
+    "website": "https://browsera.com",
+    "source": "qa"
+  },
+  {
+    "name": "Appium",
+    "category": "Cross-browser and real-device testing platforms",
+    "website": "https://appium.io",
+    "source": "qa"
+  },
+  {
+    "name": "Maestro",
+    "category": "Cross-browser and real-device testing platforms",
+    "website": "https://maestro.mobile.dev",
+    "source": "qa"
+  },
+  {
+    "name": "Detox",
+    "category": "Cross-browser and real-device testing platforms",
+    "website": "https://wix.github.io/Detox/",
+    "source": "qa"
+  },
+  {
+    "name": "Espresso",
+    "category": "Cross-browser and real-device testing platforms",
+    "website": "https://developer.android.com/training/testing/espresso",
+    "source": "qa"
+  },
+  {
+    "name": "XCUITest",
+    "category": "Cross-browser and real-device testing platforms",
+    "website": "https://developer.apple.com/documentation/xctest",
+    "source": "qa"
+  },
+  {
+    "name": "UIAutomator",
+    "category": "Cross-browser and real-device testing platforms",
+    "website": "https://developer.android.com/training/testing/other-components/ui-automator",
+    "source": "qa"
+  },
+  {
+    "name": "Patrol",
+    "category": "Cross-browser and real-device testing platforms",
+    "website": "https://patrol.leancode.co",
+    "source": "qa"
+  },
+  {
+    "name": "Postman",
+    "category": "API testing and service testing",
+    "website": "https://www.postman.com",
+    "source": "qa"
+  },
+  {
+    "name": "Bruno",
+    "category": "API testing and service testing",
+    "website": "https://www.usebruno.com",
+    "source": "qa"
+  },
+  {
+    "name": "Insomnia",
+    "category": "API testing and service testing",
+    "website": "https://insomnia.rest",
+    "source": "qa"
+  },
+  {
+    "name": "Hoppscotch",
+    "category": "API testing and service testing",
+    "website": "https://hoppscotch.io",
+    "source": "qa"
+  },
+  {
+    "name": "SoapUI",
+    "category": "API testing and service testing",
+    "website": "https://www.soapui.org",
+    "source": "qa"
+  },
+  {
+    "name": "ReadyAPI",
+    "category": "API testing and service testing",
+    "website": "https://smartbear.com/product/ready-api/",
+    "source": "qa"
+  },
+  {
+    "name": "Karate",
+    "category": "API testing and service testing",
+    "website": "https://karatelabs.io",
+    "source": "qa"
+  },
+  {
+    "name": "Rest Assured",
+    "category": "API testing and service testing",
+    "website": "https://rest-assured.io",
+    "source": "qa"
+  },
+  {
+    "name": "Pact",
+    "category": "API testing and service testing",
+    "website": "https://pact.io",
+    "source": "qa"
+  },
+  {
+    "name": "PactFlow",
+    "category": "API testing and service testing",
+    "website": "https://pactflow.io",
+    "source": "qa"
+  },
+  {
+    "name": "Schemathesis",
+    "category": "API testing and service testing",
+    "website": "https://schemathesis.readthedocs.io",
+    "source": "qa"
+  },
+  {
+    "name": "Dredd",
+    "category": "API testing and service testing",
+    "website": "https://dredd.org",
+    "source": "qa"
+  },
+  {
+    "name": "Hurl",
+    "category": "API testing and service testing",
+    "website": "https://hurl.dev",
+    "source": "qa"
+  },
+  {
+    "name": "HTTPie",
+    "category": "API testing and service testing",
+    "website": "https://httpie.io",
+    "source": "qa"
+  },
+  {
+    "name": "Kreya",
+    "category": "API testing and service testing",
+    "website": "https://kreya.app",
+    "source": "qa"
+  },
+  {
+    "name": "Yaak",
+    "category": "API testing and service testing",
+    "website": "https://yaak.app",
+    "source": "qa"
+  },
+  {
+    "name": "Step CI",
+    "category": "API testing and service testing",
+    "website": "https://stepci.com",
+    "source": "qa"
+  },
+  {
+    "name": "Speedscale",
+    "category": "API testing and service testing",
+    "website": "https://speedscale.com",
+    "source": "qa"
+  },
+  {
+    "name": "Parasoft SOAtest",
+    "category": "API testing and service testing",
+    "website": "https://www.parasoft.com/products/parasoft-soatest/",
+    "source": "qa"
+  },
+  {
+    "name": "Assertible",
+    "category": "API testing and service testing",
+    "website": "https://assertible.com",
+    "source": "qa"
+  },
+  {
+    "name": "Checkly",
+    "category": "API testing and service testing",
+    "website": "https://www.checklyhq.com",
+    "source": "qa"
+  },
+  {
+    "name": "Runscope",
+    "category": "API testing and service testing",
+    "website": "https://www.runscope.com",
+    "source": "qa"
+  },
+  {
+    "name": "API Fortress",
+    "category": "API testing and service testing",
+    "website": "https://apifortress.com",
+    "source": "qa"
+  },
+  {
+    "name": "APIsec",
+    "category": "API testing and service testing",
+    "website": "https://apisec.ai",
+    "source": "qa"
+  },
+  {
+    "name": "42Crunch",
+    "category": "API testing and service testing",
+    "website": "https://42crunch.com",
+    "source": "qa"
+  },
+  {
+    "name": "Wallarm",
+    "category": "API testing and service testing",
+    "website": "https://wallarm.com",
+    "source": "qa"
+  },
+  {
+    "name": "StepZen",
+    "category": "API testing and service testing",
+    "website": "https://stepzen.com",
+    "source": "qa"
+  },
+  {
+    "name": "GraphQL Inspector",
+    "category": "API testing and service testing",
+    "website": "https://graphql-inspector.com",
+    "source": "qa"
+  },
+  {
+    "name": "Apollo GraphOS",
+    "category": "API testing and service testing",
+    "website": "https://www.apollographql.com",
+    "source": "qa"
+  },
+  {
+    "name": "GraphQL Hive",
+    "category": "API testing and service testing",
+    "website": "https://the-guild.dev/graphql/hive",
+    "source": "qa"
+  },
+  {
+    "name": "Prism Mock Server",
+    "category": "API testing and service testing",
+    "website": "https://stoplight.io/open-source/prism",
+    "source": "qa"
+  },
+  {
+    "name": "OpenAPI Generator",
+    "category": "API testing and service testing",
+    "website": "https://openapi-generator.tech",
+    "source": "qa"
+  },
+  {
+    "name": "Tavern",
+    "category": "API testing and service testing",
+    "website": "https://tavern.readthedocs.io",
+    "source": "qa"
+  },
+  {
+    "name": "Newman",
+    "category": "API testing and service testing",
+    "website": "https://github.com/postmanlabs/newman",
+    "source": "qa"
+  },
+  {
+    "name": "Supertest",
+    "category": "API testing and service testing",
+    "website": "https://github.com/ladjs/supertest",
+    "source": "qa"
+  },
+  {
+    "name": "PactumJS",
+    "category": "API testing and service testing",
+    "website": "https://pactumjs.github.io",
+    "source": "qa"
+  },
+  {
+    "name": "k6",
+    "category": "Performance, load and stress testing",
+    "website": "https://grafana.com/oss/k6/",
+    "source": "qa"
+  },
+  {
+    "name": "Apache JMeter",
+    "category": "Performance, load and stress testing",
+    "website": "https://jmeter.apache.org",
+    "source": "qa"
+  },
+  {
+    "name": "Gatling",
+    "category": "Performance, load and stress testing",
+    "website": "https://gatling.io",
+    "source": "qa"
+  },
+  {
+    "name": "Locust",
+    "category": "Performance, load and stress testing",
+    "website": "https://locust.io",
+    "source": "qa"
+  },
+  {
+    "name": "Artillery",
+    "category": "Performance, load and stress testing",
+    "website": "https://www.artillery.io",
+    "source": "qa"
+  },
+  {
+    "name": "Vegeta",
+    "category": "Performance, load and stress testing",
+    "website": "https://github.com/tsenart/vegeta",
+    "source": "qa"
+  },
+  {
+    "name": "wrk",
+    "category": "Performance, load and stress testing",
+    "website": "https://github.com/wg/wrk",
+    "source": "qa"
+  },
+  {
+    "name": "wrk2",
+    "category": "Performance, load and stress testing",
+    "website": "https://github.com/giltene/wrk2",
+    "source": "qa"
+  },
+  {
+    "name": "oha",
+    "category": "Performance, load and stress testing",
+    "website": "https://github.com/hatoo/oha",
+    "source": "qa"
+  },
+  {
+    "name": "hey",
+    "category": "Performance, load and stress testing",
+    "website": "https://github.com/rakyll/hey",
+    "source": "qa"
+  },
+  {
+    "name": "Siege",
+    "category": "Performance, load and stress testing",
+    "website": "https://github.com/JoeDog/siege",
+    "source": "qa"
+  },
+  {
+    "name": "Tsung",
+    "category": "Performance, load and stress testing",
+    "website": "https://tsung.erlang-projects.org",
+    "source": "qa"
+  },
+  {
+    "name": "OpenSTA",
+    "category": "Performance, load and stress testing",
+    "website": "https://opensta.org",
+    "source": "qa"
+  },
+  {
+    "name": "LoadRunner",
+    "category": "Performance, load and stress testing",
+    "website": "https://www.opentext.com/products/loadrunner-professional",
+    "source": "qa"
+  },
+  {
+    "name": "NeoLoad",
+    "category": "Performance, load and stress testing",
+    "website": "https://www.tricentis.com/products/performance-testing-neoload",
+    "source": "qa"
+  },
+  {
+    "name": "BlazeMeter",
+    "category": "Performance, load and stress testing",
+    "website": "https://www.blazemeter.com",
+    "source": "qa"
+  },
+  {
+    "name": "Flood",
+    "category": "Performance, load and stress testing",
+    "website": "https://www.flood.io",
+    "source": "qa"
+  },
+  {
+    "name": "OctoPerf",
+    "category": "Performance, load and stress testing",
+    "website": "https://octoperf.com",
+    "source": "qa"
+  },
+  {
+    "name": "LoadView",
+    "category": "Performance, load and stress testing",
+    "website": "https://www.loadview-testing.com",
+    "source": "qa"
+  },
+  {
+    "name": "Loader.io",
+    "category": "Performance, load and stress testing",
+    "website": "https://loader.io",
+    "source": "qa"
+  },
+  {
+    "name": "Loadster",
+    "category": "Performance, load and stress testing",
+    "website": "https://loadster.app",
+    "source": "qa"
+  },
+  {
+    "name": "Hyperfoil",
+    "category": "Performance, load and stress testing",
+    "website": "https://hyperfoil.io",
+    "source": "qa"
+  },
+  {
+    "name": "Fortio",
+    "category": "Performance, load and stress testing",
+    "website": "https://fortio.org",
+    "source": "qa"
+  },
+  {
+    "name": "Bombardier",
+    "category": "Performance, load and stress testing",
+    "website": "https://github.com/codesenberg/bombardier",
+    "source": "qa"
+  },
+  {
+    "name": "Taurus",
+    "category": "Performance, load and stress testing",
+    "website": "https://gettaurus.org",
+    "source": "qa"
+  },
+  {
+    "name": "Autocannon",
+    "category": "Performance, load and stress testing",
+    "website": "https://github.com/mcollina/autocannon",
+    "source": "qa"
+  },
+  {
+    "name": "Faker",
+    "category": "Performance, load and stress testing",
+    "website": "https://fakerjs.dev",
+    "source": "qa"
+  },
+  {
+    "name": "Toxiproxy",
+    "category": "Performance, load and stress testing",
+    "website": "https://github.com/Shopify/toxiproxy",
+    "source": "qa"
+  },
+  {
+    "name": "Chaos Mesh",
+    "category": "Performance, load and stress testing",
+    "website": "https://chaos-mesh.org",
+    "source": "qa"
+  },
+  {
+    "name": "LitmusChaos",
+    "category": "Performance, load and stress testing",
+    "website": "https://litmuschaos.io",
+    "source": "qa"
+  },
+  {
+    "name": "axe DevTools",
+    "category": "Accessibility testing and WCAG compliance",
+    "website": "https://www.deque.com/axe/devtools/",
+    "source": "qa"
+  },
+  {
+    "name": "axe-core",
+    "category": "Accessibility testing and WCAG compliance",
+    "website": "https://github.com/dequelabs/axe-core",
+    "source": "qa"
+  },
+  {
+    "name": "WAVE",
+    "category": "Accessibility testing and WCAG compliance",
+    "website": "https://wave.webaim.org",
+    "source": "qa"
+  },
+  {
+    "name": "Lighthouse",
+    "category": "Accessibility testing and WCAG compliance",
+    "website": "https://developer.chrome.com/docs/lighthouse/",
+    "source": "qa"
+  },
+  {
+    "name": "Pa11y",
+    "category": "Accessibility testing and WCAG compliance",
+    "website": "https://pa11y.org",
+    "source": "qa"
+  },
+  {
+    "name": "Accessibility Insights",
+    "category": "Accessibility testing and WCAG compliance",
+    "website": "https://accessibilityinsights.io",
+    "source": "qa"
+  },
+  {
+    "name": "IBM Equal Access",
+    "category": "Accessibility testing and WCAG compliance",
+    "website": "https://www.ibm.com/able/toolkit/tools",
+    "source": "qa"
+  },
+  {
+    "name": "ARC Toolkit",
+    "category": "Accessibility testing and WCAG compliance",
+    "website": "https://www.tpgi.com/arc-platform/arc-toolkit/",
+    "source": "qa"
+  },
+  {
+    "name": "Siteimprove Accessibility",
+    "category": "Accessibility testing and WCAG compliance",
+    "website": "https://www.siteimprove.com",
+    "source": "qa"
+  },
+  {
+    "name": "Silktide",
+    "category": "Accessibility testing and WCAG compliance",
+    "website": "https://silktide.com",
+    "source": "qa"
+  },
+  {
+    "name": "EqualWeb",
+    "category": "Accessibility testing and WCAG compliance",
+    "website": "https://www.equalweb.com",
+    "source": "qa"
+  },
+  {
+    "name": "UserWay",
+    "category": "Accessibility testing and WCAG compliance",
+    "website": "https://userway.org",
+    "source": "qa"
+  },
+  {
+    "name": "Level Access",
+    "category": "Accessibility testing and WCAG compliance",
+    "website": "https://www.levelaccess.com",
+    "source": "qa"
+  },
+  {
+    "name": "Evinced",
+    "category": "Accessibility testing and WCAG compliance",
+    "website": "https://www.evinced.com",
+    "source": "qa"
+  },
+  {
+    "name": "Tenon",
+    "category": "Accessibility testing and WCAG compliance",
+    "website": "https://tenon.io",
+    "source": "qa"
+  },
+  {
+    "name": "HTML_CodeSniffer",
+    "category": "Accessibility testing and WCAG compliance",
+    "website": "https://squizlabs.github.io/HTML_CodeSniffer/",
+    "source": "qa"
+  },
+  {
+    "name": "ORCA",
+    "category": "Accessibility testing and WCAG compliance",
+    "website": "https://orca-software.com",
+    "source": "qa"
+  },
+  {
+    "name": "ANDI",
+    "category": "Accessibility testing and WCAG compliance",
+    "website": "https://www.ssa.gov/accessibility/andi/help/install.html",
+    "source": "qa"
+  },
+  {
+    "name": "Vitest",
+    "category": "Unit testing, integration testing and component testing",
+    "website": "https://vitest.dev",
+    "source": "qa"
+  },
+  {
+    "name": "Jest",
+    "category": "Unit testing, integration testing and component testing",
+    "website": "https://jestjs.io",
+    "source": "qa"
+  },
+  {
+    "name": "Mocha",
+    "category": "Unit testing, integration testing and component testing",
+    "website": "https://mochajs.org",
+    "source": "qa"
+  },
+  {
+    "name": "Chai",
+    "category": "Unit testing, integration testing and component testing",
+    "website": "https://www.chaijs.com",
+    "source": "qa"
+  },
+  {
+    "name": "Sinon.js",
+    "category": "Unit testing, integration testing and component testing",
+    "website": "https://sinonjs.org",
+    "source": "qa"
+  },
+  {
+    "name": "Testing Library",
+    "category": "Unit testing, integration testing and component testing",
+    "website": "https://testing-library.com",
+    "source": "qa"
+  },
+  {
+    "name": "React Testing Library",
+    "category": "Unit testing, integration testing and component testing",
+    "website": "https://testing-library.com/docs/react-testing-library/intro/",
+    "source": "qa"
+  },
+  {
+    "name": "Vue Test Utils",
+    "category": "Unit testing, integration testing and component testing",
+    "website": "https://test-utils.vuejs.org",
+    "source": "qa"
+  },
+  {
+    "name": "AVA",
+    "category": "Unit testing, integration testing and component testing",
+    "website": "https://github.com/avajs/ava",
+    "source": "qa"
+  },
+  {
+    "name": "Tap",
+    "category": "Unit testing, integration testing and component testing",
+    "website": "https://node-tap.org",
+    "source": "qa"
+  },
+  {
+    "name": "uvu",
+    "category": "Unit testing, integration testing and component testing",
+    "website": "https://github.com/lukeed/uvu",
+    "source": "qa"
+  },
+  {
+    "name": "QUnit",
+    "category": "Unit testing, integration testing and component testing",
+    "website": "https://qunitjs.com",
+    "source": "qa"
+  },
+  {
+    "name": "Jasmine",
+    "category": "Unit testing, integration testing and component testing",
+    "website": "https://jasmine.github.io",
+    "source": "qa"
+  },
+  {
+    "name": "Nock",
+    "category": "Unit testing, integration testing and component testing",
+    "website": "https://github.com/nock/nock",
+    "source": "qa"
+  },
+  {
+    "name": "PGlite",
+    "category": "Unit testing, integration testing and component testing",
+    "website": "https://pglite.dev",
+    "source": "qa"
+  },
+  {
+    "name": "pgTAP",
+    "category": "Unit testing, integration testing and component testing",
+    "website": "https://pgtap.org",
+    "source": "qa"
+  },
+  {
+    "name": "PHPUnit",
+    "category": "Unit testing, integration testing and component testing",
+    "website": "https://phpunit.de",
+    "source": "qa"
+  },
+  {
+    "name": "Pest",
+    "category": "Unit testing, integration testing and component testing",
+    "website": "https://pestphp.com",
+    "source": "qa"
+  },
+  {
+    "name": "Pytest",
+    "category": "Unit testing, integration testing and component testing",
+    "website": "https://pytest.org",
+    "source": "qa"
+  },
+  {
+    "name": "RSpec",
+    "category": "Unit testing, integration testing and component testing",
+    "website": "https://rspec.info",
+    "source": "qa"
+  },
+  {
+    "name": "JUnit",
+    "category": "Unit testing, integration testing and component testing",
+    "website": "https://junit.org",
+    "source": "qa"
+  },
+  {
+    "name": "TestNG",
+    "category": "Unit testing, integration testing and component testing",
+    "website": "https://testng.org",
+    "source": "qa"
+  },
+  {
+    "name": "NUnit",
+    "category": "Unit testing, integration testing and component testing",
+    "website": "https://nunit.org",
+    "source": "qa"
+  },
+  {
+    "name": "TestRail",
+    "category": "Test management, test cases and QA planning",
+    "website": "https://www.testrail.com",
+    "source": "qa"
+  },
+  {
+    "name": "Qase",
+    "category": "Test management, test cases and QA planning",
+    "website": "https://qase.io",
+    "source": "qa"
+  },
+  {
+    "name": "Xray",
+    "category": "Test management, test cases and QA planning",
+    "website": "https://www.getxray.app",
+    "source": "qa"
+  },
+  {
+    "name": "Zephyr",
+    "category": "Test management, test cases and QA planning",
+    "website": "https://smartbear.com/test-management/zephyr/",
+    "source": "qa"
+  },
+  {
+    "name": "Testmo",
+    "category": "Test management, test cases and QA planning",
+    "website": "https://www.testmo.com",
+    "source": "qa"
+  },
+  {
+    "name": "Kiwi TCMS",
+    "category": "Test management, test cases and QA planning",
+    "website": "https://kiwitcms.org",
+    "source": "qa"
+  },
+  {
+    "name": "PractiTest",
+    "category": "Test management, test cases and QA planning",
+    "website": "https://www.practitest.com",
+    "source": "qa"
+  },
+  {
+    "name": "Testiny",
+    "category": "Test management, test cases and QA planning",
+    "website": "https://www.testiny.io",
+    "source": "qa"
+  },
+  {
+    "name": "TestLink",
+    "category": "Test management, test cases and QA planning",
+    "website": "https://testlink.org",
+    "source": "qa"
+  },
+  {
+    "name": "TestCollab",
+    "category": "Test management, test cases and QA planning",
+    "website": "https://testcollab.com",
+    "source": "qa"
+  },
+  {
+    "name": "Tuskr",
+    "category": "Test management, test cases and QA planning",
+    "website": "https://tuskr.app",
+    "source": "qa"
+  },
+  {
+    "name": "TestCaseLab",
+    "category": "Test management, test cases and QA planning",
+    "website": "https://testcaselab.com",
+    "source": "qa"
+  },
+  {
+    "name": "TestMonitor",
+    "category": "Test management, test cases and QA planning",
+    "website": "https://www.testmonitor.com",
+    "source": "qa"
+  },
+  {
+    "name": "SpiraTest",
+    "category": "Test management, test cases and QA planning",
+    "website": "https://www.inflectra.com/SpiraTest/",
+    "source": "qa"
+  },
+  {
+    "name": "Aqua",
+    "category": "Test management, test cases and QA planning",
+    "website": "https://www.aqua-cloud.io",
+    "source": "qa"
+  },
+  {
+    "name": "QA Touch",
+    "category": "Test management, test cases and QA planning",
+    "website": "https://www.qatouch.com",
+    "source": "qa"
+  },
+  {
+    "name": "TestGear",
+    "category": "Test management, test cases and QA planning",
+    "website": "https://testgear.io",
+    "source": "qa"
+  },
+  {
+    "name": "Testpad",
+    "category": "Test management, test cases and QA planning",
+    "website": "https://testpad.com",
+    "source": "qa"
+  },
+  {
+    "name": "Testomat.io",
+    "category": "Test management, test cases and QA planning",
+    "website": "https://testomat.io",
+    "source": "qa"
+  },
+  {
+    "name": "Allure TestOps",
+    "category": "Test management, test cases and QA planning",
+    "website": "https://qameta.io",
+    "source": "qa"
+  },
+  {
+    "name": "ReportPortal",
+    "category": "Test management, test cases and QA planning",
+    "website": "https://reportportal.io",
+    "source": "qa"
+  },
+  {
+    "name": "Squash TM",
+    "category": "Test management, test cases and QA planning",
+    "website": "https://www.squashtest.com",
+    "source": "qa"
+  },
+  {
+    "name": "QMetry",
+    "category": "Test management, test cases and QA planning",
+    "website": "https://www.qmetry.com",
+    "source": "qa"
+  },
+  {
+    "name": "Testuff",
+    "category": "Test management, test cases and QA planning",
+    "website": "https://www.testuff.com",
+    "source": "qa"
+  },
+  {
+    "name": "TestLodge",
+    "category": "Test management, test cases and QA planning",
+    "website": "https://www.testlodge.com",
+    "source": "qa"
+  },
+  {
+    "name": "TestCase Studio",
+    "category": "Test management, test cases and QA planning",
+    "website": "https://selectorshub.com/testcase-studio/",
+    "source": "qa"
+  },
+  {
+    "name": "Sentry",
+    "category": "Bug reporting, issue tracking and session replay",
+    "website": "https://sentry.io",
+    "source": "qa"
+  },
+  {
+    "name": "Bugsnag",
+    "category": "Bug reporting, issue tracking and session replay",
+    "website": "https://www.bugsnag.com",
+    "source": "qa"
+  },
+  {
+    "name": "Rollbar",
+    "category": "Bug reporting, issue tracking and session replay",
+    "website": "https://rollbar.com",
+    "source": "qa"
+  },
+  {
+    "name": "Airbrake",
+    "category": "Bug reporting, issue tracking and session replay",
+    "website": "https://airbrake.io",
+    "source": "qa"
+  },
+  {
+    "name": "Raygun",
+    "category": "Bug reporting, issue tracking and session replay",
+    "website": "https://raygun.com",
+    "source": "qa"
+  },
+  {
+    "name": "LogRocket",
+    "category": "Bug reporting, issue tracking and session replay",
+    "website": "https://logrocket.com",
+    "source": "qa"
+  },
+  {
+    "name": "FullStory",
+    "category": "Bug reporting, issue tracking and session replay",
+    "website": "https://www.fullstory.com",
+    "source": "qa"
+  },
+  {
+    "name": "PostHog",
+    "category": "Bug reporting, issue tracking and session replay",
+    "website": "https://posthog.com",
+    "source": "qa"
+  },
+  {
+    "name": "Highlight.io",
+    "category": "Bug reporting, issue tracking and session replay",
+    "website": "https://www.highlight.io",
+    "source": "qa"
+  },
+  {
+    "name": "OpenReplay",
+    "category": "Bug reporting, issue tracking and session replay",
+    "website": "https://openreplay.com",
+    "source": "qa"
+  },
+  {
+    "name": "GlitchTip",
+    "category": "Bug reporting, issue tracking and session replay",
+    "website": "https://glitchtip.com",
+    "source": "qa"
+  },
+  {
+    "name": "Errbit",
+    "category": "Bug reporting, issue tracking and session replay",
+    "website": "https://github.com/errbit/errbit",
+    "source": "qa"
+  },
+  {
+    "name": "TrackJS",
+    "category": "Bug reporting, issue tracking and session replay",
+    "website": "https://trackjs.com",
+    "source": "qa"
+  },
+  {
+    "name": "Jam",
+    "category": "Bug reporting, issue tracking and session replay",
+    "website": "https://jam.dev",
+    "source": "qa"
+  },
+  {
+    "name": "Marker.io",
+    "category": "Bug reporting, issue tracking and session replay",
+    "website": "https://marker.io",
+    "source": "qa"
+  },
+  {
+    "name": "Usersnap",
+    "category": "Bug reporting, issue tracking and session replay",
+    "website": "https://usersnap.com",
+    "source": "qa"
+  },
+  {
+    "name": "Bird Eats Bug",
+    "category": "Bug reporting, issue tracking and session replay",
+    "website": "https://birdeatsbug.com",
+    "source": "qa"
+  },
+  {
+    "name": "BugHerd",
+    "category": "Bug reporting, issue tracking and session replay",
+    "website": "https://bugherd.com",
+    "source": "qa"
+  },
+  {
+    "name": "Pastel",
+    "category": "Bug reporting, issue tracking and session replay",
+    "website": "https://usepastel.com",
+    "source": "qa"
+  },
+  {
+    "name": "zipBoard",
+    "category": "Bug reporting, issue tracking and session replay",
+    "website": "https://zipboard.co",
+    "source": "qa"
+  },
+  {
+    "name": "Shake",
+    "category": "Bug reporting, issue tracking and session replay",
+    "website": "https://www.shakebugs.com",
+    "source": "qa"
+  },
+  {
+    "name": "Instabug",
+    "category": "Bug reporting, issue tracking and session replay",
+    "website": "https://www.instabug.com",
+    "source": "qa"
+  },
+  {
+    "name": "Embrace",
+    "category": "Bug reporting, issue tracking and session replay",
+    "website": "https://embrace.io",
+    "source": "qa"
+  },
+  {
+    "name": "Firebase Crashlytics",
+    "category": "Bug reporting, issue tracking and session replay",
+    "website": "https://firebase.google.com/products/crashlytics",
+    "source": "qa"
+  },
+  {
+    "name": "Honeybadger",
+    "category": "Bug reporting, issue tracking and session replay",
+    "website": "https://www.honeybadger.io",
+    "source": "qa"
+  },
+  {
+    "name": "Bugzilla",
+    "category": "Bug reporting, issue tracking and session replay",
+    "website": "https://www.bugzilla.org",
+    "source": "qa"
+  },
+  {
+    "name": "MantisBT",
+    "category": "Bug reporting, issue tracking and session replay",
+    "website": "https://www.mantisbt.org",
+    "source": "qa"
+  },
+  {
+    "name": "Focalboard",
+    "category": "Bug reporting, issue tracking and session replay",
+    "website": "https://www.focalboard.com",
+    "source": "qa"
+  },
+  {
+    "name": "Plane",
+    "category": "Bug reporting, issue tracking and session replay",
+    "website": "https://plane.so",
+    "source": "qa"
+  },
+  {
+    "name": "OpenProject",
+    "category": "Bug reporting, issue tracking and session replay",
+    "website": "https://www.openproject.org",
+    "source": "qa"
+  },
+  {
+    "name": "OWASP ZAP",
+    "category": "Security, penetration testing and vulnerability testing",
+    "website": "https://www.zaproxy.org",
+    "source": "qa"
+  },
+  {
+    "name": "Burp Suite",
+    "category": "Security, penetration testing and vulnerability testing",
+    "website": "https://portswigger.net/burp",
+    "source": "qa"
+  },
+  {
+    "name": "Nuclei",
+    "category": "Security, penetration testing and vulnerability testing",
+    "website": "https://github.com/projectdiscovery/nuclei",
+    "source": "qa"
+  },
+  {
+    "name": "StackHawk",
+    "category": "Security, penetration testing and vulnerability testing",
+    "website": "https://www.stackhawk.com",
+    "source": "qa"
+  },
+  {
+    "name": "Probely",
+    "category": "Security, penetration testing and vulnerability testing",
+    "website": "https://probely.com",
+    "source": "qa"
+  },
+  {
+    "name": "Invicti",
+    "category": "Security, penetration testing and vulnerability testing",
+    "website": "https://www.invicti.com",
+    "source": "qa"
+  },
+  {
+    "name": "Acunetix",
+    "category": "Security, penetration testing and vulnerability testing",
+    "website": "https://www.acunetix.com",
+    "source": "qa"
+  },
+  {
+    "name": "Detectify",
+    "category": "Security, penetration testing and vulnerability testing",
+    "website": "https://detectify.com",
+    "source": "qa"
+  },
+  {
+    "name": "Bright Security",
+    "category": "Security, penetration testing and vulnerability testing",
+    "website": "https://brightsec.com",
+    "source": "qa"
+  },
+  {
+    "name": "Escape",
+    "category": "Security, penetration testing and vulnerability testing",
+    "website": "https://escape.tech",
+    "source": "qa"
+  },
+  {
+    "name": "Astra Security",
+    "category": "Security, penetration testing and vulnerability testing",
+    "website": "https://www.getastra.com",
+    "source": "qa"
+  },
+  {
+    "name": "Intruder",
+    "category": "Security, penetration testing and vulnerability testing",
+    "website": "https://www.intruder.io",
+    "source": "qa"
+  },
+  {
+    "name": "Snyk",
+    "category": "Security, penetration testing and vulnerability testing",
+    "website": "https://snyk.io",
+    "source": "qa"
+  },
+  {
+    "name": "Semgrep",
+    "category": "Security, penetration testing and vulnerability testing",
+    "website": "https://semgrep.dev",
+    "source": "qa"
+  },
+  {
+    "name": "SonarQube",
+    "category": "Security, penetration testing and vulnerability testing",
+    "website": "https://www.sonarsource.com/products/sonarqube/",
+    "source": "qa"
+  },
+  {
+    "name": "Checkmarx",
+    "category": "Security, penetration testing and vulnerability testing",
+    "website": "https://checkmarx.com",
+    "source": "qa"
+  },
+  {
+    "name": "Veracode",
+    "category": "Security, penetration testing and vulnerability testing",
+    "website": "https://www.veracode.com",
+    "source": "qa"
+  },
+  {
+    "name": "CodeQL",
+    "category": "Security, penetration testing and vulnerability testing",
+    "website": "https://codeql.github.com",
+    "source": "qa"
+  },
+  {
+    "name": "Trivy",
+    "category": "Security, penetration testing and vulnerability testing",
+    "website": "https://trivy.dev",
+    "source": "qa"
+  },
+  {
+    "name": "Grype",
+    "category": "Security, penetration testing and vulnerability testing",
+    "website": "https://github.com/anchore/grype",
+    "source": "qa"
+  },
+  {
+    "name": "Syft",
+    "category": "Security, penetration testing and vulnerability testing",
+    "website": "https://github.com/anchore/syft",
+    "source": "qa"
+  },
+  {
+    "name": "OWASP Dependency-Check",
+    "category": "Security, penetration testing and vulnerability testing",
+    "website": "https://owasp.org/www-project-dependency-check/",
+    "source": "qa"
+  },
+  {
+    "name": "OSV-Scanner",
+    "category": "Security, penetration testing and vulnerability testing",
+    "website": "https://google.github.io/osv-scanner/",
+    "source": "qa"
+  },
+  {
+    "name": "TruffleHog",
+    "category": "Security, penetration testing and vulnerability testing",
+    "website": "https://github.com/trufflesecurity/trufflehog",
+    "source": "qa"
+  },
+  {
+    "name": "Gitleaks",
+    "category": "Security, penetration testing and vulnerability testing",
+    "website": "https://github.com/gitleaks/gitleaks",
+    "source": "qa"
+  },
+  {
+    "name": "Checkov",
+    "category": "Security, penetration testing and vulnerability testing",
+    "website": "https://www.checkov.io",
+    "source": "qa"
+  },
+  {
+    "name": "Terrascan",
+    "category": "Security, penetration testing and vulnerability testing",
+    "website": "https://github.com/tenable/terrascan",
+    "source": "qa"
+  },
+  {
+    "name": "Prowler",
+    "category": "Security, penetration testing and vulnerability testing",
+    "website": "https://prowler.com",
+    "source": "qa"
+  },
+  {
+    "name": "ScoutSuite",
+    "category": "Security, penetration testing and vulnerability testing",
+    "website": "https://github.com/nccgroup/ScoutSuite",
+    "source": "qa"
+  },
+  {
+    "name": "Dependency-Track",
+    "category": "Security, penetration testing and vulnerability testing",
+    "website": "https://dependencytrack.org",
+    "source": "qa"
+  },
+  {
+    "name": "Great Expectations",
+    "category": "Data validation, database testing and reliability",
+    "website": "https://greatexpectations.io",
+    "source": "qa"
+  },
+  {
+    "name": "Soda",
+    "category": "Data validation, database testing and reliability",
+    "website": "https://www.soda.io",
+    "source": "qa"
+  },
+  {
+    "name": "dbt Tests",
+    "category": "Data validation, database testing and reliability",
+    "website": "https://docs.getdbt.com/docs/build/data-tests",
+    "source": "qa"
+  },
+  {
+    "name": "Elementary",
+    "category": "Data validation, database testing and reliability",
+    "website": "https://www.elementary-data.com",
+    "source": "qa"
+  },
+  {
+    "name": "Datafold",
+    "category": "Data validation, database testing and reliability",
+    "website": "https://www.datafold.com",
+    "source": "qa"
+  },
+  {
+    "name": "Monte Carlo",
+    "category": "Data validation, database testing and reliability",
+    "website": "https://www.montecarlodata.com",
+    "source": "qa"
+  },
+  {
+    "name": "Bigeye",
+    "category": "Data validation, database testing and reliability",
+    "website": "https://www.bigeye.com",
+    "source": "qa"
+  },
+  {
+    "name": "Anomalo",
+    "category": "Data validation, database testing and reliability",
+    "website": "https://www.anomalo.com",
+    "source": "qa"
+  },
+  {
+    "name": "Metaplane",
+    "category": "Data validation, database testing and reliability",
+    "website": "https://www.metaplane.dev",
+    "source": "qa"
+  },
+  {
+    "name": "Validio",
+    "category": "Data validation, database testing and reliability",
+    "website": "https://validio.io",
+    "source": "qa"
+  },
+  {
+    "name": "Deequ",
+    "category": "Data validation, database testing and reliability",
+    "website": "https://github.com/awslabs/deequ",
+    "source": "qa"
+  },
+  {
+    "name": "Pandera",
+    "category": "Data validation, database testing and reliability",
+    "website": "https://pandera.readthedocs.io",
+    "source": "qa"
+  },
+  {
+    "name": "Frictionless",
+    "category": "Data validation, database testing and reliability",
+    "website": "https://framework.frictionlessdata.io",
+    "source": "qa"
+  },
+  {
+    "name": "Pydantic",
+    "category": "Data validation, database testing and reliability",
+    "website": "https://docs.pydantic.dev",
+    "source": "qa"
+  },
+  {
+    "name": "Cerberus",
+    "category": "Data validation, database testing and reliability",
+    "website": "https://docs.python-cerberus.org",
+    "source": "qa"
+  },
+  {
+    "name": "JSON Schema",
+    "category": "Data validation, database testing and reliability",
+    "website": "https://json-schema.org",
+    "source": "qa"
+  },
+  {
+    "name": "Ajv",
+    "category": "Data validation, database testing and reliability",
+    "website": "https://ajv.js.org",
+    "source": "qa"
+  },
+  {
+    "name": "Zod",
+    "category": "Data validation, database testing and reliability",
+    "website": "https://zod.dev",
+    "source": "qa"
+  },
+  {
+    "name": "Valibot",
+    "category": "Data validation, database testing and reliability",
+    "website": "https://valibot.dev",
+    "source": "qa"
+  },
+  {
+    "name": "Joi",
+    "category": "Data validation, database testing and reliability",
+    "website": "https://joi.dev",
+    "source": "qa"
+  },
+  {
+    "name": "Yup",
+    "category": "Data validation, database testing and reliability",
+    "website": "https://github.com/jquense/yup",
+    "source": "qa"
+  },
+  {
+    "name": "tSQLt",
+    "category": "Data validation, database testing and reliability",
+    "website": "https://tsqlt.org",
+    "source": "qa"
+  },
+  {
+    "name": "SQLFluff",
+    "category": "Data validation, database testing and reliability",
+    "website": "https://www.sqlfluff.com",
+    "source": "qa"
+  },
+  {
+    "name": "SQLMesh",
+    "category": "Data validation, database testing and reliability",
+    "website": "https://sqlmesh.com",
+    "source": "qa"
+  },
+  {
+    "name": "DuckDB",
+    "category": "Data validation, database testing and reliability",
+    "website": "https://duckdb.org",
+    "source": "qa"
+  },
+  {
+    "name": "Mailosaur",
+    "category": "Email, notifications, payment and third-party integration testing",
+    "website": "https://mailosaur.com",
+    "source": "qa"
+  },
+  {
+    "name": "Mailtrap",
+    "category": "Email, notifications, payment and third-party integration testing",
+    "website": "https://mailtrap.io",
+    "source": "qa"
+  },
+  {
+    "name": "MailHog",
+    "category": "Email, notifications, payment and third-party integration testing",
+    "website": "https://github.com/mailhog/MailHog",
+    "source": "qa"
+  },
+  {
+    "name": "Mailpit",
+    "category": "Email, notifications, payment and third-party integration testing",
+    "website": "https://mailpit.axllent.org",
+    "source": "qa"
+  },
+  {
+    "name": "Ethereal Email",
+    "category": "Email, notifications, payment and third-party integration testing",
+    "website": "https://ethereal.email",
+    "source": "qa"
+  },
+  {
+    "name": "Inbucket",
+    "category": "Email, notifications, payment and third-party integration testing",
+    "website": "https://inbucket.org",
+    "source": "qa"
+  },
+  {
+    "name": "Webhook.site",
+    "category": "Email, notifications, payment and third-party integration testing",
+    "website": "https://webhook.site",
+    "source": "qa"
+  },
+  {
+    "name": "Hookdeck",
+    "category": "Email, notifications, payment and third-party integration testing",
+    "website": "https://hookdeck.com",
+    "source": "qa"
+  },
+  {
+    "name": "Svix",
+    "category": "Email, notifications, payment and third-party integration testing",
+    "website": "https://www.svix.com",
+    "source": "qa"
+  },
+  {
+    "name": "ngrok",
+    "category": "Email, notifications, payment and third-party integration testing",
+    "website": "https://ngrok.com",
+    "source": "qa"
+  },
+  {
+    "name": "RequestBin",
+    "category": "Email, notifications, payment and third-party integration testing",
+    "website": "https://requestbin.com",
+    "source": "qa"
+  },
+  {
+    "name": "Beeceptor",
+    "category": "Email, notifications, payment and third-party integration testing",
+    "website": "https://beeceptor.com",
+    "source": "qa"
+  },
+  {
+    "name": "MockServer",
+    "category": "Email, notifications, payment and third-party integration testing",
+    "website": "https://www.mock-server.com",
+    "source": "qa"
+  },
+  {
+    "name": "LocalStack",
+    "category": "Email, notifications, payment and third-party integration testing",
+    "website": "https://www.localstack.cloud",
+    "source": "qa"
+  },
+  {
+    "name": "Stripe CLI",
+    "category": "Email, notifications, payment and third-party integration testing",
+    "website": "https://docs.stripe.com/stripe-cli",
+    "source": "qa"
+  },
+  {
+    "name": "Resend",
+    "category": "Email, notifications, payment and third-party integration testing",
+    "website": "https://resend.com",
+    "source": "qa"
+  },
+  {
+    "name": "Postmark",
+    "category": "Email, notifications, payment and third-party integration testing",
+    "website": "https://postmarkapp.com",
+    "source": "qa"
+  },
+  {
+    "name": "Mailgun",
+    "category": "Email, notifications, payment and third-party integration testing",
+    "website": "https://www.mailgun.com",
+    "source": "qa"
+  },
+  {
+    "name": "SendGrid",
+    "category": "Email, notifications, payment and third-party integration testing",
+    "website": "https://sendgrid.com",
+    "source": "qa"
+  },
+  {
+    "name": "Novu",
+    "category": "Email, notifications, payment and third-party integration testing",
+    "website": "https://novu.co",
+    "source": "qa"
+  },
+  {
+    "name": "Courier",
+    "category": "Email, notifications, payment and third-party integration testing",
+    "website": "https://www.courier.com",
+    "source": "qa"
+  },
+  {
+    "name": "Knock",
+    "category": "Email, notifications, payment and third-party integration testing",
+    "website": "https://knock.app",
+    "source": "qa"
+  },
+  {
+    "name": "Polypane",
+    "category": "Visual inspection, design QA and UI review",
+    "website": "https://polypane.app",
+    "source": "qa"
+  },
+  {
+    "name": "Responsively App",
+    "category": "Visual inspection, design QA and UI review",
+    "website": "https://responsively.app",
+    "source": "qa"
+  },
+  {
+    "name": "Sizzy",
+    "category": "Visual inspection, design QA and UI review",
+    "website": "https://sizzy.co",
+    "source": "qa"
+  },
+  {
+    "name": "VisBug",
+    "category": "Visual inspection, design QA and UI review",
+    "website": "https://github.com/GoogleChromeLabs/ProjectVisBug",
+    "source": "qa"
+  },
+  {
+    "name": "CSS Peeper",
+    "category": "Visual inspection, design QA and UI review",
+    "website": "https://csspeeper.com",
+    "source": "qa"
+  },
+  {
+    "name": "PerfectPixel",
+    "category": "Visual inspection, design QA and UI review",
+    "website": "https://www.welldonecode.com/perfectpixel/",
+    "source": "qa"
+  },
+  {
+    "name": "WhatFont",
+    "category": "Visual inspection, design QA and UI review",
+    "website": "https://www.chengyinliu.com/whatfont.html",
+    "source": "qa"
+  },
+  {
+    "name": "PageSpeed Insights",
+    "category": "Visual inspection, design QA and UI review",
+    "website": "https://pagespeed.web.dev",
+    "source": "qa"
+  },
+  {
+    "name": "WebPageTest",
+    "category": "Visual inspection, design QA and UI review",
+    "website": "https://www.webpagetest.org",
+    "source": "qa"
+  },
+  {
+    "name": "DebugBear",
+    "category": "Visual inspection, design QA and UI review",
+    "website": "https://www.debugbear.com",
+    "source": "qa"
+  },
+  {
+    "name": "Calibre",
+    "category": "Visual inspection, design QA and UI review",
+    "website": "https://calibreapp.com",
+    "source": "qa"
+  },
+  {
+    "name": "SpeedCurve",
+    "category": "Visual inspection, design QA and UI review",
+    "website": "https://www.speedcurve.com",
+    "source": "qa"
+  },
+  {
+    "name": "Sitespeed.io",
+    "category": "Visual inspection, design QA and UI review",
+    "website": "https://www.sitespeed.io",
+    "source": "qa"
+  },
+  {
+    "name": "Requestly",
+    "category": "Visual inspection, design QA and UI review",
+    "website": "https://requestly.com",
+    "source": "qa"
+  },
+  {
+    "name": "Unlighthouse",
+    "category": "Visual inspection, design QA and UI review",
+    "website": "https://unlighthouse.dev",
+    "source": "qa"
+  },
+  {
+    "name": "GitHub Actions",
+    "category": "CI/CD, test reporting and test infrastructure",
+    "website": "https://github.com/features/actions",
+    "source": "qa"
+  },
+  {
+    "name": "GitLab CI/CD",
+    "category": "CI/CD, test reporting and test infrastructure",
+    "website": "https://docs.gitlab.com/ee/ci/",
+    "source": "qa"
+  },
+  {
+    "name": "Jenkins",
+    "category": "CI/CD, test reporting and test infrastructure",
+    "website": "https://www.jenkins.io",
+    "source": "qa"
+  },
+  {
+    "name": "Buildkite",
+    "category": "CI/CD, test reporting and test infrastructure",
+    "website": "https://buildkite.com",
+    "source": "qa"
+  },
+  {
+    "name": "CircleCI",
+    "category": "CI/CD, test reporting and test infrastructure",
+    "website": "https://circleci.com",
+    "source": "qa"
+  },
+  {
+    "name": "Azure DevOps",
+    "category": "CI/CD, test reporting and test infrastructure",
+    "website": "https://azure.microsoft.com/products/devops",
+    "source": "qa"
+  },
+  {
+    "name": "Bitbucket Pipelines",
+    "category": "CI/CD, test reporting and test infrastructure",
+    "website": "https://bitbucket.org/product/features/pipelines",
+    "source": "qa"
+  },
+  {
+    "name": "TeamCity",
+    "category": "CI/CD, test reporting and test infrastructure",
+    "website": "https://www.jetbrains.com/teamcity/",
+    "source": "qa"
+  },
+  {
+    "name": "Bamboo",
+    "category": "CI/CD, test reporting and test infrastructure",
+    "website": "https://www.atlassian.com/software/bamboo",
+    "source": "qa"
+  },
+  {
+    "name": "Argo CD",
+    "category": "CI/CD, test reporting and test infrastructure",
+    "website": "https://argo-cd.readthedocs.io",
+    "source": "qa"
+  },
+  {
+    "name": "Allure Report",
+    "category": "CI/CD, test reporting and test infrastructure",
+    "website": "https://allurereport.org",
+    "source": "qa"
+  },
+  {
+    "name": "Monocart Reporter",
+    "category": "CI/CD, test reporting and test infrastructure",
+    "website": "https://github.com/cenfun/monocart-reporter",
+    "source": "qa"
+  },
+  {
+    "name": "Mochawesome",
+    "category": "CI/CD, test reporting and test infrastructure",
+    "website": "https://github.com/adamgruber/mochawesome",
+    "source": "qa"
+  },
+  {
+    "name": "Currents",
+    "category": "CI/CD, test reporting and test infrastructure",
+    "website": "https://currents.dev",
+    "source": "qa"
+  },
+  {
+    "name": "Knapsack Pro",
+    "category": "CI/CD, test reporting and test infrastructure",
+    "website": "https://knapsackpro.com",
+    "source": "qa"
+  },
+  {
+    "name": "BuildPulse",
+    "category": "CI/CD, test reporting and test infrastructure",
+    "website": "https://buildpulse.io",
+    "source": "qa"
+  },
+  {
+    "name": "Launchable",
+    "category": "CI/CD, test reporting and test infrastructure",
+    "website": "https://www.launchableinc.com",
+    "source": "qa"
+  },
+  {
+    "name": "Trunk",
+    "category": "CI/CD, test reporting and test infrastructure",
+    "website": "https://trunk.io",
+    "source": "qa"
+  },
+  {
+    "name": "ChatGPT",
+    "category": "AI coding assistants and agents",
+    "website": "https://chatgpt.com",
+    "source": "ai"
+  },
+  {
+    "name": "Claude",
+    "category": "AI coding assistants and agents",
+    "website": "https://claude.com",
+    "source": "ai"
+  },
+  {
+    "name": "Claude Code",
+    "category": "AI coding assistants and agents",
+    "website": "https://claude-code.com",
+    "source": "ai"
+  },
+  {
+    "name": "OpenAI Codex",
+    "category": "AI coding assistants and agents",
+    "website": "https://openai-codex.com",
+    "source": "ai"
+  },
+  {
+    "name": "GitHub Copilot",
+    "category": "AI coding assistants and agents",
+    "website": "https://github-copilot.com",
+    "source": "ai"
+  },
+  {
+    "name": "Cursor",
+    "category": "AI coding assistants and agents",
+    "website": "https://cursor.com",
+    "source": "ai"
+  },
+  {
+    "name": "Windsurf",
+    "category": "AI coding assistants and agents",
+    "website": "https://windsurf.com",
+    "source": "ai"
+  },
+  {
+    "name": "Google Antigravity",
+    "category": "AI coding assistants and agents",
+    "website": "https://google-antigravity.com",
+    "source": "ai"
+  },
+  {
+    "name": "Gemini Code Assist",
+    "category": "AI coding assistants and agents",
+    "website": "https://gemini-code-assist.com",
+    "source": "ai"
+  },
+  {
+    "name": "Amazon Q Developer",
+    "category": "AI coding assistants and agents",
+    "website": "https://amazon-q-developer.com",
+    "source": "ai"
+  },
+  {
+    "name": "Augment Code",
+    "category": "AI coding assistants and agents",
+    "website": "https://augment-code.com",
+    "source": "ai"
+  },
+  {
+    "name": "Devin",
+    "category": "AI coding assistants and agents",
+    "website": "https://devin.com",
+    "source": "ai"
+  },
+  {
+    "name": "Replit Agent",
+    "category": "AI coding assistants and agents",
+    "website": "https://replit-agent.com",
+    "source": "ai"
+  },
+  {
+    "name": "Aider",
+    "category": "AI coding assistants and agents",
+    "website": "https://aider.com",
+    "source": "ai"
+  },
+  {
+    "name": "Cline",
+    "category": "AI coding assistants and agents",
+    "website": "https://cline.com",
+    "source": "ai"
+  },
+  {
+    "name": "Roo Code",
+    "category": "AI coding assistants and agents",
+    "website": "https://roo-code.com",
+    "source": "ai"
+  },
+  {
+    "name": "Continue",
+    "category": "AI coding assistants and agents",
+    "website": "https://continue.com",
+    "source": "ai"
+  },
+  {
+    "name": "OpenCode",
+    "category": "AI coding assistants and agents",
+    "website": "https://opencode.com",
+    "source": "ai"
+  },
+  {
+    "name": "Tabnine",
+    "category": "AI coding assistants and agents",
+    "website": "https://tabnine.com",
+    "source": "ai"
+  },
+  {
+    "name": "Sourcegraph Amp",
+    "category": "AI coding assistants and agents",
+    "website": "https://sourcegraph-amp.com",
+    "source": "ai"
+  },
+  {
+    "name": "Zed",
+    "category": "AI coding assistants and agents",
+    "website": "https://zed.com",
+    "source": "ai"
+  },
+  {
+    "name": "JetBrains Junie",
+    "category": "AI coding assistants and agents",
+    "website": "https://jetbrains-junie.com",
+    "source": "ai"
+  },
+  {
+    "name": "Kiro",
+    "category": "AI coding assistants and agents",
+    "website": "https://kiro.com",
+    "source": "ai"
+  },
+  {
+    "name": "Gemini CLI",
+    "category": "AI coding assistants and agents",
+    "website": "https://gemini-cli.com",
+    "source": "ai"
+  },
+  {
+    "name": "Qwen Code",
+    "category": "AI coding assistants and agents",
+    "website": "https://qwen-code.com",
+    "source": "ai"
+  },
+  {
+    "name": "Goose",
+    "category": "AI coding assistants and agents",
+    "website": "https://goose.com",
+    "source": "ai"
+  },
+  {
+    "name": "Plandex",
+    "category": "AI coding assistants and agents",
+    "website": "https://plandex.com",
+    "source": "ai"
+  },
+  {
+    "name": "Mentat",
+    "category": "AI coding assistants and agents",
+    "website": "https://mentat.com",
+    "source": "ai"
+  },
+  {
+    "name": "GPT Pilot",
+    "category": "AI coding assistants and agents",
+    "website": "https://gpt-pilot.com",
+    "source": "ai"
+  },
+  {
+    "name": "Smol Developer",
+    "category": "AI coding assistants and agents",
+    "website": "https://smol-developer.com",
+    "source": "ai"
+  },
+  {
+    "name": "Factory",
+    "category": "AI coding assistants and agents",
+    "website": "https://factory.com",
+    "source": "ai"
+  },
+  {
+    "name": "Warp",
+    "category": "AI coding assistants and agents",
+    "website": "https://warp.com",
+    "source": "ai"
+  },
+  {
+    "name": "Lovable",
+    "category": "AI app and website builders",
+    "website": "https://lovable.com",
+    "source": "ai"
+  },
+  {
+    "name": "Bolt.new",
+    "category": "AI app and website builders",
+    "website": "https://bolt-new.com",
+    "source": "ai"
+  },
+  {
+    "name": "v0",
+    "category": "AI app and website builders",
+    "website": "https://v0.com",
+    "source": "ai"
+  },
+  {
+    "name": "Replit",
+    "category": "AI app and website builders",
+    "website": "https://replit.com",
+    "source": "ai"
+  },
+  {
+    "name": "Firebase Studio",
+    "category": "AI app and website builders",
+    "website": "https://firebase-studio.com",
+    "source": "ai"
+  },
+  {
+    "name": "Google AI Studio",
+    "category": "AI app and website builders",
+    "website": "https://google-ai-studio.com",
+    "source": "ai"
+  },
+  {
+    "name": "Base44",
+    "category": "AI app and website builders",
+    "website": "https://base44.com",
+    "source": "ai"
+  },
+  {
+    "name": "Create",
+    "category": "AI app and website builders",
+    "website": "https://create.com",
+    "source": "ai"
+  },
+  {
+    "name": "Databutton",
+    "category": "AI app and website builders",
+    "website": "https://databutton.com",
+    "source": "ai"
+  },
+  {
+    "name": "Softgen",
+    "category": "AI app and website builders",
+    "website": "https://softgen.com",
+    "source": "ai"
+  },
+  {
+    "name": "Lazy AI",
+    "category": "AI app and website builders",
+    "website": "https://lazy-ai.com",
+    "source": "ai"
+  },
+  {
+    "name": "Dyad",
+    "category": "AI app and website builders",
+    "website": "https://dyad.com",
+    "source": "ai"
+  },
+  {
+    "name": "Tempo Labs",
+    "category": "AI app and website builders",
+    "website": "https://tempo-labs.com",
+    "source": "ai"
+  },
+  {
+    "name": "Same",
+    "category": "AI app and website builders",
+    "website": "https://same.com",
+    "source": "ai"
+  },
+  {
+    "name": "Marblism",
+    "category": "AI app and website builders",
+    "website": "https://marblism.com",
+    "source": "ai"
+  },
+  {
+    "name": "Anything",
+    "category": "AI app and website builders",
+    "website": "https://anything.com",
+    "source": "ai"
+  },
+  {
+    "name": "Builder.io",
+    "category": "AI app and website builders",
+    "website": "https://builder-io.com",
+    "source": "ai"
+  },
+  {
+    "name": "Onlook",
+    "category": "AI app and website builders",
+    "website": "https://onlook.com",
+    "source": "ai"
+  },
+  {
+    "name": "Webflow AI",
+    "category": "AI app and website builders",
+    "website": "https://webflow-ai.com",
+    "source": "ai"
+  },
+  {
+    "name": "Framer AI",
+    "category": "AI app and website builders",
+    "website": "https://framer-ai.com",
+    "source": "ai"
+  },
+  {
+    "name": "WordPress AI",
+    "category": "AI app and website builders",
+    "website": "https://wordpress-ai.com",
+    "source": "ai"
+  },
+  {
+    "name": "Hostinger AI Website Builder",
+    "category": "AI app and website builders",
+    "website": "https://hostinger-ai-website-builder.com",
+    "source": "ai"
+  },
+  {
+    "name": "Wix AI",
+    "category": "AI app and website builders",
+    "website": "https://wix-ai.com",
+    "source": "ai"
+  },
+  {
+    "name": "Durable",
+    "category": "AI app and website builders",
+    "website": "https://durable.com",
+    "source": "ai"
+  },
+  {
+    "name": "10Web",
+    "category": "AI app and website builders",
+    "website": "https://10web.com",
+    "source": "ai"
+  },
+  {
+    "name": "Figma AI",
+    "category": "AI UI, UX and frontend design",
+    "website": "https://figma-ai.com",
+    "source": "ai"
+  },
+  {
+    "name": "Figma Make",
+    "category": "AI UI, UX and frontend design",
+    "website": "https://figma-make.com",
+    "source": "ai"
+  },
+  {
+    "name": "Uizard",
+    "category": "AI UI, UX and frontend design",
+    "website": "https://uizard.com",
+    "source": "ai"
+  },
+  {
+    "name": "Galileo AI",
+    "category": "AI UI, UX and frontend design",
+    "website": "https://galileo-ai.com",
+    "source": "ai"
+  },
+  {
+    "name": "Magic Patterns",
+    "category": "AI UI, UX and frontend design",
+    "website": "https://magic-patterns.com",
+    "source": "ai"
+  },
+  {
+    "name": "Stitch by Google",
+    "category": "AI UI, UX and frontend design",
+    "website": "https://stitch-by-google.com",
+    "source": "ai"
+  },
+  {
+    "name": "Visily",
+    "category": "AI UI, UX and frontend design",
+    "website": "https://visily.com",
+    "source": "ai"
+  },
+  {
+    "name": "Relume",
+    "category": "AI UI, UX and frontend design",
+    "website": "https://relume.com",
+    "source": "ai"
+  },
+  {
+    "name": "Motiff",
+    "category": "AI UI, UX and frontend design",
+    "website": "https://motiff.com",
+    "source": "ai"
+  },
+  {
+    "name": "Banani",
+    "category": "AI UI, UX and frontend design",
+    "website": "https://banani.com",
+    "source": "ai"
+  },
+  {
+    "name": "UX Pilot",
+    "category": "AI UI, UX and frontend design",
+    "website": "https://ux-pilot.com",
+    "source": "ai"
+  },
+  {
+    "name": "Diagram",
+    "category": "AI UI, UX and frontend design",
+    "website": "https://diagram.com",
+    "source": "ai"
+  },
+  {
+    "name": "Anima",
+    "category": "AI UI, UX and frontend design",
+    "website": "https://anima.com",
+    "source": "ai"
+  },
+  {
+    "name": "Locofy",
+    "category": "AI UI, UX and frontend design",
+    "website": "https://locofy.com",
+    "source": "ai"
+  },
+  {
+    "name": "Builder.io Visual Copilot",
+    "category": "AI UI, UX and frontend design",
+    "website": "https://builder-io-visual-copilot.com",
+    "source": "ai"
+  },
+  {
+    "name": "Quest AI",
+    "category": "AI UI, UX and frontend design",
+    "website": "https://quest-ai.com",
+    "source": "ai"
+  },
+  {
+    "name": "TeleportHQ",
+    "category": "AI UI, UX and frontend design",
+    "website": "https://teleporthq.com",
+    "source": "ai"
+  },
+  {
+    "name": "Penpot",
+    "category": "AI UI, UX and frontend design",
+    "website": "https://penpot.com",
+    "source": "ai"
+  },
+  {
+    "name": "Spline AI",
+    "category": "AI UI, UX and frontend design",
+    "website": "https://spline-ai.com",
+    "source": "ai"
+  },
+  {
+    "name": "CodeRabbit",
+    "category": "AI code review, debugging and code quality",
+    "website": "https://coderabbit.com",
+    "source": "ai"
+  },
+  {
+    "name": "Greptile",
+    "category": "AI code review, debugging and code quality",
+    "website": "https://greptile.com",
+    "source": "ai"
+  },
+  {
+    "name": "CodeClimate",
+    "category": "AI code review, debugging and code quality",
+    "website": "https://codeclimate.com",
+    "source": "ai"
+  },
+  {
+    "name": "DeepSource",
+    "category": "AI code review, debugging and code quality",
+    "website": "https://deepsource.com",
+    "source": "ai"
+  },
+  {
+    "name": "Sourcery",
+    "category": "AI code review, debugging and code quality",
+    "website": "https://sourcery.com",
+    "source": "ai"
+  },
+  {
+    "name": "CodeAnt AI",
+    "category": "AI code review, debugging and code quality",
+    "website": "https://codeant-ai.com",
+    "source": "ai"
+  },
+  {
+    "name": "Codacy",
+    "category": "AI code review, debugging and code quality",
+    "website": "https://codacy.com",
+    "source": "ai"
+  },
+  {
+    "name": "Graphite",
+    "category": "AI code review, debugging and code quality",
+    "website": "https://graphite.com",
+    "source": "ai"
+  },
+  {
+    "name": "Ellipsis",
+    "category": "AI code review, debugging and code quality",
+    "website": "https://ellipsis.com",
+    "source": "ai"
+  },
+  {
+    "name": "Bito",
+    "category": "AI code review, debugging and code quality",
+    "website": "https://bito.com",
+    "source": "ai"
+  },
+  {
+    "name": "Mutable AI",
+    "category": "AI code review, debugging and code quality",
+    "website": "https://mutable-ai.com",
+    "source": "ai"
+  },
+  {
+    "name": "Amazon CodeGuru",
+    "category": "AI code review, debugging and code quality",
+    "website": "https://amazon-codeguru.com",
+    "source": "ai"
+  },
+  {
+    "name": "Bugsink",
+    "category": "AI code review, debugging and code quality",
+    "website": "https://bugsink.com",
+    "source": "ai"
+  },
+  {
+    "name": "Datadog",
+    "category": "AI code review, debugging and code quality",
+    "website": "https://datadog.com",
+    "source": "ai"
+  },
+  {
+    "name": "Dynatrace",
+    "category": "AI code review, debugging and code quality",
+    "website": "https://dynatrace.com",
+    "source": "ai"
+  },
+  {
+    "name": "Percy",
+    "category": "AI testing and QA automation",
+    "website": "https://percy.com",
+    "source": "ai"
+  },
+  {
+    "name": "Ponicode",
+    "category": "AI testing and QA automation",
+    "website": "https://ponicode.com",
+    "source": "ai"
+  },
+  {
+    "name": "Apidog",
+    "category": "AI APIs, backend and database development",
+    "website": "https://apidog.com",
+    "source": "ai"
+  },
+  {
+    "name": "Swagger",
+    "category": "AI APIs, backend and database development",
+    "website": "https://swagger.com",
+    "source": "ai"
+  },
+  {
+    "name": "Speakeasy",
+    "category": "AI APIs, backend and database development",
+    "website": "https://speakeasy.com",
+    "source": "ai"
+  },
+  {
+    "name": "Stainless",
+    "category": "AI APIs, backend and database development",
+    "website": "https://stainless.com",
+    "source": "ai"
+  },
+  {
+    "name": "Fern",
+    "category": "AI APIs, backend and database development",
+    "website": "https://fern.com",
+    "source": "ai"
+  },
+  {
+    "name": "Mintlify",
+    "category": "AI APIs, backend and database development",
+    "website": "https://mintlify.com",
+    "source": "ai"
+  },
+  {
+    "name": "Scalar",
+    "category": "AI APIs, backend and database development",
+    "website": "https://scalar.com",
+    "source": "ai"
+  },
+  {
+    "name": "Supabase",
+    "category": "AI APIs, backend and database development",
+    "website": "https://supabase.com",
+    "source": "ai"
+  },
+  {
+    "name": "Neon",
+    "category": "AI APIs, backend and database development",
+    "website": "https://neon.com",
+    "source": "ai"
+  },
+  {
+    "name": "PlanetScale",
+    "category": "AI APIs, backend and database development",
+    "website": "https://planetscale.com",
+    "source": "ai"
+  },
+  {
+    "name": "Turso",
+    "category": "AI APIs, backend and database development",
+    "website": "https://turso.com",
+    "source": "ai"
+  },
+  {
+    "name": "Xata",
+    "category": "AI APIs, backend and database development",
+    "website": "https://xata.com",
+    "source": "ai"
+  },
+  {
+    "name": "Prisma",
+    "category": "AI APIs, backend and database development",
+    "website": "https://prisma.com",
+    "source": "ai"
+  },
+  {
+    "name": "Drizzle ORM",
+    "category": "AI APIs, backend and database development",
+    "website": "https://drizzle-orm.com",
+    "source": "ai"
+  },
+  {
+    "name": "Convex",
+    "category": "AI APIs, backend and database development",
+    "website": "https://convex.com",
+    "source": "ai"
+  },
+  {
+    "name": "Hasura",
+    "category": "AI APIs, backend and database development",
+    "website": "https://hasura.com",
+    "source": "ai"
+  },
+  {
+    "name": "Appwrite",
+    "category": "AI APIs, backend and database development",
+    "website": "https://appwrite.com",
+    "source": "ai"
+  },
+  {
+    "name": "Firebase",
+    "category": "AI APIs, backend and database development",
+    "website": "https://firebase.com",
+    "source": "ai"
+  },
+  {
+    "name": "PocketBase",
+    "category": "AI APIs, backend and database development",
+    "website": "https://pocketbase.com",
+    "source": "ai"
+  },
+  {
+    "name": "Upstash",
+    "category": "AI APIs, backend and database development",
+    "website": "https://upstash.com",
+    "source": "ai"
+  },
+  {
+    "name": "Redis",
+    "category": "AI APIs, backend and database development",
+    "website": "https://redis.com",
+    "source": "ai"
+  },
+  {
+    "name": "MongoDB",
+    "category": "AI APIs, backend and database development",
+    "website": "https://mongodb.com",
+    "source": "ai"
+  },
+  {
+    "name": "DataGrip",
+    "category": "AI APIs, backend and database development",
+    "website": "https://datagrip.com",
+    "source": "ai"
+  },
+  {
+    "name": "DBeaver",
+    "category": "AI APIs, backend and database development",
+    "website": "https://dbeaver.com",
+    "source": "ai"
+  },
+  {
+    "name": "SQLAI",
+    "category": "AI APIs, backend and database development",
+    "website": "https://sqlai.com",
+    "source": "ai"
+  },
+  {
+    "name": "AI2sql",
+    "category": "AI APIs, backend and database development",
+    "website": "https://ai2sql.com",
+    "source": "ai"
+  },
+  {
+    "name": "Text2SQL",
+    "category": "AI APIs, backend and database development",
+    "website": "https://text2sql.com",
+    "source": "ai"
+  },
+  {
+    "name": "LangChain",
+    "category": "AI agent frameworks and orchestration",
+    "website": "https://langchain.com",
+    "source": "ai"
+  },
+  {
+    "name": "LangGraph",
+    "category": "AI agent frameworks and orchestration",
+    "website": "https://langgraph.com",
+    "source": "ai"
+  },
+  {
+    "name": "LlamaIndex",
+    "category": "AI agent frameworks and orchestration",
+    "website": "https://llamaindex.com",
+    "source": "ai"
+  },
+  {
+    "name": "CrewAI",
+    "category": "AI agent frameworks and orchestration",
+    "website": "https://crewai.com",
+    "source": "ai"
+  },
+  {
+    "name": "AutoGen",
+    "category": "AI agent frameworks and orchestration",
+    "website": "https://autogen.com",
+    "source": "ai"
+  },
+  {
+    "name": "Microsoft Agent Framework",
+    "category": "AI agent frameworks and orchestration",
+    "website": "https://microsoft-agent-framework.com",
+    "source": "ai"
+  },
+  {
+    "name": "OpenAI Agents SDK",
+    "category": "AI agent frameworks and orchestration",
+    "website": "https://openai-agents-sdk.com",
+    "source": "ai"
+  },
+  {
+    "name": "Google ADK",
+    "category": "AI agent frameworks and orchestration",
+    "website": "https://google-adk.com",
+    "source": "ai"
+  },
+  {
+    "name": "Pydantic AI",
+    "category": "AI agent frameworks and orchestration",
+    "website": "https://pydantic-ai.com",
+    "source": "ai"
+  },
+  {
+    "name": "Mastra",
+    "category": "AI agent frameworks and orchestration",
+    "website": "https://mastra.com",
+    "source": "ai"
+  },
+  {
+    "name": "Vercel AI SDK",
+    "category": "AI agent frameworks and orchestration",
+    "website": "https://vercel-ai-sdk.com",
+    "source": "ai"
+  },
+  {
+    "name": "Agno",
+    "category": "AI agent frameworks and orchestration",
+    "website": "https://agno.com",
+    "source": "ai"
+  },
+  {
+    "name": "Haystack",
+    "category": "AI agent frameworks and orchestration",
+    "website": "https://haystack.com",
+    "source": "ai"
+  },
+  {
+    "name": "Semantic Kernel",
+    "category": "AI agent frameworks and orchestration",
+    "website": "https://semantic-kernel.com",
+    "source": "ai"
+  },
+  {
+    "name": "DSPy",
+    "category": "AI agent frameworks and orchestration",
+    "website": "https://dspy.com",
+    "source": "ai"
+  },
+  {
+    "name": "Smolagents",
+    "category": "AI agent frameworks and orchestration",
+    "website": "https://smolagents.com",
+    "source": "ai"
+  },
+  {
+    "name": "OpenAI Swarm",
+    "category": "AI agent frameworks and orchestration",
+    "website": "https://openai-swarm.com",
+    "source": "ai"
+  },
+  {
+    "name": "Flowise",
+    "category": "AI agent frameworks and orchestration",
+    "website": "https://flowise.com",
+    "source": "ai"
+  },
+  {
+    "name": "Dify",
+    "category": "AI agent frameworks and orchestration",
+    "website": "https://dify.com",
+    "source": "ai"
+  },
+  {
+    "name": "Langflow",
+    "category": "AI agent frameworks and orchestration",
+    "website": "https://langflow.com",
+    "source": "ai"
+  },
+  {
+    "name": "n8n",
+    "category": "AI agent frameworks and orchestration",
+    "website": "https://n8n.com",
+    "source": "ai"
+  },
+  {
+    "name": "Activepieces",
+    "category": "AI agent frameworks and orchestration",
+    "website": "https://activepieces.com",
+    "source": "ai"
+  },
+  {
+    "name": "Pipedream",
+    "category": "AI agent frameworks and orchestration",
+    "website": "https://pipedream.com",
+    "source": "ai"
+  },
+  {
+    "name": "Windmill",
+    "category": "AI agent frameworks and orchestration",
+    "website": "https://windmill.com",
+    "source": "ai"
+  },
+  {
+    "name": "Temporal",
+    "category": "AI agent frameworks and orchestration",
+    "website": "https://temporal.com",
+    "source": "ai"
+  },
+  {
+    "name": "Inngest",
+    "category": "AI agent frameworks and orchestration",
+    "website": "https://inngest.com",
+    "source": "ai"
+  },
+  {
+    "name": "Trigger.dev",
+    "category": "AI agent frameworks and orchestration",
+    "website": "https://trigger-dev.com",
+    "source": "ai"
+  },
+  {
+    "name": "Prefect",
+    "category": "AI agent frameworks and orchestration",
+    "website": "https://prefect.com",
+    "source": "ai"
+  },
+  {
+    "name": "Dagster",
+    "category": "AI agent frameworks and orchestration",
+    "website": "https://dagster.com",
+    "source": "ai"
+  },
+  {
+    "name": "Kestra",
+    "category": "AI agent frameworks and orchestration",
+    "website": "https://kestra.com",
+    "source": "ai"
+  },
+  {
+    "name": "Model Context Protocol",
+    "category": "MCP servers, integrations and agent tools",
+    "website": "https://model-context-protocol.com",
+    "source": "ai"
+  },
+  {
+    "name": "MCP Registry",
+    "category": "MCP servers, integrations and agent tools",
+    "website": "https://mcp-registry.com",
+    "source": "ai"
+  },
+  {
+    "name": "Smithery",
+    "category": "MCP servers, integrations and agent tools",
+    "website": "https://smithery.com",
+    "source": "ai"
+  },
+  {
+    "name": "Glama MCP Directory",
+    "category": "MCP servers, integrations and agent tools",
+    "website": "https://glama-mcp-directory.com",
+    "source": "ai"
+  },
+  {
+    "name": "MCP.so",
+    "category": "MCP servers, integrations and agent tools",
+    "website": "https://mcp-so.com",
+    "source": "ai"
+  },
+  {
+    "name": "PulseMCP",
+    "category": "MCP servers, integrations and agent tools",
+    "website": "https://pulsemcp.com",
+    "source": "ai"
+  },
+  {
+    "name": "Composio",
+    "category": "MCP servers, integrations and agent tools",
+    "website": "https://composio.com",
+    "source": "ai"
+  },
+  {
+    "name": "Pipedream Connect",
+    "category": "MCP servers, integrations and agent tools",
+    "website": "https://pipedream-connect.com",
+    "source": "ai"
+  },
+  {
+    "name": "Zapier AI",
+    "category": "MCP servers, integrations and agent tools",
+    "website": "https://zapier-ai.com",
+    "source": "ai"
+  },
+  {
+    "name": "Make",
+    "category": "MCP servers, integrations and agent tools",
+    "website": "https://make.com",
+    "source": "ai"
+  },
+  {
+    "name": "Gumloop",
+    "category": "MCP servers, integrations and agent tools",
+    "website": "https://gumloop.com",
+    "source": "ai"
+  },
+  {
+    "name": "Playwright MCP",
+    "category": "MCP servers, integrations and agent tools",
+    "website": "https://playwright-mcp.com",
+    "source": "ai"
+  },
+  {
+    "name": "Firecrawl",
+    "category": "MCP servers, integrations and agent tools",
+    "website": "https://firecrawl.com",
+    "source": "ai"
+  },
+  {
+    "name": "Crawl4AI",
+    "category": "MCP servers, integrations and agent tools",
+    "website": "https://crawl4ai.com",
+    "source": "ai"
+  },
+  {
+    "name": "Apify",
+    "category": "MCP servers, integrations and agent tools",
+    "website": "https://apify.com",
+    "source": "ai"
+  },
+  {
+    "name": "Bright Data",
+    "category": "MCP servers, integrations and agent tools",
+    "website": "https://bright-data.com",
+    "source": "ai"
+  },
+  {
+    "name": "ScrapeGraphAI",
+    "category": "MCP servers, integrations and agent tools",
+    "website": "https://scrapegraphai.com",
+    "source": "ai"
+  },
+  {
+    "name": "ScrapingBee",
+    "category": "MCP servers, integrations and agent tools",
+    "website": "https://scrapingbee.com",
+    "source": "ai"
+  },
+  {
+    "name": "Jina AI Reader",
+    "category": "MCP servers, integrations and agent tools",
+    "website": "https://jina-ai-reader.com",
+    "source": "ai"
+  },
+  {
+    "name": "Firecrawl MCP",
+    "category": "MCP servers, integrations and agent tools",
+    "website": "https://firecrawl-mcp.com",
+    "source": "ai"
+  },
+  {
+    "name": "Exa MCP",
+    "category": "MCP servers, integrations and agent tools",
+    "website": "https://exa-mcp.com",
+    "source": "ai"
+  },
+  {
+    "name": "Parallel",
+    "category": "AI search, web research and data extraction",
+    "website": "https://parallel.com",
+    "source": "ai"
+  },
+  {
+    "name": "Exa",
+    "category": "AI search, web research and data extraction",
+    "website": "https://exa.com",
+    "source": "ai"
+  },
+  {
+    "name": "Tavily",
+    "category": "AI search, web research and data extraction",
+    "website": "https://tavily.com",
+    "source": "ai"
+  },
+  {
+    "name": "Perplexity",
+    "category": "AI search, web research and data extraction",
+    "website": "https://perplexity.com",
+    "source": "ai"
+  },
+  {
+    "name": "You.com",
+    "category": "AI search, web research and data extraction",
+    "website": "https://you-com.com",
+    "source": "ai"
+  },
+  {
+    "name": "Brave Search API",
+    "category": "AI search, web research and data extraction",
+    "website": "https://brave-search-api.com",
+    "source": "ai"
+  },
+  {
+    "name": "Jina AI",
+    "category": "AI search, web research and data extraction",
+    "website": "https://jina-ai.com",
+    "source": "ai"
+  },
+  {
+    "name": "SerpApi",
+    "category": "AI search, web research and data extraction",
+    "website": "https://serpapi.com",
+    "source": "ai"
+  },
+  {
+    "name": "Serper",
+    "category": "AI search, web research and data extraction",
+    "website": "https://serper.com",
+    "source": "ai"
+  },
+  {
+    "name": "DataForSEO",
+    "category": "AI search, web research and data extraction",
+    "website": "https://dataforseo.com",
+    "source": "ai"
+  },
+  {
+    "name": "Diffbot",
+    "category": "AI search, web research and data extraction",
+    "website": "https://diffbot.com",
+    "source": "ai"
+  },
+  {
+    "name": "Oxylabs",
+    "category": "AI search, web research and data extraction",
+    "website": "https://oxylabs.com",
+    "source": "ai"
+  },
+  {
+    "name": "Zyte",
+    "category": "AI search, web research and data extraction",
+    "website": "https://zyte.com",
+    "source": "ai"
+  },
+  {
+    "name": "Browse AI",
+    "category": "AI search, web research and data extraction",
+    "website": "https://browse-ai.com",
+    "source": "ai"
+  },
+  {
+    "name": "Octoparse",
+    "category": "AI search, web research and data extraction",
+    "website": "https://octoparse.com",
+    "source": "ai"
+  },
+  {
+    "name": "ParseHub",
+    "category": "AI search, web research and data extraction",
+    "website": "https://parsehub.com",
+    "source": "ai"
+  },
+  {
+    "name": "ScrapingAnt",
+    "category": "AI search, web research and data extraction",
+    "website": "https://scrapingant.com",
+    "source": "ai"
+  },
+  {
+    "name": "Consensus",
+    "category": "AI search, web research and data extraction",
+    "website": "https://consensus.com",
+    "source": "ai"
+  },
+  {
+    "name": "Elicit",
+    "category": "AI search, web research and data extraction",
+    "website": "https://elicit.com",
+    "source": "ai"
+  },
+  {
+    "name": "ResearchRabbit",
+    "category": "AI search, web research and data extraction",
+    "website": "https://researchrabbit.com",
+    "source": "ai"
+  },
+  {
+    "name": "Semantic Scholar",
+    "category": "AI search, web research and data extraction",
+    "website": "https://semantic-scholar.com",
+    "source": "ai"
+  },
+  {
+    "name": "OpenAlex",
+    "category": "AI search, web research and data extraction",
+    "website": "https://openalex.com",
+    "source": "ai"
+  },
+  {
+    "name": "arXiv",
+    "category": "AI search, web research and data extraction",
+    "website": "https://arxiv.com",
+    "source": "ai"
+  },
+  {
+    "name": "Connected Papers",
+    "category": "AI search, web research and data extraction",
+    "website": "https://connected-papers.com",
+    "source": "ai"
+  },
+  {
+    "name": "SciSpace",
+    "category": "AI search, web research and data extraction",
+    "website": "https://scispace.com",
+    "source": "ai"
+  },
+  {
+    "name": "NotebookLM",
+    "category": "AI search, web research and data extraction",
+    "website": "https://notebooklm.com",
+    "source": "ai"
+  },
+  {
+    "name": "OpenAI API",
+    "category": "LLM providers and model APIs",
+    "website": "https://openai-api.com",
+    "source": "ai"
+  },
+  {
+    "name": "Anthropic API",
+    "category": "LLM providers and model APIs",
+    "website": "https://anthropic-api.com",
+    "source": "ai"
+  },
+  {
+    "name": "Google Gemini API",
+    "category": "LLM providers and model APIs",
+    "website": "https://google-gemini-api.com",
+    "source": "ai"
+  },
+  {
+    "name": "Google Vertex AI",
+    "category": "LLM providers and model APIs",
+    "website": "https://google-vertex-ai.com",
+    "source": "ai"
+  },
+  {
+    "name": "xAI API",
+    "category": "LLM providers and model APIs",
+    "website": "https://xai-api.com",
+    "source": "ai"
+  },
+  {
+    "name": "Mistral AI",
+    "category": "LLM providers and model APIs",
+    "website": "https://mistral-ai.com",
+    "source": "ai"
+  },
+  {
+    "name": "Cohere",
+    "category": "LLM providers and model APIs",
+    "website": "https://cohere.com",
+    "source": "ai"
+  },
+  {
+    "name": "DeepSeek",
+    "category": "LLM providers and model APIs",
+    "website": "https://deepseek.com",
+    "source": "ai"
+  },
+  {
+    "name": "Qwen",
+    "category": "LLM providers and model APIs",
+    "website": "https://qwen.com",
+    "source": "ai"
+  },
+  {
+    "name": "Groq",
+    "category": "LLM providers and model APIs",
+    "website": "https://groq.com",
+    "source": "ai"
+  },
+  {
+    "name": "Together AI",
+    "category": "LLM providers and model APIs",
+    "website": "https://together-ai.com",
+    "source": "ai"
+  },
+  {
+    "name": "Fireworks AI",
+    "category": "LLM providers and model APIs",
+    "website": "https://fireworks-ai.com",
+    "source": "ai"
+  },
+  {
+    "name": "OpenRouter",
+    "category": "LLM providers and model APIs",
+    "website": "https://openrouter.com",
+    "source": "ai"
+  },
+  {
+    "name": "Hugging Face",
+    "category": "LLM providers and model APIs",
+    "website": "https://hugging-face.com",
+    "source": "ai"
+  },
+  {
+    "name": "Replicate",
+    "category": "LLM providers and model APIs",
+    "website": "https://replicate.com",
+    "source": "ai"
+  },
+  {
+    "name": "fal.ai",
+    "category": "LLM providers and model APIs",
+    "website": "https://fal-ai.com",
+    "source": "ai"
+  },
+  {
+    "name": "Cerebras",
+    "category": "LLM providers and model APIs",
+    "website": "https://cerebras.com",
+    "source": "ai"
+  },
+  {
+    "name": "SambaNova",
+    "category": "LLM providers and model APIs",
+    "website": "https://sambanova.com",
+    "source": "ai"
+  },
+  {
+    "name": "Novita AI",
+    "category": "LLM providers and model APIs",
+    "website": "https://novita-ai.com",
+    "source": "ai"
+  },
+  {
+    "name": "SiliconFlow",
+    "category": "LLM providers and model APIs",
+    "website": "https://siliconflow.com",
+    "source": "ai"
+  },
+  {
+    "name": "Cloudflare Workers AI",
+    "category": "LLM providers and model APIs",
+    "website": "https://cloudflare-workers-ai.com",
+    "source": "ai"
+  },
+  {
+    "name": "AWS Bedrock",
+    "category": "LLM providers and model APIs",
+    "website": "https://aws-bedrock.com",
+    "source": "ai"
+  },
+  {
+    "name": "Azure AI Foundry",
+    "category": "LLM providers and model APIs",
+    "website": "https://azure-ai-foundry.com",
+    "source": "ai"
+  },
+  {
+    "name": "NVIDIA NIM",
+    "category": "LLM providers and model APIs",
+    "website": "https://nvidia-nim.com",
+    "source": "ai"
+  },
+  {
+    "name": "Lepton AI",
+    "category": "LLM providers and model APIs",
+    "website": "https://lepton-ai.com",
+    "source": "ai"
+  },
+  {
+    "name": "Modal",
+    "category": "LLM providers and model APIs",
+    "website": "https://modal.com",
+    "source": "ai"
+  },
+  {
+    "name": "Baseten",
+    "category": "LLM providers and model APIs",
+    "website": "https://baseten.com",
+    "source": "ai"
+  },
+  {
+    "name": "RunPod",
+    "category": "LLM providers and model APIs",
+    "website": "https://runpod.com",
+    "source": "ai"
+  },
+  {
+    "name": "DeepInfra",
+    "category": "LLM providers and model APIs",
+    "website": "https://deepinfra.com",
+    "source": "ai"
+  },
+  {
+    "name": "Ollama",
+    "category": "Local AI, open-source models and inference",
+    "website": "https://ollama.com",
+    "source": "ai"
+  },
+  {
+    "name": "LM Studio",
+    "category": "Local AI, open-source models and inference",
+    "website": "https://lm-studio.com",
+    "source": "ai"
+  },
+  {
+    "name": "Jan",
+    "category": "Local AI, open-source models and inference",
+    "website": "https://jan.com",
+    "source": "ai"
+  },
+  {
+    "name": "GPT4All",
+    "category": "Local AI, open-source models and inference",
+    "website": "https://gpt4all.com",
+    "source": "ai"
+  },
+  {
+    "name": "llama.cpp",
+    "category": "Local AI, open-source models and inference",
+    "website": "https://llama-cpp.com",
+    "source": "ai"
+  },
+  {
+    "name": "vLLM",
+    "category": "Local AI, open-source models and inference",
+    "website": "https://vllm.com",
+    "source": "ai"
+  },
+  {
+    "name": "SGLang",
+    "category": "Local AI, open-source models and inference",
+    "website": "https://sglang.com",
+    "source": "ai"
+  },
+  {
+    "name": "LocalAI",
+    "category": "Local AI, open-source models and inference",
+    "website": "https://localai.com",
+    "source": "ai"
+  },
+  {
+    "name": "KoboldCpp",
+    "category": "Local AI, open-source models and inference",
+    "website": "https://koboldcpp.com",
+    "source": "ai"
+  },
+  {
+    "name": "Open WebUI",
+    "category": "Local AI, open-source models and inference",
+    "website": "https://open-webui.com",
+    "source": "ai"
+  },
+  {
+    "name": "AnythingLLM",
+    "category": "Local AI, open-source models and inference",
+    "website": "https://anythingllm.com",
+    "source": "ai"
+  },
+  {
+    "name": "text-generation-webui",
+    "category": "Local AI, open-source models and inference",
+    "website": "https://text-generation-webui.com",
+    "source": "ai"
+  },
+  {
+    "name": "llamafile",
+    "category": "Local AI, open-source models and inference",
+    "website": "https://llamafile.com",
+    "source": "ai"
+  },
+  {
+    "name": "Hugging Face Transformers",
+    "category": "Local AI, open-source models and inference",
+    "website": "https://hugging-face-transformers.com",
+    "source": "ai"
+  },
+  {
+    "name": "Axolotl",
+    "category": "Local AI, open-source models and inference",
+    "website": "https://axolotl.com",
+    "source": "ai"
+  },
+  {
+    "name": "Unsloth",
+    "category": "Local AI, open-source models and inference",
+    "website": "https://unsloth.com",
+    "source": "ai"
+  },
+  {
+    "name": "MLX",
+    "category": "Local AI, open-source models and inference",
+    "website": "https://mlx.com",
+    "source": "ai"
+  },
+  {
+    "name": "MLC LLM",
+    "category": "Local AI, open-source models and inference",
+    "website": "https://mlc-llm.com",
+    "source": "ai"
+  },
+  {
+    "name": "TensorRT-LLM",
+    "category": "Local AI, open-source models and inference",
+    "website": "https://tensorrt-llm.com",
+    "source": "ai"
+  },
+  {
+    "name": "LiteLLM",
+    "category": "Local AI, open-source models and inference",
+    "website": "https://litellm.com",
+    "source": "ai"
+  },
+  {
+    "name": "Pinecone",
+    "category": "Vector databases, RAG and AI memory",
+    "website": "https://pinecone.com",
+    "source": "ai"
+  },
+  {
+    "name": "Weaviate",
+    "category": "Vector databases, RAG and AI memory",
+    "website": "https://weaviate.com",
+    "source": "ai"
+  },
+  {
+    "name": "Qdrant",
+    "category": "Vector databases, RAG and AI memory",
+    "website": "https://qdrant.com",
+    "source": "ai"
+  },
+  {
+    "name": "Chroma",
+    "category": "Vector databases, RAG and AI memory",
+    "website": "https://chroma.com",
+    "source": "ai"
+  },
+  {
+    "name": "Milvus",
+    "category": "Vector databases, RAG and AI memory",
+    "website": "https://milvus.com",
+    "source": "ai"
+  },
+  {
+    "name": "Zilliz",
+    "category": "Vector databases, RAG and AI memory",
+    "website": "https://zilliz.com",
+    "source": "ai"
+  },
+  {
+    "name": "LanceDB",
+    "category": "Vector databases, RAG and AI memory",
+    "website": "https://lancedb.com",
+    "source": "ai"
+  },
+  {
+    "name": "Vespa",
+    "category": "Vector databases, RAG and AI memory",
+    "website": "https://vespa.com",
+    "source": "ai"
+  },
+  {
+    "name": "Redis Vector Search",
+    "category": "Vector databases, RAG and AI memory",
+    "website": "https://redis-vector-search.com",
+    "source": "ai"
+  },
+  {
+    "name": "pgvector",
+    "category": "Vector databases, RAG and AI memory",
+    "website": "https://pgvector.com",
+    "source": "ai"
+  },
+  {
+    "name": "Supabase Vector",
+    "category": "Vector databases, RAG and AI memory",
+    "website": "https://supabase-vector.com",
+    "source": "ai"
+  },
+  {
+    "name": "MongoDB Vector Search",
+    "category": "Vector databases, RAG and AI memory",
+    "website": "https://mongodb-vector-search.com",
+    "source": "ai"
+  },
+  {
+    "name": "Elastic AI Search",
+    "category": "Vector databases, RAG and AI memory",
+    "website": "https://elastic-ai-search.com",
+    "source": "ai"
+  },
+  {
+    "name": "OpenSearch",
+    "category": "Vector databases, RAG and AI memory",
+    "website": "https://opensearch.com",
+    "source": "ai"
+  },
+  {
+    "name": "Marqo",
+    "category": "Vector databases, RAG and AI memory",
+    "website": "https://marqo.com",
+    "source": "ai"
+  },
+  {
+    "name": "txtai",
+    "category": "Vector databases, RAG and AI memory",
+    "website": "https://txtai.com",
+    "source": "ai"
+  },
+  {
+    "name": "Mem0",
+    "category": "Vector databases, RAG and AI memory",
+    "website": "https://mem0.com",
+    "source": "ai"
+  },
+  {
+    "name": "Zep",
+    "category": "Vector databases, RAG and AI memory",
+    "website": "https://zep.com",
+    "source": "ai"
+  },
+  {
+    "name": "Letta",
+    "category": "Vector databases, RAG and AI memory",
+    "website": "https://letta.com",
+    "source": "ai"
+  },
+  {
+    "name": "Cognee",
+    "category": "Vector databases, RAG and AI memory",
+    "website": "https://cognee.com",
+    "source": "ai"
+  },
+  {
+    "name": "Graphiti",
+    "category": "Vector databases, RAG and AI memory",
+    "website": "https://graphiti.com",
+    "source": "ai"
+  },
+  {
+    "name": "RAGFlow",
+    "category": "Vector databases, RAG and AI memory",
+    "website": "https://ragflow.com",
+    "source": "ai"
+  },
+  {
+    "name": "GitBook",
+    "category": "AI documentation, knowledge bases and writing",
+    "website": "https://gitbook.com",
+    "source": "ai"
+  },
+  {
+    "name": "ReadMe",
+    "category": "AI documentation, knowledge bases and writing",
+    "website": "https://readme.com",
+    "source": "ai"
+  },
+  {
+    "name": "Swimm",
+    "category": "AI documentation, knowledge bases and writing",
+    "website": "https://swimm.com",
+    "source": "ai"
+  },
+  {
+    "name": "Document360",
+    "category": "AI documentation, knowledge bases and writing",
+    "website": "https://document360.com",
+    "source": "ai"
+  },
+  {
+    "name": "Docusaurus",
+    "category": "AI documentation, knowledge bases and writing",
+    "website": "https://docusaurus.com",
+    "source": "ai"
+  },
+  {
+    "name": "Starlight",
+    "category": "AI documentation, knowledge bases and writing",
+    "website": "https://starlight.com",
+    "source": "ai"
+  },
+  {
+    "name": "Archbee",
+    "category": "AI documentation, knowledge bases and writing",
+    "website": "https://archbee.com",
+    "source": "ai"
+  },
+  {
+    "name": "Notion AI",
+    "category": "AI documentation, knowledge bases and writing",
+    "website": "https://notion-ai.com",
+    "source": "ai"
+  },
+  {
+    "name": "Slite",
+    "category": "AI documentation, knowledge bases and writing",
+    "website": "https://slite.com",
+    "source": "ai"
+  },
+  {
+    "name": "Guru",
+    "category": "AI documentation, knowledge bases and writing",
+    "website": "https://guru.com",
+    "source": "ai"
+  },
+  {
+    "name": "Outline",
+    "category": "AI documentation, knowledge bases and writing",
+    "website": "https://outline.com",
+    "source": "ai"
+  },
+  {
+    "name": "Confluence AI",
+    "category": "AI documentation, knowledge bases and writing",
+    "website": "https://confluence-ai.com",
+    "source": "ai"
+  },
+  {
+    "name": "Obsidian",
+    "category": "AI documentation, knowledge bases and writing",
+    "website": "https://obsidian.com",
+    "source": "ai"
+  },
+  {
+    "name": "Logseq",
+    "category": "AI documentation, knowledge bases and writing",
+    "website": "https://logseq.com",
+    "source": "ai"
+  },
+  {
+    "name": "Grammarly",
+    "category": "AI documentation, knowledge bases and writing",
+    "website": "https://grammarly.com",
+    "source": "ai"
+  },
+  {
+    "name": "DeepL Write",
+    "category": "AI documentation, knowledge bases and writing",
+    "website": "https://deepl-write.com",
+    "source": "ai"
+  },
+  {
+    "name": "QuillBot",
+    "category": "AI documentation, knowledge bases and writing",
+    "website": "https://quillbot.com",
+    "source": "ai"
+  },
+  {
+    "name": "Jasper",
+    "category": "AI documentation, knowledge bases and writing",
+    "website": "https://jasper.com",
+    "source": "ai"
+  },
+  {
+    "name": "Copy.ai",
+    "category": "AI documentation, knowledge bases and writing",
+    "website": "https://copy-ai.com",
+    "source": "ai"
+  },
+  {
+    "name": "ChatGPT Images",
+    "category": "AI image generation and editing",
+    "website": "https://chatgpt-images.com",
+    "source": "ai"
+  },
+  {
+    "name": "Midjourney",
+    "category": "AI image generation and editing",
+    "website": "https://midjourney.com",
+    "source": "ai"
+  },
+  {
+    "name": "Adobe Firefly",
+    "category": "AI image generation and editing",
+    "website": "https://adobe-firefly.com",
+    "source": "ai"
+  },
+  {
+    "name": "Ideogram",
+    "category": "AI image generation and editing",
+    "website": "https://ideogram.com",
+    "source": "ai"
+  },
+  {
+    "name": "Leonardo AI",
+    "category": "AI image generation and editing",
+    "website": "https://leonardo-ai.com",
+    "source": "ai"
+  },
+  {
+    "name": "Recraft",
+    "category": "AI image generation and editing",
+    "website": "https://recraft.com",
+    "source": "ai"
+  },
+  {
+    "name": "FLUX",
+    "category": "AI image generation and editing",
+    "website": "https://flux.com",
+    "source": "ai"
+  },
+  {
+    "name": "Stable Diffusion",
+    "category": "AI image generation and editing",
+    "website": "https://stable-diffusion.com",
+    "source": "ai"
+  },
+  {
+    "name": "ComfyUI",
+    "category": "AI image generation and editing",
+    "website": "https://comfyui.com",
+    "source": "ai"
+  },
+  {
+    "name": "AUTOMATIC1111",
+    "category": "AI image generation and editing",
+    "website": "https://automatic1111.com",
+    "source": "ai"
+  },
+  {
+    "name": "InvokeAI",
+    "category": "AI image generation and editing",
+    "website": "https://invokeai.com",
+    "source": "ai"
+  },
+  {
+    "name": "Fooocus",
+    "category": "AI image generation and editing",
+    "website": "https://fooocus.com",
+    "source": "ai"
+  },
+  {
+    "name": "Playground AI",
+    "category": "AI image generation and editing",
+    "website": "https://playground-ai.com",
+    "source": "ai"
+  },
+  {
+    "name": "Krea AI",
+    "category": "AI image generation and editing",
+    "website": "https://krea-ai.com",
+    "source": "ai"
+  },
+  {
+    "name": "Freepik AI",
+    "category": "AI image generation and editing",
+    "website": "https://freepik-ai.com",
+    "source": "ai"
+  },
+  {
+    "name": "Photoroom",
+    "category": "AI image generation and editing",
+    "website": "https://photoroom.com",
+    "source": "ai"
+  },
+  {
+    "name": "Clipdrop",
+    "category": "AI image generation and editing",
+    "website": "https://clipdrop.com",
+    "source": "ai"
+  },
+  {
+    "name": "Remove.bg",
+    "category": "AI image generation and editing",
+    "website": "https://remove-bg.com",
+    "source": "ai"
+  },
+  {
+    "name": "Upscayl",
+    "category": "AI image generation and editing",
+    "website": "https://upscayl.com",
+    "source": "ai"
+  },
+  {
+    "name": "Magnific AI",
+    "category": "AI image generation and editing",
+    "website": "https://magnific-ai.com",
+    "source": "ai"
+  },
+  {
+    "name": "Picsart AI",
+    "category": "AI image generation and editing",
+    "website": "https://picsart-ai.com",
+    "source": "ai"
+  },
+  {
+    "name": "Canva AI",
+    "category": "AI image generation and editing",
+    "website": "https://canva-ai.com",
+    "source": "ai"
+  },
+  {
+    "name": "getimg.ai",
+    "category": "AI image generation and editing",
+    "website": "https://getimg-ai.com",
+    "source": "ai"
+  },
+  {
+    "name": "NightCafe",
+    "category": "AI image generation and editing",
+    "website": "https://nightcafe.com",
+    "source": "ai"
+  },
+  {
+    "name": "Runway",
+    "category": "AI video generation and editing",
+    "website": "https://runway.com",
+    "source": "ai"
+  },
+  {
+    "name": "Google Flow",
+    "category": "AI video generation and editing",
+    "website": "https://google-flow.com",
+    "source": "ai"
+  },
+  {
+    "name": "Veo",
+    "category": "AI video generation and editing",
+    "website": "https://veo.com",
+    "source": "ai"
+  },
+  {
+    "name": "Sora",
+    "category": "AI video generation and editing",
+    "website": "https://sora.com",
+    "source": "ai"
+  },
+  {
+    "name": "Kling AI",
+    "category": "AI video generation and editing",
+    "website": "https://kling-ai.com",
+    "source": "ai"
+  },
+  {
+    "name": "Pika",
+    "category": "AI video generation and editing",
+    "website": "https://pika.com",
+    "source": "ai"
+  },
+  {
+    "name": "Luma Dream Machine",
+    "category": "AI video generation and editing",
+    "website": "https://luma-dream-machine.com",
+    "source": "ai"
+  },
+  {
+    "name": "Hailuo AI",
+    "category": "AI video generation and editing",
+    "website": "https://hailuo-ai.com",
+    "source": "ai"
+  },
+  {
+    "name": "PixVerse",
+    "category": "AI video generation and editing",
+    "website": "https://pixverse.com",
+    "source": "ai"
+  },
+  {
+    "name": "Vidu",
+    "category": "AI video generation and editing",
+    "website": "https://vidu.com",
+    "source": "ai"
+  },
+  {
+    "name": "Wan",
+    "category": "AI video generation and editing",
+    "website": "https://wan.com",
+    "source": "ai"
+  },
+  {
+    "name": "LTX Studio",
+    "category": "AI video generation and editing",
+    "website": "https://ltx-studio.com",
+    "source": "ai"
+  },
+  {
+    "name": "HunyuanVideo",
+    "category": "AI video generation and editing",
+    "website": "https://hunyuanvideo.com",
+    "source": "ai"
+  },
+  {
+    "name": "HeyGen",
+    "category": "AI video generation and editing",
+    "website": "https://heygen.com",
+    "source": "ai"
+  },
+  {
+    "name": "Synthesia",
+    "category": "AI video generation and editing",
+    "website": "https://synthesia.com",
+    "source": "ai"
+  },
+  {
+    "name": "D-ID",
+    "category": "AI video generation and editing",
+    "website": "https://d-id.com",
+    "source": "ai"
+  },
+  {
+    "name": "Captions",
+    "category": "AI video generation and editing",
+    "website": "https://captions.com",
+    "source": "ai"
+  },
+  {
+    "name": "Descript",
+    "category": "AI video generation and editing",
+    "website": "https://descript.com",
+    "source": "ai"
+  },
+  {
+    "name": "VEED",
+    "category": "AI video generation and editing",
+    "website": "https://veed.com",
+    "source": "ai"
+  },
+  {
+    "name": "InVideo AI",
+    "category": "AI video generation and editing",
+    "website": "https://invideo-ai.com",
+    "source": "ai"
+  },
+  {
+    "name": "OpusClip",
+    "category": "AI video generation and editing",
+    "website": "https://opusclip.com",
+    "source": "ai"
+  },
+  {
+    "name": "Wisecut",
+    "category": "AI video generation and editing",
+    "website": "https://wisecut.com",
+    "source": "ai"
+  },
+  {
+    "name": "Vizard",
+    "category": "AI video generation and editing",
+    "website": "https://vizard.com",
+    "source": "ai"
+  },
+  {
+    "name": "Kapwing",
+    "category": "AI video generation and editing",
+    "website": "https://kapwing.com",
+    "source": "ai"
+  },
+  {
+    "name": "Fliki",
+    "category": "AI video generation and editing",
+    "website": "https://fliki.com",
+    "source": "ai"
+  },
+  {
+    "name": "Topaz Video AI",
+    "category": "AI video generation and editing",
+    "website": "https://topaz-video-ai.com",
+    "source": "ai"
+  },
+  {
+    "name": "ElevenLabs",
+    "category": "AI audio, speech and voice",
+    "website": "https://elevenlabs.com",
+    "source": "ai"
+  },
+  {
+    "name": "PlayHT",
+    "category": "AI audio, speech and voice",
+    "website": "https://playht.com",
+    "source": "ai"
+  },
+  {
+    "name": "Cartesia",
+    "category": "AI audio, speech and voice",
+    "website": "https://cartesia.com",
+    "source": "ai"
+  },
+  {
+    "name": "Deepgram",
+    "category": "AI audio, speech and voice",
+    "website": "https://deepgram.com",
+    "source": "ai"
+  },
+  {
+    "name": "AssemblyAI",
+    "category": "AI audio, speech and voice",
+    "website": "https://assemblyai.com",
+    "source": "ai"
+  },
+  {
+    "name": "Speechmatics",
+    "category": "AI audio, speech and voice",
+    "website": "https://speechmatics.com",
+    "source": "ai"
+  },
+  {
+    "name": "Gladia",
+    "category": "AI audio, speech and voice",
+    "website": "https://gladia.com",
+    "source": "ai"
+  },
+  {
+    "name": "Whisper",
+    "category": "AI audio, speech and voice",
+    "website": "https://whisper.com",
+    "source": "ai"
+  },
+  {
+    "name": "Faster Whisper",
+    "category": "AI audio, speech and voice",
+    "website": "https://faster-whisper.com",
+    "source": "ai"
+  },
+  {
+    "name": "Whisper.cpp",
+    "category": "AI audio, speech and voice",
+    "website": "https://whisper-cpp.com",
+    "source": "ai"
+  },
+  {
+    "name": "Resemble AI",
+    "category": "AI audio, speech and voice",
+    "website": "https://resemble-ai.com",
+    "source": "ai"
+  },
+  {
+    "name": "Murf AI",
+    "category": "AI audio, speech and voice",
+    "website": "https://murf-ai.com",
+    "source": "ai"
+  },
+  {
+    "name": "WellSaid Labs",
+    "category": "AI audio, speech and voice",
+    "website": "https://wellsaid-labs.com",
+    "source": "ai"
+  },
+  {
+    "name": "Fish Audio",
+    "category": "AI audio, speech and voice",
+    "website": "https://fish-audio.com",
+    "source": "ai"
+  },
+  {
+    "name": "Vapi",
+    "category": "AI audio, speech and voice",
+    "website": "https://vapi.com",
+    "source": "ai"
+  },
+  {
+    "name": "Retell AI",
+    "category": "AI audio, speech and voice",
+    "website": "https://retell-ai.com",
+    "source": "ai"
+  },
+  {
+    "name": "LiveKit",
+    "category": "AI audio, speech and voice",
+    "website": "https://livekit.com",
+    "source": "ai"
+  },
+  {
+    "name": "Pipecat",
+    "category": "AI audio, speech and voice",
+    "website": "https://pipecat.com",
+    "source": "ai"
+  },
+  {
+    "name": "Hume AI",
+    "category": "AI audio, speech and voice",
+    "website": "https://hume-ai.com",
+    "source": "ai"
+  },
+  {
+    "name": "Suno",
+    "category": "AI audio, speech and voice",
+    "website": "https://suno.com",
+    "source": "ai"
+  },
+  {
+    "name": "Udio",
+    "category": "AI audio, speech and voice",
+    "website": "https://udio.com",
+    "source": "ai"
+  },
+  {
+    "name": "AIVA",
+    "category": "AI audio, speech and voice",
+    "website": "https://aiva.com",
+    "source": "ai"
+  },
+  {
+    "name": "Stable Audio",
+    "category": "AI audio, speech and voice",
+    "website": "https://stable-audio.com",
+    "source": "ai"
+  },
+  {
+    "name": "MusicGen",
+    "category": "AI audio, speech and voice",
+    "website": "https://musicgen.com",
+    "source": "ai"
+  },
+  {
+    "name": "Bark",
+    "category": "AI audio, speech and voice",
+    "website": "https://bark.com",
+    "source": "ai"
+  },
+  {
+    "name": "Kokoro",
+    "category": "AI audio, speech and voice",
+    "website": "https://kokoro.com",
+    "source": "ai"
+  },
+  {
+    "name": "Piper",
+    "category": "AI audio, speech and voice",
+    "website": "https://piper.com",
+    "source": "ai"
+  },
+  {
+    "name": "Coqui TTS",
+    "category": "AI audio, speech and voice",
+    "website": "https://coqui-tts.com",
+    "source": "ai"
+  },
+  {
+    "name": "Zapier",
+    "category": "AI automation, workflows and business processes",
+    "website": "https://zapier.com",
+    "source": "ai"
+  },
+  {
+    "name": "Lindy",
+    "category": "AI automation, workflows and business processes",
+    "website": "https://lindy.com",
+    "source": "ai"
+  },
+  {
+    "name": "Relay.app",
+    "category": "AI automation, workflows and business processes",
+    "website": "https://relay-app.com",
+    "source": "ai"
+  },
+  {
+    "name": "Bardeen",
+    "category": "AI automation, workflows and business processes",
+    "website": "https://bardeen.com",
+    "source": "ai"
+  },
+  {
+    "name": "Relevance AI",
+    "category": "AI automation, workflows and business processes",
+    "website": "https://relevance-ai.com",
+    "source": "ai"
+  },
+  {
+    "name": "Stack AI",
+    "category": "AI automation, workflows and business processes",
+    "website": "https://stack-ai.com",
+    "source": "ai"
+  },
+  {
+    "name": "Vellum",
+    "category": "AI automation, workflows and business processes",
+    "website": "https://vellum.com",
+    "source": "ai"
+  },
+  {
+    "name": "Dust",
+    "category": "AI automation, workflows and business processes",
+    "website": "https://dust.com",
+    "source": "ai"
+  },
+  {
+    "name": "Retool AI",
+    "category": "AI automation, workflows and business processes",
+    "website": "https://retool-ai.com",
+    "source": "ai"
+  },
+  {
+    "name": "Workato",
+    "category": "AI automation, workflows and business processes",
+    "website": "https://workato.com",
+    "source": "ai"
+  },
+  {
+    "name": "UiPath",
+    "category": "AI automation, workflows and business processes",
+    "website": "https://uipath.com",
+    "source": "ai"
+  },
+  {
+    "name": "Automation Anywhere",
+    "category": "AI automation, workflows and business processes",
+    "website": "https://automation-anywhere.com",
+    "source": "ai"
+  },
+  {
+    "name": "Microsoft Power Automate",
+    "category": "AI automation, workflows and business processes",
+    "website": "https://microsoft-power-automate.com",
+    "source": "ai"
+  },
+  {
+    "name": "Robocorp",
+    "category": "AI automation, workflows and business processes",
+    "website": "https://robocorp.com",
+    "source": "ai"
+  },
+  {
+    "name": "Open Interpreter",
+    "category": "AI automation, workflows and business processes",
+    "website": "https://open-interpreter.com",
+    "source": "ai"
+  },
+  {
+    "name": "Computer Use by Anthropic",
+    "category": "AI automation, workflows and business processes",
+    "website": "https://computer-use-by-anthropic.com",
+    "source": "ai"
+  },
+  {
+    "name": "Vercel",
+    "category": "AI DevOps, cloud and infrastructure",
+    "website": "https://vercel.com",
+    "source": "ai"
+  },
+  {
+    "name": "Netlify",
+    "category": "AI DevOps, cloud and infrastructure",
+    "website": "https://netlify.com",
+    "source": "ai"
+  },
+  {
+    "name": "Railway",
+    "category": "AI DevOps, cloud and infrastructure",
+    "website": "https://railway.com",
+    "source": "ai"
+  },
+  {
+    "name": "Render",
+    "category": "AI DevOps, cloud and infrastructure",
+    "website": "https://render.com",
+    "source": "ai"
+  },
+  {
+    "name": "Fly.io",
+    "category": "AI DevOps, cloud and infrastructure",
+    "website": "https://fly-io.com",
+    "source": "ai"
+  },
+  {
+    "name": "Cloudflare",
+    "category": "AI DevOps, cloud and infrastructure",
+    "website": "https://cloudflare.com",
+    "source": "ai"
+  },
+  {
+    "name": "DigitalOcean",
+    "category": "AI DevOps, cloud and infrastructure",
+    "website": "https://digitalocean.com",
+    "source": "ai"
+  },
+  {
+    "name": "AWS",
+    "category": "AI DevOps, cloud and infrastructure",
+    "website": "https://aws.com",
+    "source": "ai"
+  },
+  {
+    "name": "Google Cloud",
+    "category": "AI DevOps, cloud and infrastructure",
+    "website": "https://google-cloud.com",
+    "source": "ai"
+  },
+  {
+    "name": "Microsoft Azure",
+    "category": "AI DevOps, cloud and infrastructure",
+    "website": "https://microsoft-azure.com",
+    "source": "ai"
+  },
+  {
+    "name": "Pulumi",
+    "category": "AI DevOps, cloud and infrastructure",
+    "website": "https://pulumi.com",
+    "source": "ai"
+  },
+  {
+    "name": "Terraform",
+    "category": "AI DevOps, cloud and infrastructure",
+    "website": "https://terraform.com",
+    "source": "ai"
+  },
+  {
+    "name": "Spacelift",
+    "category": "AI DevOps, cloud and infrastructure",
+    "website": "https://spacelift.com",
+    "source": "ai"
+  },
+  {
+    "name": "env0",
+    "category": "AI DevOps, cloud and infrastructure",
+    "website": "https://env0.com",
+    "source": "ai"
+  },
+  {
+    "name": "Harness",
+    "category": "AI DevOps, cloud and infrastructure",
+    "website": "https://harness.com",
+    "source": "ai"
+  },
+  {
+    "name": "Humanitec",
+    "category": "AI DevOps, cloud and infrastructure",
+    "website": "https://humanitec.com",
+    "source": "ai"
+  },
+  {
+    "name": "Port",
+    "category": "AI DevOps, cloud and infrastructure",
+    "website": "https://port.com",
+    "source": "ai"
+  },
+  {
+    "name": "Cortex",
+    "category": "AI DevOps, cloud and infrastructure",
+    "website": "https://cortex.com",
+    "source": "ai"
+  },
+  {
+    "name": "Qovery",
+    "category": "AI DevOps, cloud and infrastructure",
+    "website": "https://qovery.com",
+    "source": "ai"
+  },
+  {
+    "name": "Kubernetes",
+    "category": "AI DevOps, cloud and infrastructure",
+    "website": "https://kubernetes.com",
+    "source": "ai"
+  },
+  {
+    "name": "Docker",
+    "category": "AI DevOps, cloud and infrastructure",
+    "website": "https://docker.com",
+    "source": "ai"
+  },
+  {
+    "name": "Dagger",
+    "category": "AI DevOps, cloud and infrastructure",
+    "website": "https://dagger.com",
+    "source": "ai"
+  },
+  {
+    "name": "Earthly",
+    "category": "AI DevOps, cloud and infrastructure",
+    "website": "https://earthly.com",
+    "source": "ai"
+  },
+  {
+    "name": "New Relic",
+    "category": "AI DevOps, cloud and infrastructure",
+    "website": "https://new-relic.com",
+    "source": "ai"
+  },
+  {
+    "name": "Grafana",
+    "category": "AI DevOps, cloud and infrastructure",
+    "website": "https://grafana.com",
+    "source": "ai"
+  },
+  {
+    "name": "Honeycomb",
+    "category": "AI DevOps, cloud and infrastructure",
+    "website": "https://honeycomb.com",
+    "source": "ai"
+  },
+  {
+    "name": "Socket",
+    "category": "AI security and privacy tools",
+    "website": "https://socket.com",
+    "source": "ai"
+  },
+  {
+    "name": "GitGuardian",
+    "category": "AI security and privacy tools",
+    "website": "https://gitguardian.com",
+    "source": "ai"
+  },
+  {
+    "name": "Aikido Security",
+    "category": "AI security and privacy tools",
+    "website": "https://aikido-security.com",
+    "source": "ai"
+  },
+  {
+    "name": "Endor Labs",
+    "category": "AI security and privacy tools",
+    "website": "https://endor-labs.com",
+    "source": "ai"
+  },
+  {
+    "name": "Contrast Security",
+    "category": "AI security and privacy tools",
+    "website": "https://contrast-security.com",
+    "source": "ai"
+  },
+  {
+    "name": "Ox Security",
+    "category": "AI security and privacy tools",
+    "website": "https://ox-security.com",
+    "source": "ai"
+  },
+  {
+    "name": "Wiz",
+    "category": "AI security and privacy tools",
+    "website": "https://wiz.com",
+    "source": "ai"
+  },
+  {
+    "name": "Orca Security",
+    "category": "AI security and privacy tools",
+    "website": "https://orca-security.com",
+    "source": "ai"
+  },
+  {
+    "name": "Lacework",
+    "category": "AI security and privacy tools",
+    "website": "https://lacework.com",
+    "source": "ai"
+  },
+  {
+    "name": "Palo Alto Prisma Cloud",
+    "category": "AI security and privacy tools",
+    "website": "https://palo-alto-prisma-cloud.com",
+    "source": "ai"
+  },
+  {
+    "name": "Dependabot",
+    "category": "AI security and privacy tools",
+    "website": "https://dependabot.com",
+    "source": "ai"
+  },
+  {
+    "name": "Renovate",
+    "category": "AI security and privacy tools",
+    "website": "https://renovate.com",
+    "source": "ai"
+  },
+  {
+    "name": "Promptfoo",
+    "category": "AI security and privacy tools",
+    "website": "https://promptfoo.com",
+    "source": "ai"
+  },
+  {
+    "name": "Garak",
+    "category": "AI security and privacy tools",
+    "website": "https://garak.com",
+    "source": "ai"
+  },
+  {
+    "name": "Protect AI",
+    "category": "AI security and privacy tools",
+    "website": "https://protect-ai.com",
+    "source": "ai"
+  },
+  {
+    "name": "Lakera",
+    "category": "AI security and privacy tools",
+    "website": "https://lakera.com",
+    "source": "ai"
+  },
+  {
+    "name": "HiddenLayer",
+    "category": "AI security and privacy tools",
+    "website": "https://hiddenlayer.com",
+    "source": "ai"
+  },
+  {
+    "name": "Robust Intelligence",
+    "category": "AI security and privacy tools",
+    "website": "https://robust-intelligence.com",
+    "source": "ai"
+  },
+  {
+    "name": "Fiddler AI",
+    "category": "AI security and privacy tools",
+    "website": "https://fiddler-ai.com",
+    "source": "ai"
+  },
+  {
+    "name": "WhyLabs",
+    "category": "AI security and privacy tools",
+    "website": "https://whylabs.com",
+    "source": "ai"
+  },
+  {
+    "name": "LangSmith",
+    "category": "AI evaluation, monitoring and observability",
+    "website": "https://langsmith.com",
+    "source": "ai"
+  },
+  {
+    "name": "Langfuse",
+    "category": "AI evaluation, monitoring and observability",
+    "website": "https://langfuse.com",
+    "source": "ai"
+  },
+  {
+    "name": "Braintrust",
+    "category": "AI evaluation, monitoring and observability",
+    "website": "https://braintrust.com",
+    "source": "ai"
+  },
+  {
+    "name": "Arize AI",
+    "category": "AI evaluation, monitoring and observability",
+    "website": "https://arize-ai.com",
+    "source": "ai"
+  },
+  {
+    "name": "Phoenix",
+    "category": "AI evaluation, monitoring and observability",
+    "website": "https://phoenix.com",
+    "source": "ai"
+  },
+  {
+    "name": "Helicone",
+    "category": "AI evaluation, monitoring and observability",
+    "website": "https://helicone.com",
+    "source": "ai"
+  },
+  {
+    "name": "Weights & Biases",
+    "category": "AI evaluation, monitoring and observability",
+    "website": "https://weights-biases.com",
+    "source": "ai"
+  },
+  {
+    "name": "MLflow",
+    "category": "AI evaluation, monitoring and observability",
+    "website": "https://mlflow.com",
+    "source": "ai"
+  },
+  {
+    "name": "Confident AI",
+    "category": "AI evaluation, monitoring and observability",
+    "website": "https://confident-ai.com",
+    "source": "ai"
+  },
+  {
+    "name": "DeepEval",
+    "category": "AI evaluation, monitoring and observability",
+    "website": "https://deepeval.com",
+    "source": "ai"
+  },
+  {
+    "name": "Ragas",
+    "category": "AI evaluation, monitoring and observability",
+    "website": "https://ragas.com",
+    "source": "ai"
+  },
+  {
+    "name": "Evidently AI",
+    "category": "AI evaluation, monitoring and observability",
+    "website": "https://evidently-ai.com",
+    "source": "ai"
+  },
+  {
+    "name": "Giskard",
+    "category": "AI evaluation, monitoring and observability",
+    "website": "https://giskard.com",
+    "source": "ai"
+  },
+  {
+    "name": "TruLens",
+    "category": "AI evaluation, monitoring and observability",
+    "website": "https://trulens.com",
+    "source": "ai"
+  },
+  {
+    "name": "OpenTelemetry",
+    "category": "AI evaluation, monitoring and observability",
+    "website": "https://opentelemetry.com",
+    "source": "ai"
+  },
+  {
+    "name": "Opik",
+    "category": "AI evaluation, monitoring and observability",
+    "website": "https://opik.com",
+    "source": "ai"
+  },
+  {
+    "name": "Patronus AI",
+    "category": "AI evaluation, monitoring and observability",
+    "website": "https://patronus-ai.com",
+    "source": "ai"
+  },
+  {
+    "name": "Galileo",
+    "category": "AI evaluation, monitoring and observability",
+    "website": "https://galileo.com",
+    "source": "ai"
+  },
+  {
+    "name": "Parea AI",
+    "category": "AI evaluation, monitoring and observability",
+    "website": "https://parea-ai.com",
+    "source": "ai"
+  },
+  {
+    "name": "Portkey",
+    "category": "AI evaluation, monitoring and observability",
+    "website": "https://portkey.com",
+    "source": "ai"
+  },
+  {
+    "name": "Keywords AI",
+    "category": "AI evaluation, monitoring and observability",
+    "website": "https://keywords-ai.com",
+    "source": "ai"
+  },
+  {
+    "name": "Julius AI",
+    "category": "AI data analysis and business intelligence",
+    "website": "https://julius-ai.com",
+    "source": "ai"
+  },
+  {
+    "name": "Microsoft Power BI",
+    "category": "AI data analysis and business intelligence",
+    "website": "https://microsoft-power-bi.com",
+    "source": "ai"
+  },
+  {
+    "name": "Tableau",
+    "category": "AI data analysis and business intelligence",
+    "website": "https://tableau.com",
+    "source": "ai"
+  },
+  {
+    "name": "ThoughtSpot",
+    "category": "AI data analysis and business intelligence",
+    "website": "https://thoughtspot.com",
+    "source": "ai"
+  },
+  {
+    "name": "Hex",
+    "category": "AI data analysis and business intelligence",
+    "website": "https://hex.com",
+    "source": "ai"
+  },
+  {
+    "name": "Evidence",
+    "category": "AI data analysis and business intelligence",
+    "website": "https://evidence.com",
+    "source": "ai"
+  },
+  {
+    "name": "Omni",
+    "category": "AI data analysis and business intelligence",
+    "website": "https://omni.com",
+    "source": "ai"
+  },
+  {
+    "name": "Metabase",
+    "category": "AI data analysis and business intelligence",
+    "website": "https://metabase.com",
+    "source": "ai"
+  },
+  {
+    "name": "Apache Superset",
+    "category": "AI data analysis and business intelligence",
+    "website": "https://apache-superset.com",
+    "source": "ai"
+  },
+  {
+    "name": "Lightdash",
+    "category": "AI data analysis and business intelligence",
+    "website": "https://lightdash.com",
+    "source": "ai"
+  },
+  {
+    "name": "Preset",
+    "category": "AI data analysis and business intelligence",
+    "website": "https://preset.com",
+    "source": "ai"
+  },
+  {
+    "name": "Seek AI",
+    "category": "AI data analysis and business intelligence",
+    "website": "https://seek-ai.com",
+    "source": "ai"
+  },
+  {
+    "name": "Defog",
+    "category": "AI data analysis and business intelligence",
+    "website": "https://defog.com",
+    "source": "ai"
+  },
+  {
+    "name": "Numbers Station",
+    "category": "AI data analysis and business intelligence",
+    "website": "https://numbers-station.com",
+    "source": "ai"
+  },
+  {
+    "name": "TextQL",
+    "category": "AI data analysis and business intelligence",
+    "website": "https://textql.com",
+    "source": "ai"
+  },
+  {
+    "name": "Snowflake Cortex",
+    "category": "AI data analysis and business intelligence",
+    "website": "https://snowflake-cortex.com",
+    "source": "ai"
+  },
+  {
+    "name": "Databricks AI",
+    "category": "AI data analysis and business intelligence",
+    "website": "https://databricks-ai.com",
+    "source": "ai"
+  },
+  {
+    "name": "MotherDuck",
+    "category": "AI data analysis and business intelligence",
+    "website": "https://motherduck.com",
+    "source": "ai"
+  },
+  {
+    "name": "PandasAI",
+    "category": "AI data analysis and business intelligence",
+    "website": "https://pandasai.com",
+    "source": "ai"
+  },
+  {
+    "name": "Dataherald",
+    "category": "AI data analysis and business intelligence",
+    "website": "https://dataherald.com",
+    "source": "ai"
+  },
+  {
+    "name": "Vanna AI",
+    "category": "AI data analysis and business intelligence",
+    "website": "https://vanna-ai.com",
+    "source": "ai"
+  },
+  {
+    "name": "Granola",
+    "category": "AI meetings, communication and team productivity",
+    "website": "https://granola.com",
+    "source": "ai"
+  },
+  {
+    "name": "Fireflies.ai",
+    "category": "AI meetings, communication and team productivity",
+    "website": "https://fireflies-ai.com",
+    "source": "ai"
+  },
+  {
+    "name": "Fathom",
+    "category": "AI meetings, communication and team productivity",
+    "website": "https://fathom.com",
+    "source": "ai"
+  },
+  {
+    "name": "Otter.ai",
+    "category": "AI meetings, communication and team productivity",
+    "website": "https://otter-ai.com",
+    "source": "ai"
+  },
+  {
+    "name": "tl;dv",
+    "category": "AI meetings, communication and team productivity",
+    "website": "https://tl-dv.com",
+    "source": "ai"
+  },
+  {
+    "name": "Avoma",
+    "category": "AI meetings, communication and team productivity",
+    "website": "https://avoma.com",
+    "source": "ai"
+  },
+  {
+    "name": "Read AI",
+    "category": "AI meetings, communication and team productivity",
+    "website": "https://read-ai.com",
+    "source": "ai"
+  },
+  {
+    "name": "Krisp",
+    "category": "AI meetings, communication and team productivity",
+    "website": "https://krisp.com",
+    "source": "ai"
+  },
+  {
+    "name": "Sembly AI",
+    "category": "AI meetings, communication and team productivity",
+    "website": "https://sembly-ai.com",
+    "source": "ai"
+  },
+  {
+    "name": "Supernormal",
+    "category": "AI meetings, communication and team productivity",
+    "website": "https://supernormal.com",
+    "source": "ai"
+  },
+  {
+    "name": "Jamie",
+    "category": "AI meetings, communication and team productivity",
+    "website": "https://jamie.com",
+    "source": "ai"
+  },
+  {
+    "name": "MeetGeek",
+    "category": "AI meetings, communication and team productivity",
+    "website": "https://meetgeek.com",
+    "source": "ai"
+  },
+  {
+    "name": "Zoom AI Companion",
+    "category": "AI meetings, communication and team productivity",
+    "website": "https://zoom-ai-companion.com",
+    "source": "ai"
+  },
+  {
+    "name": "Microsoft Teams Copilot",
+    "category": "AI meetings, communication and team productivity",
+    "website": "https://microsoft-teams-copilot.com",
+    "source": "ai"
+  },
+  {
+    "name": "Slack AI",
+    "category": "AI meetings, communication and team productivity",
+    "website": "https://slack-ai.com",
+    "source": "ai"
+  },
+  {
+    "name": "ClickUp AI",
+    "category": "AI meetings, communication and team productivity",
+    "website": "https://clickup-ai.com",
+    "source": "ai"
+  },
+  {
+    "name": "Linear",
+    "category": "AI meetings, communication and team productivity",
+    "website": "https://linear.com",
+    "source": "ai"
+  },
+  {
+    "name": "Asana AI",
+    "category": "AI meetings, communication and team productivity",
+    "website": "https://asana-ai.com",
+    "source": "ai"
+  },
+  {
+    "name": "Atlassian Rovo",
+    "category": "AI meetings, communication and team productivity",
+    "website": "https://atlassian-rovo.com",
+    "source": "ai"
+  },
+  {
+    "name": "Taskade",
+    "category": "AI meetings, communication and team productivity",
+    "website": "https://taskade.com",
+    "source": "ai"
+  },
+  {
+    "name": "Reclaim AI",
+    "category": "AI meetings, communication and team productivity",
+    "website": "https://reclaim-ai.com",
+    "source": "ai"
+  },
+  {
+    "name": "Motion",
+    "category": "AI meetings, communication and team productivity",
+    "website": "https://motion.com",
+    "source": "ai"
+  },
+  {
+    "name": "Sunsama",
+    "category": "AI meetings, communication and team productivity",
+    "website": "https://sunsama.com",
+    "source": "ai"
+  },
+  {
+    "name": "Akiflow",
+    "category": "AI meetings, communication and team productivity",
+    "website": "https://akiflow.com",
+    "source": "ai"
+  },
+  {
+    "name": "Shopify",
+    "category": "AI tools for Shopify, e-commerce and SaaS developers",
+    "website": "https://shopify.com",
+    "source": "ai"
+  },
+  {
+    "name": "Shopify Dev",
+    "category": "AI tools for Shopify, e-commerce and SaaS developers",
+    "website": "https://shopify-dev.com",
+    "source": "ai"
+  },
+  {
+    "name": "Shopify Sidekick",
+    "category": "AI tools for Shopify, e-commerce and SaaS developers",
+    "website": "https://shopify-sidekick.com",
+    "source": "ai"
+  },
+  {
+    "name": "Shopify Magic",
+    "category": "AI tools for Shopify, e-commerce and SaaS developers",
+    "website": "https://shopify-magic.com",
+    "source": "ai"
+  },
+  {
+    "name": "Shopify MCP",
+    "category": "AI tools for Shopify, e-commerce and SaaS developers",
+    "website": "https://shopify-mcp.com",
+    "source": "ai"
+  },
+  {
+    "name": "Tidio",
+    "category": "AI tools for Shopify, e-commerce and SaaS developers",
+    "website": "https://tidio.com",
+    "source": "ai"
+  },
+  {
+    "name": "Gorgias",
+    "category": "AI tools for Shopify, e-commerce and SaaS developers",
+    "website": "https://gorgias.com",
+    "source": "ai"
+  },
+  {
+    "name": "Klaviyo AI",
+    "category": "AI tools for Shopify, e-commerce and SaaS developers",
+    "website": "https://klaviyo-ai.com",
+    "source": "ai"
+  },
+  {
+    "name": "Yotpo",
+    "category": "AI tools for Shopify, e-commerce and SaaS developers",
+    "website": "https://yotpo.com",
+    "source": "ai"
+  },
+  {
+    "name": "Nosto",
+    "category": "AI tools for Shopify, e-commerce and SaaS developers",
+    "website": "https://nosto.com",
+    "source": "ai"
+  },
+  {
+    "name": "Rebuy",
+    "category": "AI tools for Shopify, e-commerce and SaaS developers",
+    "website": "https://rebuy.com",
+    "source": "ai"
+  },
+  {
+    "name": "Octane AI",
+    "category": "AI tools for Shopify, e-commerce and SaaS developers",
+    "website": "https://octane-ai.com",
+    "source": "ai"
+  },
+  {
+    "name": "Constructor",
+    "category": "AI tools for Shopify, e-commerce and SaaS developers",
+    "website": "https://constructor.com",
+    "source": "ai"
+  },
+  {
+    "name": "Algolia",
+    "category": "AI tools for Shopify, e-commerce and SaaS developers",
+    "website": "https://algolia.com",
+    "source": "ai"
+  },
+  {
+    "name": "Searchspring",
+    "category": "AI tools for Shopify, e-commerce and SaaS developers",
+    "website": "https://searchspring.com",
+    "source": "ai"
+  },
+  {
+    "name": "Bloomreach",
+    "category": "AI tools for Shopify, e-commerce and SaaS developers",
+    "website": "https://bloomreach.com",
+    "source": "ai"
+  },
+  {
+    "name": "LimeSpot",
+    "category": "AI tools for Shopify, e-commerce and SaaS developers",
+    "website": "https://limespot.com",
+    "source": "ai"
+  },
+  {
+    "name": "Growave",
+    "category": "AI tools for Shopify, e-commerce and SaaS developers",
+    "website": "https://growave.com",
+    "source": "ai"
+  },
+  {
+    "name": "Judge.me",
+    "category": "AI tools for Shopify, e-commerce and SaaS developers",
+    "website": "https://judge-me.com",
+    "source": "ai"
+  },
+  {
+    "name": "Triple Whale",
+    "category": "AI tools for Shopify, e-commerce and SaaS developers",
+    "website": "https://triple-whale.com",
+    "source": "ai"
+  },
+  {
+    "name": "Polar Analytics",
+    "category": "AI tools for Shopify, e-commerce and SaaS developers",
+    "website": "https://polar-analytics.com",
+    "source": "ai"
+  },
+  {
+    "name": "Lifetimely",
+    "category": "AI tools for Shopify, e-commerce and SaaS developers",
+    "website": "https://lifetimely.com",
+    "source": "ai"
+  },
+  {
+    "name": "ShopifyQL",
+    "category": "AI tools for Shopify, e-commerce and SaaS developers",
+    "website": "https://shopifyql.com",
+    "source": "ai"
+  },
+  {
+    "name": "Shopify CLI",
+    "category": "AI tools for Shopify, e-commerce and SaaS developers",
+    "website": "https://shopify-cli.com",
+    "source": "ai"
+  },
+  {
+    "name": "Shopify Polaris",
+    "category": "AI tools for Shopify, e-commerce and SaaS developers",
+    "website": "https://shopify-polaris.com",
+    "source": "ai"
+  },
+  {
+    "name": "Surfer SEO",
+    "category": "AI SEO, marketing and content optimization",
+    "website": "https://surfer-seo.com",
+    "source": "ai"
+  },
+  {
+    "name": "Semrush",
+    "category": "AI SEO, marketing and content optimization",
+    "website": "https://semrush.com",
+    "source": "ai"
+  },
+  {
+    "name": "Ahrefs",
+    "category": "AI SEO, marketing and content optimization",
+    "website": "https://ahrefs.com",
+    "source": "ai"
+  },
+  {
+    "name": "Clearscope",
+    "category": "AI SEO, marketing and content optimization",
+    "website": "https://clearscope.com",
+    "source": "ai"
+  },
+  {
+    "name": "MarketMuse",
+    "category": "AI SEO, marketing and content optimization",
+    "website": "https://marketmuse.com",
+    "source": "ai"
+  },
+  {
+    "name": "Frase",
+    "category": "AI SEO, marketing and content optimization",
+    "website": "https://frase.com",
+    "source": "ai"
+  },
+  {
+    "name": "NeuronWriter",
+    "category": "AI SEO, marketing and content optimization",
+    "website": "https://neuronwriter.com",
+    "source": "ai"
+  },
+  {
+    "name": "Scalenut",
+    "category": "AI SEO, marketing and content optimization",
+    "website": "https://scalenut.com",
+    "source": "ai"
+  },
+  {
+    "name": "Writesonic",
+    "category": "AI SEO, marketing and content optimization",
+    "website": "https://writesonic.com",
+    "source": "ai"
+  },
+  {
+    "name": "Anyword",
+    "category": "AI SEO, marketing and content optimization",
+    "website": "https://anyword.com",
+    "source": "ai"
+  },
+  {
+    "name": "Outranking",
+    "category": "AI SEO, marketing and content optimization",
+    "website": "https://outranking.com",
+    "source": "ai"
+  },
+  {
+    "name": "SE Ranking",
+    "category": "AI SEO, marketing and content optimization",
+    "website": "https://se-ranking.com",
+    "source": "ai"
+  },
+  {
+    "name": "Keyword Insights",
+    "category": "AI SEO, marketing and content optimization",
+    "website": "https://keyword-insights.com",
+    "source": "ai"
+  },
+  {
+    "name": "LowFruits",
+    "category": "AI SEO, marketing and content optimization",
+    "website": "https://lowfruits.com",
+    "source": "ai"
+  },
+  {
+    "name": "AlsoAsked",
+    "category": "AI SEO, marketing and content optimization",
+    "website": "https://alsoasked.com",
+    "source": "ai"
+  },
+  {
+    "name": "AnswerThePublic",
+    "category": "AI SEO, marketing and content optimization",
+    "website": "https://answerthepublic.com",
+    "source": "ai"
+  },
+  {
+    "name": "Screaming Frog",
+    "category": "AI SEO, marketing and content optimization",
+    "website": "https://screaming-frog.com",
+    "source": "ai"
+  },
+  {
+    "name": "Botify",
+    "category": "AI SEO, marketing and content optimization",
+    "website": "https://botify.com",
+    "source": "ai"
+  },
+  {
+    "name": "Conductor",
+    "category": "AI SEO, marketing and content optimization",
+    "website": "https://conductor.com",
+    "source": "ai"
+  },
+  {
+    "name": "Predis.ai",
+    "category": "AI SEO, marketing and content optimization",
+    "website": "https://predis-ai.com",
+    "source": "ai"
+  },
+  {
+    "name": "Buffer",
+    "category": "AI SEO, marketing and content optimization",
+    "website": "https://buffer.com",
+    "source": "ai"
+  },
+  {
+    "name": "Hootsuite",
+    "category": "AI SEO, marketing and content optimization",
+    "website": "https://hootsuite.com",
+    "source": "ai"
+  },
+  {
+    "name": "SocialBee",
+    "category": "AI SEO, marketing and content optimization",
+    "website": "https://socialbee.com",
+    "source": "ai"
+  },
+  {
+    "name": "Taplio",
+    "category": "AI SEO, marketing and content optimization",
+    "website": "https://taplio.com",
+    "source": "ai"
+  },
+  {
+    "name": "AuthoredUp",
+    "category": "AI SEO, marketing and content optimization",
+    "website": "https://authoredup.com",
+    "source": "ai"
+  },
+  {
+    "name": "Shield Analytics",
+    "category": "AI SEO, marketing and content optimization",
+    "website": "https://shield-analytics.com",
+    "source": "ai"
+  },
+  {
+    "name": "Brand24",
+    "category": "AI SEO, marketing and content optimization",
+    "website": "https://brand24.com",
+    "source": "ai"
+  },
+  {
+    "name": "Mention",
+    "category": "AI SEO, marketing and content optimization",
+    "website": "https://mention.com",
+    "source": "ai"
+  },
+  {
+    "name": "HubSpot AI",
+    "category": "AI email, CRM, sales and customer support",
+    "website": "https://hubspot-ai.com",
+    "source": "ai"
+  },
+  {
+    "name": "Salesforce Einstein",
+    "category": "AI email, CRM, sales and customer support",
+    "website": "https://salesforce-einstein.com",
+    "source": "ai"
+  },
+  {
+    "name": "Attio",
+    "category": "AI email, CRM, sales and customer support",
+    "website": "https://attio.com",
+    "source": "ai"
+  },
+  {
+    "name": "Twenty CRM",
+    "category": "AI email, CRM, sales and customer support",
+    "website": "https://twenty-crm.com",
+    "source": "ai"
+  },
+  {
+    "name": "Close",
+    "category": "AI email, CRM, sales and customer support",
+    "website": "https://close.com",
+    "source": "ai"
+  },
+  {
+    "name": "Apollo",
+    "category": "AI email, CRM, sales and customer support",
+    "website": "https://apollo.com",
+    "source": "ai"
+  },
+  {
+    "name": "Clay",
+    "category": "AI email, CRM, sales and customer support",
+    "website": "https://clay.com",
+    "source": "ai"
+  },
+  {
+    "name": "Instantly",
+    "category": "AI email, CRM, sales and customer support",
+    "website": "https://instantly.com",
+    "source": "ai"
+  },
+  {
+    "name": "Smartlead",
+    "category": "AI email, CRM, sales and customer support",
+    "website": "https://smartlead.com",
+    "source": "ai"
+  },
+  {
+    "name": "Lemlist",
+    "category": "AI email, CRM, sales and customer support",
+    "website": "https://lemlist.com",
+    "source": "ai"
+  },
+  {
+    "name": "Reply.io",
+    "category": "AI email, CRM, sales and customer support",
+    "website": "https://reply-io.com",
+    "source": "ai"
+  },
+  {
+    "name": "Regie.ai",
+    "category": "AI email, CRM, sales and customer support",
+    "website": "https://regie-ai.com",
+    "source": "ai"
+  },
+  {
+    "name": "Lavender",
+    "category": "AI email, CRM, sales and customer support",
+    "website": "https://lavender.com",
+    "source": "ai"
+  },
+  {
+    "name": "Intercom Fin",
+    "category": "AI email, CRM, sales and customer support",
+    "website": "https://intercom-fin.com",
+    "source": "ai"
+  },
+  {
+    "name": "Zendesk AI",
+    "category": "AI email, CRM, sales and customer support",
+    "website": "https://zendesk-ai.com",
+    "source": "ai"
+  },
+  {
+    "name": "Ada",
+    "category": "AI email, CRM, sales and customer support",
+    "website": "https://ada.com",
+    "source": "ai"
+  },
+  {
+    "name": "Forethought",
+    "category": "AI email, CRM, sales and customer support",
+    "website": "https://forethought.com",
+    "source": "ai"
+  },
+  {
+    "name": "Freshdesk",
+    "category": "AI email, CRM, sales and customer support",
+    "website": "https://freshdesk.com",
+    "source": "ai"
+  },
+  {
+    "name": "Crisp",
+    "category": "AI email, CRM, sales and customer support",
+    "website": "https://crisp.com",
+    "source": "ai"
+  },
+  {
+    "name": "Chatbase",
+    "category": "AI email, CRM, sales and customer support",
+    "website": "https://chatbase.com",
+    "source": "ai"
+  },
+  {
+    "name": "Botpress",
+    "category": "AI email, CRM, sales and customer support",
+    "website": "https://botpress.com",
+    "source": "ai"
+  },
+  {
+    "name": "Voiceflow",
+    "category": "AI email, CRM, sales and customer support",
+    "website": "https://voiceflow.com",
+    "source": "ai"
+  },
+  {
+    "name": "Typebot",
+    "category": "AI email, CRM, sales and customer support",
+    "website": "https://typebot.com",
+    "source": "ai"
+  },
+  {
+    "name": "Chatwoot",
+    "category": "AI email, CRM, sales and customer support",
+    "website": "https://chatwoot.com",
+    "source": "ai"
+  },
+  {
+    "name": "Papercups",
+    "category": "AI email, CRM, sales and customer support",
+    "website": "https://papercups.com",
+    "source": "ai"
+  },
+  {
+    "name": "Brevo",
+    "category": "AI email, CRM, sales and customer support",
+    "website": "https://brevo.com",
+    "source": "ai"
+  },
+  {
+    "name": "Customer.io",
+    "category": "AI email, CRM, sales and customer support",
+    "website": "https://customer-io.com",
+    "source": "ai"
+  },
+  {
+    "name": "FlutterFlow",
+    "category": "AI mobile app development and cross-platform tools",
+    "website": "https://flutterflow.com",
+    "source": "ai"
+  },
+  {
+    "name": "Draftbit",
+    "category": "AI mobile app development and cross-platform tools",
+    "website": "https://draftbit.com",
+    "source": "ai"
+  },
+  {
+    "name": "Expo",
+    "category": "AI mobile app development and cross-platform tools",
+    "website": "https://expo.com",
+    "source": "ai"
+  },
+  {
+    "name": "Flutter",
+    "category": "AI mobile app development and cross-platform tools",
+    "website": "https://flutter.com",
+    "source": "ai"
+  },
+  {
+    "name": "Ionic",
+    "category": "AI mobile app development and cross-platform tools",
+    "website": "https://ionic.com",
+    "source": "ai"
+  },
+  {
+    "name": "Capacitor",
+    "category": "AI mobile app development and cross-platform tools",
+    "website": "https://capacitor.com",
+    "source": "ai"
+  },
+  {
+    "name": "NativeScript",
+    "category": "AI mobile app development and cross-platform tools",
+    "website": "https://nativescript.com",
+    "source": "ai"
+  },
+  {
+    "name": "AppGyver",
+    "category": "AI mobile app development and cross-platform tools",
+    "website": "https://appgyver.com",
+    "source": "ai"
+  },
+  {
+    "name": "Thunkable",
+    "category": "AI mobile app development and cross-platform tools",
+    "website": "https://thunkable.com",
+    "source": "ai"
+  },
+  {
+    "name": "Glide",
+    "category": "AI mobile app development and cross-platform tools",
+    "website": "https://glide.com",
+    "source": "ai"
+  },
+  {
+    "name": "Adalo",
+    "category": "AI mobile app development and cross-platform tools",
+    "website": "https://adalo.com",
+    "source": "ai"
+  },
+  {
+    "name": "Bravo Studio",
+    "category": "AI mobile app development and cross-platform tools",
+    "website": "https://bravo-studio.com",
+    "source": "ai"
+  },
+  {
+    "name": "AppSheet",
+    "category": "AI mobile app development and cross-platform tools",
+    "website": "https://appsheet.com",
+    "source": "ai"
+  },
+  {
+    "name": "Builder.ai",
+    "category": "AI mobile app development and cross-platform tools",
+    "website": "https://builder-ai.com",
+    "source": "ai"
+  },
+  {
+    "name": "Appcircle",
+    "category": "AI mobile app development and cross-platform tools",
+    "website": "https://appcircle.com",
+    "source": "ai"
+  },
+  {
+    "name": "Expo EAS",
+    "category": "AI mobile app development and cross-platform tools",
+    "website": "https://expo-eas.com",
+    "source": "ai"
+  },
+  {
+    "name": "Kaggle",
+    "category": "AI machine learning, model training and datasets",
+    "website": "https://kaggle.com",
+    "source": "ai"
+  },
+  {
+    "name": "Google Colab",
+    "category": "AI machine learning, model training and datasets",
+    "website": "https://google-colab.com",
+    "source": "ai"
+  },
+  {
+    "name": "Comet ML",
+    "category": "AI machine learning, model training and datasets",
+    "website": "https://comet-ml.com",
+    "source": "ai"
+  },
+  {
+    "name": "ClearML",
+    "category": "AI machine learning, model training and datasets",
+    "website": "https://clearml.com",
+    "source": "ai"
+  },
+  {
+    "name": "DVC",
+    "category": "AI machine learning, model training and datasets",
+    "website": "https://dvc.com",
+    "source": "ai"
+  },
+  {
+    "name": "Kubeflow",
+    "category": "AI machine learning, model training and datasets",
+    "website": "https://kubeflow.com",
+    "source": "ai"
+  },
+  {
+    "name": "Metaflow",
+    "category": "AI machine learning, model training and datasets",
+    "website": "https://metaflow.com",
+    "source": "ai"
+  },
+  {
+    "name": "BentoML",
+    "category": "AI machine learning, model training and datasets",
+    "website": "https://bentoml.com",
+    "source": "ai"
+  },
+  {
+    "name": "KServe",
+    "category": "AI machine learning, model training and datasets",
+    "website": "https://kserve.com",
+    "source": "ai"
+  },
+  {
+    "name": "Ray",
+    "category": "AI machine learning, model training and datasets",
+    "website": "https://ray.com",
+    "source": "ai"
+  },
+  {
+    "name": "Anyscale",
+    "category": "AI machine learning, model training and datasets",
+    "website": "https://anyscale.com",
+    "source": "ai"
+  },
+  {
+    "name": "PyTorch",
+    "category": "AI machine learning, model training and datasets",
+    "website": "https://pytorch.com",
+    "source": "ai"
+  },
+  {
+    "name": "TensorFlow",
+    "category": "AI machine learning, model training and datasets",
+    "website": "https://tensorflow.com",
+    "source": "ai"
+  },
+  {
+    "name": "JAX",
+    "category": "AI machine learning, model training and datasets",
+    "website": "https://jax.com",
+    "source": "ai"
+  },
+  {
+    "name": "scikit-learn",
+    "category": "AI machine learning, model training and datasets",
+    "website": "https://scikit-learn.com",
+    "source": "ai"
+  },
+  {
+    "name": "XGBoost",
+    "category": "AI machine learning, model training and datasets",
+    "website": "https://xgboost.com",
+    "source": "ai"
+  },
+  {
+    "name": "LightGBM",
+    "category": "AI machine learning, model training and datasets",
+    "website": "https://lightgbm.com",
+    "source": "ai"
+  },
+  {
+    "name": "CatBoost",
+    "category": "AI machine learning, model training and datasets",
+    "website": "https://catboost.com",
+    "source": "ai"
+  },
+  {
+    "name": "Label Studio",
+    "category": "AI machine learning, model training and datasets",
+    "website": "https://label-studio.com",
+    "source": "ai"
+  },
+  {
+    "name": "Argilla",
+    "category": "AI machine learning, model training and datasets",
+    "website": "https://argilla.com",
+    "source": "ai"
+  },
+  {
+    "name": "Roboflow",
+    "category": "AI machine learning, model training and datasets",
+    "website": "https://roboflow.com",
+    "source": "ai"
+  },
+  {
+    "name": "FiftyOne",
+    "category": "AI machine learning, model training and datasets",
+    "website": "https://fiftyone.com",
+    "source": "ai"
+  },
+  {
+    "name": "SuperAnnotate",
+    "category": "AI machine learning, model training and datasets",
+    "website": "https://superannotate.com",
+    "source": "ai"
+  },
+  {
+    "name": "Scale AI",
+    "category": "AI machine learning, model training and datasets",
+    "website": "https://scale-ai.com",
+    "source": "ai"
+  },
+  {
+    "name": "Snorkel AI",
+    "category": "AI machine learning, model training and datasets",
+    "website": "https://snorkel-ai.com",
+    "source": "ai"
+  },
+  {
+    "name": "Dataiku",
+    "category": "AI machine learning, model training and datasets",
+    "website": "https://dataiku.com",
+    "source": "ai"
+  },
+  {
+    "name": "H2O.ai",
+    "category": "AI machine learning, model training and datasets",
+    "website": "https://h2o-ai.com",
+    "source": "ai"
+  },
+  {
+    "name": "AutoGluon",
+    "category": "AI machine learning, model training and datasets",
+    "website": "https://autogluon.com",
+    "source": "ai"
+  },
+  {
+    "name": "Raycast",
+    "category": "AI utilities and miscellaneous developer tools",
+    "website": "https://raycast.com",
+    "source": "ai"
+  },
+  {
+    "name": "Pieces for Developers",
+    "category": "AI utilities and miscellaneous developer tools",
+    "website": "https://pieces-for-developers.com",
+    "source": "ai"
+  },
+  {
+    "name": "Codeium",
+    "category": "AI utilities and miscellaneous developer tools",
+    "website": "https://codeium.com",
+    "source": "ai"
+  },
+  {
+    "name": "Phind",
+    "category": "AI utilities and miscellaneous developer tools",
+    "website": "https://phind.com",
+    "source": "ai"
+  },
+  {
+    "name": "Blackbox AI",
+    "category": "AI utilities and miscellaneous developer tools",
+    "website": "https://blackbox-ai.com",
+    "source": "ai"
+  },
+  {
+    "name": "You.com Code Search",
+    "category": "AI utilities and miscellaneous developer tools",
+    "website": "https://you-com-code-search.com",
+    "source": "ai"
+  },
+  {
+    "name": "Sourcegraph",
+    "category": "AI utilities and miscellaneous developer tools",
+    "website": "https://sourcegraph.com",
+    "source": "ai"
+  },
+  {
+    "name": "Grep.app",
+    "category": "AI utilities and miscellaneous developer tools",
+    "website": "https://grep-app.com",
+    "source": "ai"
+  },
+  {
+    "name": "PublicWWW",
+    "category": "AI utilities and miscellaneous developer tools",
+    "website": "https://publicwww.com",
+    "source": "ai"
+  },
+  {
+    "name": "Devv",
+    "category": "AI utilities and miscellaneous developer tools",
+    "website": "https://devv.com",
+    "source": "ai"
+  },
+  {
+    "name": "Kagi",
+    "category": "AI utilities and miscellaneous developer tools",
+    "website": "https://kagi.com",
+    "source": "ai"
+  },
+  {
+    "name": "Exa Code Search",
+    "category": "AI utilities and miscellaneous developer tools",
+    "website": "https://exa-code-search.com",
+    "source": "ai"
+  },
+  {
+    "name": "Fig",
+    "category": "AI utilities and miscellaneous developer tools",
+    "website": "https://fig.com",
+    "source": "ai"
+  },
+  {
+    "name": "Atuin",
+    "category": "AI utilities and miscellaneous developer tools",
+    "website": "https://atuin.com",
+    "source": "ai"
+  },
+  {
+    "name": "ShellGPT",
+    "category": "AI utilities and miscellaneous developer tools",
+    "website": "https://shellgpt.com",
+    "source": "ai"
+  },
+  {
+    "name": "aichat",
+    "category": "AI utilities and miscellaneous developer tools",
+    "website": "https://aichat.com",
+    "source": "ai"
+  },
+  {
+    "name": "LLM CLI",
+    "category": "AI utilities and miscellaneous developer tools",
+    "website": "https://llm-cli.com",
+    "source": "ai"
+  },
+  {
+    "name": "Fabric",
+    "category": "AI utilities and miscellaneous developer tools",
+    "website": "https://fabric.com",
+    "source": "ai"
+  },
+  {
+    "name": "DevToys",
+    "category": "AI utilities and miscellaneous developer tools",
+    "website": "https://devtoys.com",
+    "source": "ai"
+  },
+  {
+    "name": "JSON Crack",
+    "category": "AI utilities and miscellaneous developer tools",
+    "website": "https://json-crack.com",
+    "source": "ai"
+  },
+  {
+    "name": "Carbon",
+    "category": "AI utilities and miscellaneous developer tools",
+    "website": "https://carbon.com",
+    "source": "ai"
+  },
+  {
+    "name": "Ray.so",
+    "category": "AI utilities and miscellaneous developer tools",
+    "website": "https://ray-so.com",
+    "source": "ai"
+  },
+  {
+    "name": "tldraw",
+    "category": "AI utilities and miscellaneous developer tools",
+    "website": "https://tldraw.com",
+    "source": "ai"
+  },
+  {
+    "name": "Excalidraw",
+    "category": "AI utilities and miscellaneous developer tools",
+    "website": "https://excalidraw.com",
+    "source": "ai"
+  },
+  {
+    "name": "Mermaid",
+    "category": "AI utilities and miscellaneous developer tools",
+    "website": "https://mermaid.com",
+    "source": "ai"
+  },
+  {
+    "name": "Eraser",
+    "category": "AI utilities and miscellaneous developer tools",
+    "website": "https://eraser.com",
+    "source": "ai"
+  },
+  {
+    "name": "CodePen",
+    "category": "AI utilities and miscellaneous developer tools",
+    "website": "https://codepen.com",
+    "source": "ai"
+  },
+  {
+    "name": "StackBlitz",
+    "category": "AI utilities and miscellaneous developer tools",
+    "website": "https://stackblitz.com",
+    "source": "ai"
+  },
+  {
+    "name": "CodeSandbox",
+    "category": "AI utilities and miscellaneous developer tools",
+    "website": "https://codesandbox.com",
+    "source": "ai"
+  }
+]
