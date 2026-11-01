@@ -100681,5 +100681,43 @@ export const masterToolsData = [
     "launchMonth": "2026-09",
     "lastSyncedDate": "2026-10-30",
     "dailyTrendingScore": 304
+  },
+  {
+    "id": "telemetry-dev",
+    "name": "telemetry.dev",
+    "slug": "telemetry-dev",
+    "description": "LLM observability platform for AI agents — every agent run as one OpenTelemetry trace with tokens, cost, latency and errors",
+    "category": "AI Evaluation & Observability",
+    "subcategory": "AI evaluation, monitoring and observability",
+    "website": "https://telemetry.dev/",
+    "github": null,
+    "logo": "https://www.google.com/s2/favicons?domain=telemetry.dev&sz=128",
+    "image": null,
+    "pricing": "Freemium",
+    "openSource": false,
+    "platform": [
+      "Web"
+    ],
+    "useCases": [
+      "Trace AI agent runs to find the slow or failing step",
+      "Monitor LLM spend, latency and errors across models and providers",
+      "Integrate seamlessly with CI/CD and production environments"
+    ],
+    "features": [
+      "OpenTelemetry traces for every model call, tool step and retrieval",
+      "Token, cost, latency and error details attached to each span",
+      "Alerts for errors, cost spikes and agent loops; TypeScript and Python SDKs"
+    ],
+    "alternatives": [],
+    "tags": [
+      "AI",
+      "Developer",
+      "Productivity"
+    ],
+    "status": "verified",
+    "featured": false,
+    "trending": true,
+    "lastVerified": "2026-11-01",
+    "lastSyncedDate": "2026-11-01"
   }
 ];
