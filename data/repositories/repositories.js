@@ -61396,5 +61396,196 @@ export const repositoriesData = [
     "launchMonth": "2024-07",
     "lastSyncedDate": "2026-10-30",
     "dailyTrendingScore": 128
+  },
+  {
+    "id": "deepseek-ai-dsh-superagent-prototype",
+    "name": "dsh-superagent-prototype",
+    "owner": "deepseek-ai",
+    "fullName": "deepseek-ai/dsh-superagent-prototype",
+    "slug": "deepseek-ai-dsh-superagent-prototype",
+    "description": "Towards a More Autonomous Agent System",
+    "category": "AI Agent Frameworks, Orchestration & RAG",
+    "subcategory": "AI Agent Frameworks, Orchestration & RAG",
+    "language": "TypeScript",
+    "languageColor": "#3178c6",
+    "stars": 3655,
+    "forks": 338,
+    "license": "MIT",
+    "latestRelease": null,
+    "lastUpdated": "2026-11-01",
+    "githubUrl": "https://github.com/deepseek-ai/dsh-superagent-prototype",
+    "documentation": "https://github.com/deepseek-ai/dsh-superagent-prototype",
+    "installCommand": "git clone https://github.com/deepseek-ai/dsh-superagent-prototype.git",
+    "openSource": true,
+    "trending": true,
+    "features": [
+      "Coding agent for GitHub repositories that automates workflows",
+      "Listens to GitHub events, handles work items and creates pull requests",
+      "Open-source prototype from DeepSeek towards a more autonomous agent system"
+    ],
+    "useCases": [
+      "Automate GitHub repository workflows with an autonomous coding agent",
+      "Self-hostable, inspectable source code and customizable architecture"
+    ],
+    "gettingStarted": "Clone the repository using git clone https://github.com/deepseek-ai/dsh-superagent-prototype.git and follow the instructions in the README.",
+    "dependencies": [
+      "TypeScript"
+    ],
+    "alternatives": [],
+    "tags": [
+      "TypeScript",
+      "AI Agent Frameworks",
+      "Open Source"
+    ],
+    "releaseDate": "2026-10-31",
+    "releaseYear": "2026",
+    "releaseMonth": "2026-10",
+    "launchDate": "2026-10-31",
+    "launchYear": "2026",
+    "launchMonth": "2026-10",
+    "lastSyncedDate": "2026-11-01"
+  },
+  {
+    "id": "heydamir-unslop",
+    "name": "unslop",
+    "owner": "heydamir",
+    "fullName": "heydamir/unslop",
+    "slug": "heydamir-unslop",
+    "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
+    "category": "UI Component Libraries, Design Systems & Generative UI",
+    "subcategory": "UI Component Libraries, Design Systems & Generative UI",
+    "language": "JavaScript",
+    "languageColor": "#f1e05a",
+    "stars": 3728,
+    "forks": 183,
+    "license": "CC BY 4.0",
+    "latestRelease": null,
+    "lastUpdated": "2026-11-01",
+    "githubUrl": "https://github.com/heydamir/unslop",
+    "documentation": "https://github.com/heydamir/unslop",
+    "installCommand": "git clone https://github.com/heydamir/unslop.git",
+    "openSource": true,
+    "trending": true,
+    "features": [
+      "Claude skill that converts AI-generated UI into well-designed interfaces",
+      "Supports multiple front-end frameworks and technologies",
+      "Catches generic AI design before it ships"
+    ],
+    "useCases": [
+      "Refine vibecoded UI mockups into professional, polished designs",
+      "Self-hostable, inspectable source code and customizable architecture"
+    ],
+    "gettingStarted": "Clone the repository using git clone https://github.com/heydamir/unslop.git and follow the instructions in the README.",
+    "dependencies": [
+      "JavaScript"
+    ],
+    "alternatives": [],
+    "tags": [
+      "JavaScript",
+      "UI Component Libraries",
+      "Open Source"
+    ],
+    "releaseDate": "2026-10-29",
+    "releaseYear": "2026",
+    "releaseMonth": "2026-10",
+    "launchDate": "2026-10-29",
+    "launchYear": "2026",
+    "launchMonth": "2026-10",
+    "lastSyncedDate": "2026-11-01"
+  },
+  {
+    "id": "patch-gg-pixelfx",
+    "name": "pixelfx",
+    "owner": "patch-gg",
+    "fullName": "patch-gg/pixelfx",
+    "slug": "patch-gg-pixelfx",
+    "description": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
+    "category": "UI Component Libraries, Design Systems & Generative UI",
+    "subcategory": "UI Component Libraries, Design Systems & Generative UI",
+    "language": "JavaScript",
+    "languageColor": "#f1e05a",
+    "stars": 1652,
+    "forks": 207,
+    "license": "MIT",
+    "latestRelease": null,
+    "lastUpdated": "2026-11-01",
+    "githubUrl": "https://github.com/patch-gg/pixelfx",
+    "documentation": "https://github.com/patch-gg/pixelfx",
+    "installCommand": "git clone https://github.com/patch-gg/pixelfx.git",
+    "openSource": true,
+    "trending": true,
+    "features": [
+      "244 pixel-art effects including fire, explosion, magic and weather",
+      "Every effect is a small piece of code for game and graphics applications",
+      "Includes a Claude Code skill to create your own effects"
+    ],
+    "useCases": [
+      "Add pixel-art effects to games and graphics applications",
+      "Self-hostable, inspectable source code and customizable architecture"
+    ],
+    "gettingStarted": "Clone the repository using git clone https://github.com/patch-gg/pixelfx.git and follow the instructions in the README.",
+    "dependencies": [
+      "JavaScript"
+    ],
+    "alternatives": [],
+    "tags": [
+      "JavaScript",
+      "UI Component Libraries",
+      "Open Source"
+    ],
+    "releaseDate": "2026-10-30",
+    "releaseYear": "2026",
+    "releaseMonth": "2026-10",
+    "launchDate": "2026-10-30",
+    "launchYear": "2026",
+    "launchMonth": "2026-10",
+    "lastSyncedDate": "2026-11-01"
+  },
+  {
+    "id": "arjun-ingole-hop",
+    "name": "hop",
+    "owner": "Arjun-Ingole",
+    "fullName": "Arjun-Ingole/hop",
+    "slug": "arjun-ingole-hop",
+    "description": "Install Linux next to Windows without a USB stick",
+    "category": "Developer Utilities, TUI, CLI & Productivity",
+    "subcategory": "Developer Utilities, TUI, CLI & Productivity",
+    "language": "PowerShell",
+    "languageColor": "#012456",
+    "stars": 803,
+    "forks": 28,
+    "license": "MIT",
+    "latestRelease": null,
+    "lastUpdated": "2026-11-01",
+    "githubUrl": "https://github.com/Arjun-Ingole/hop",
+    "documentation": "https://github.com/Arjun-Ingole/hop",
+    "installCommand": "git clone https://github.com/Arjun-Ingole/hop.git",
+    "openSource": true,
+    "trending": true,
+    "features": [
+      "Installs Linux alongside Windows with no USB stick required",
+      "PowerShell-based dual-boot setup utility"
+    ],
+    "useCases": [
+      "Set up a Linux dual-boot on a Windows machine without a USB drive",
+      "Self-hostable, inspectable source code and customizable architecture"
+    ],
+    "gettingStarted": "Clone the repository using git clone https://github.com/Arjun-Ingole/hop.git and follow the instructions in the README.",
+    "dependencies": [
+      "PowerShell"
+    ],
+    "alternatives": [],
+    "tags": [
+      "PowerShell",
+      "Developer Utilities",
+      "Open Source"
+    ],
+    "releaseDate": "2026-10-30",
+    "releaseYear": "2026",
+    "releaseMonth": "2026-10",
+    "launchDate": "2026-10-30",
+    "launchYear": "2026",
+    "launchMonth": "2026-10",
+    "lastSyncedDate": "2026-11-01"
   }
 ];
