@@ -100719,5 +100719,42 @@ export const masterToolsData = [
     "trending": true,
     "lastVerified": "2026-11-01",
     "lastSyncedDate": "2026-11-01"
+  },
+  {
+    "id": "agentmash",
+    "name": "agentmash",
+    "slug": "agentmash",
+    "description": "Open-source multiplayer AI for teams' coding agents: a shared context layer that warns agents before they edit the same file.",
+    "category": "AI Coding Assistants & Agents",
+    "subcategory": "AI Coding Assistants & Agents",
+    "website": "https://agentmash.dev",
+    "github": null,
+    "logo": "https://www.google.com/s2/favicons?domain=agentmash.dev&sz=128",
+    "image": null,
+    "pricing": "Freemium",
+    "openSource": true,
+    "platform": [
+      "Web"
+    ],
+    "useCases": [
+      "Stop coding agents overwriting each other's work on shared repos",
+      "Let teammates prompt each other's agents, with approval before anything runs"
+    ],
+    "features": [
+      "Agents warn each other before editing a file a teammate's agent is changing",
+      "Prompt a teammate's agent: nothing runs until they approve",
+      "Works with Claude Code, Codex, Cursor and more on your own logins"
+    ],
+    "alternatives": [],
+    "tags": [
+      "AI",
+      "Developer",
+      "Productivity"
+    ],
+    "status": "verified",
+    "featured": false,
+    "trending": true,
+    "lastVerified": "2026-11-02",
+    "lastSyncedDate": "2026-11-02"
   }
 ];
