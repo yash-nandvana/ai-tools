@@ -61587,5 +61587,149 @@ export const repositoriesData = [
     "launchYear": "2026",
     "launchMonth": "2026-10",
     "lastSyncedDate": "2026-11-01"
+  },
+  {
+    "id": "storytold-craft-anything",
+    "name": "craft-anything",
+    "owner": "storytold",
+    "fullName": "storytold/craft-anything",
+    "slug": "storytold-craft-anything",
+    "description": "Craft Anything: understand how any software works, and craft your own.",
+    "category": "AI Coding Agents",
+    "subcategory": "AI Coding Agents",
+    "language": "Rust",
+    "languageColor": "#dea584",
+    "stars": 1399,
+    "forks": 224,
+    "license": "Apache-2.0",
+    "latestRelease": "v0.2.0",
+    "lastUpdated": "2026-11-02",
+    "githubUrl": "https://github.com/storytold/craft-anything",
+    "documentation": "https://github.com/storytold/craft-anything",
+    "installCommand": "git clone https://github.com/storytold/craft-anything.git",
+    "openSource": true,
+    "trending": true,
+    "features": [
+      "Studies a target website, app or game with real inspection tools",
+      "Has a coding agent build a new project and checks it against the original",
+      "Clean-room engine in pure Rust for macOS, Windows, Linux, FreeBSD and Web"
+    ],
+    "useCases": [
+      "Rebuild a website, app or game as your own clean-room implementation",
+      "Self-hostable, inspectable source code and customizable architecture"
+    ],
+    "gettingStarted": "Clone the repository using git clone https://github.com/storytold/craft-anything.git and follow the instructions in the README.",
+    "dependencies": [
+      "Rust"
+    ],
+    "alternatives": [],
+    "tags": [
+      "Rust",
+      "AI Coding Agents",
+      "Open Source"
+    ],
+    "releaseDate": "2026-10-31",
+    "releaseYear": "2026",
+    "releaseMonth": "2026-10",
+    "launchDate": "2026-10-31",
+    "launchYear": "2026",
+    "launchMonth": "2026-10",
+    "lastSyncedDate": "2026-11-02"
+  },
+  {
+    "id": "caru-ini-stack-diagram",
+    "name": "stack-diagram",
+    "owner": "caru-ini",
+    "fullName": "caru-ini/stack-diagram",
+    "slug": "caru-ini-stack-diagram",
+    "description": "Agent skill: describe your stack in a sentence, get an architecture diagram with official logos",
+    "category": "Code Visualization",
+    "subcategory": "Code Visualization",
+    "language": "Python",
+    "languageColor": "#3572A5",
+    "stars": 501,
+    "forks": 18,
+    "license": "MIT",
+    "latestRelease": "v0.2.0",
+    "lastUpdated": "2026-11-02",
+    "githubUrl": "https://github.com/caru-ini/stack-diagram",
+    "documentation": "https://github.com/caru-ini/stack-diagram",
+    "installCommand": "npx skills add caru-ini/stack-diagram",
+    "openSource": true,
+    "trending": true,
+    "features": [
+      "Turns a one-sentence stack description into an architecture diagram",
+      "Uses official logos for each service in the diagram",
+      "Works with Claude Code, Codex, Cursor and other agents that support skills"
+    ],
+    "useCases": [
+      "Document a system architecture diagram from a plain-language stack description",
+      "Self-hostable, inspectable source code and customizable architecture"
+    ],
+    "gettingStarted": "Install with npx skills add caru-ini/stack-diagram and follow the instructions in the README.",
+    "dependencies": [
+      "Python"
+    ],
+    "alternatives": [],
+    "tags": [
+      "Python",
+      "Code Visualization",
+      "Open Source"
+    ],
+    "releaseDate": "2026-11-01",
+    "releaseYear": "2026",
+    "releaseMonth": "2026-11",
+    "launchDate": "2026-11-01",
+    "launchYear": "2026",
+    "launchMonth": "2026-11",
+    "lastSyncedDate": "2026-11-02"
+  },
+  {
+    "id": "balanov-uncut",
+    "name": "uncut",
+    "owner": "Balanov",
+    "fullName": "Balanov/uncut",
+    "slug": "balanov-uncut",
+    "description": "The lossless, headless coding agent harness. One 7 MB static binary, four tools, plain stdin/stdout, no silent cuts.",
+    "category": "AI Coding Agents",
+    "subcategory": "AI Coding Agents",
+    "language": "Go",
+    "languageColor": "#00ADD8",
+    "stars": 294,
+    "forks": 1,
+    "license": "MIT",
+    "latestRelease": "v0.1.1",
+    "lastUpdated": "2026-11-02",
+    "githubUrl": "https://github.com/Balanov/uncut",
+    "documentation": "https://github.com/Balanov/uncut",
+    "installCommand": "git clone https://github.com/Balanov/uncut.git",
+    "openSource": true,
+    "trending": true,
+    "features": [
+      "7 MB static binary for shell pipelines, CI jobs, containers and agent experiments",
+      "Sends the entire conversation on every model call, never truncating file contents or command output",
+      "No TUI, telemetry, plugin system, background agents or automatic retries"
+    ],
+    "useCases": [
+      "Run a coding agent in headless shell pipelines and CI jobs without silent context cuts",
+      "Self-hostable, inspectable source code and customizable architecture"
+    ],
+    "gettingStarted": "Clone the repository using git clone https://github.com/Balanov/uncut.git and follow the instructions in the README.",
+    "dependencies": [
+      "Go"
+    ],
+    "alternatives": [],
+    "tags": [
+      "Go",
+      "AI Coding Agents",
+      "Open Source"
+    ],
+    "releaseDate": "2026-11-01",
+    "releaseYear": "2026",
+    "releaseMonth": "2026-11",
+    "launchDate": "2026-11-01",
+    "launchYear": "2026",
+    "launchMonth": "2026-11",
+    "lastSyncedDate": "2026-11-02"
   }
 ];
