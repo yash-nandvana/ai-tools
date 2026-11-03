@@ -161,7 +161,7 @@ export default function RepositoryDetailPage({ params }) {
           {/* Install Command */}
           <div className="space-y-2">
             <h2 className="text-xs font-bold uppercase tracking-wider text-slate-400 dark:text-slate-500">
-              Clone Command
+              Install Command
             </h2>
             <div className="flex items-center justify-between p-3.5 rounded-xl bg-slate-900 text-slate-200 font-mono text-xs border border-slate-800 shadow-inner">
               <span>{repo.installCommand || `git clone ${repo.githubUrl}.git`}</span>

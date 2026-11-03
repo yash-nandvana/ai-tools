@@ -64,7 +64,7 @@ export default function RepositorySidebarModal({ repo, onClose }) {
     const cmd = installCommand || `git clone ${githubUrl}.git`;
     navigator.clipboard.writeText(cmd);
     setCopiedClone(true);
-    showToast('Copied git clone command!');
+    showToast('Copied install command!');
     setTimeout(() => setCopiedClone(false), 2000);
   };
 
@@ -192,10 +192,10 @@ export default function RepositorySidebarModal({ repo, onClose }) {
             </div>
           </div>
 
-          {/* Quick Clone Terminal Box */}
+          {/* Quick Install Terminal Box */}
           <div className="space-y-1.5">
             <span className="text-[11px] font-bold uppercase tracking-wider text-slate-400 dark:text-slate-500">
-              Quick Clone Command
+              Quick Install Command
             </span>
             <div className="flex items-center justify-between gap-3 p-3 rounded-xl bg-slate-900 text-slate-200 font-mono text-xs border border-slate-800 shadow-inner">
               <span className="truncate">

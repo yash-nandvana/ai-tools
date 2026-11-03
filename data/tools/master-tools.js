@@ -100757,4 +100757,87 @@ export const masterToolsData = [
     "lastVerified": "2026-11-02",
     "lastSyncedDate": "2026-11-02"
   }
+,
+  {
+    "id": "awaitio",
+    "name": "AwaitIO",
+    "slug": "awaitio",
+    "description": "Turn async TypeScript functions into internal tools: every await io.input shows a form in the browser, building a secure self-hosted back office in minutes with zero frontend code.",
+    "category": "Developer Utilities",
+    "subcategory": "Internal tools & back-office builders",
+    "website": "https://awaitio.com",
+    "github": null,
+    "logo": "https://www.google.com/s2/favicons?domain=awaitio.com&sz=128",
+    "image": null,
+    "pricing": "Freemium",
+    "openSource": false,
+    "platform": [
+      "Web"
+    ],
+    "useCases": [
+      "Build a secure self-hosted back office in minutes without writing frontend code",
+      "Let ops teams run refunds, trial extensions and account fixes through reviewed actions"
+    ],
+    "features": [
+      "Every await io.input renders a form in the browser and waits for the answer",
+      "Runs on your own server with no database required and no telemetry",
+      "Free for up to 3 users, commercial use included",
+      "Actions in folders become navigation with custom page layouts"
+    ],
+    "alternatives": [],
+    "tags": [
+      "AI",
+      "Developer",
+      "Productivity"
+    ],
+    "status": "verified",
+    "featured": false,
+    "trending": true,
+    "lastVerified": "2026-11-03",
+    "launchDate": "2026-11-02",
+    "launchYear": "2026",
+    "launchMonth": "2026-11",
+    "lastSyncedDate": "2026-11-03"
+  },
+  {
+    "id": "backenly",
+    "name": "Backenly",
+    "slug": "backenly",
+    "description": "Autonomous backend platform for AI coding agents: your agent builds Postgres, auth, storage and realtime over MCP, and a self-healing loop repairs what it can verify every minute.",
+    "category": "DevOps & Cloud Infrastructure",
+    "subcategory": "Autonomous backend platforms for AI coding agents",
+    "website": "https://backenly.com",
+    "github": "https://github.com/backenly/backenly",
+    "logo": "https://www.google.com/s2/favicons?domain=backenly.com&sz=128",
+    "image": null,
+    "pricing": "Freemium",
+    "openSource": true,
+    "platform": [
+      "Web"
+    ],
+    "useCases": [
+      "Let a coding agent build and run a production backend over MCP",
+      "Keep a backend self-healing with verified, reversible fixes and human approval for risky changes"
+    ],
+    "features": [
+      "Agents build tables, auth, RLS policies, storage, functions and realtime over MCP",
+      "Self-healing loop checks the backend every minute and fixes what it can verify",
+      "Destructive changes always wait for human approval and every change is versioned with rollback",
+      "Free Cloud plan with no credit card; self-hosting free under Apache-2.0"
+    ],
+    "alternatives": [],
+    "tags": [
+      "AI",
+      "Developer",
+      "Productivity"
+    ],
+    "status": "verified",
+    "featured": false,
+    "trending": true,
+    "lastVerified": "2026-11-03",
+    "launchDate": "2026-10-29",
+    "launchYear": "2026",
+    "launchMonth": "2026-10",
+    "lastSyncedDate": "2026-11-03"
+  }
 ];

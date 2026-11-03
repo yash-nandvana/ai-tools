@@ -61732,4 +61732,103 @@ export const repositoriesData = [
     "launchMonth": "2026-11",
     "lastSyncedDate": "2026-11-02"
   }
+,
+  {
+    "id": "balanov-shim",
+    "name": "shim",
+    "owner": "Balanov",
+    "fullName": "Balanov/shim",
+    "slug": "balanov-shim",
+    "description": "Tiny local-first AI harness: any model, MCP and Agent Skills, natural-language CLI. Zero dependencies.",
+    "category": "AI Coding Assistants, CLI Agents & LLM Tools",
+    "subcategory": "AI Coding Assistants, CLI Agents & LLM Tools",
+    "language": "Go",
+    "languageColor": "#00ADD8",
+    "stars": 247,
+    "forks": 0,
+    "license": "MIT",
+    "latestRelease": "v0.1.0",
+    "lastUpdated": "2026-11-03",
+    "githubUrl": "https://github.com/Balanov/shim",
+    "documentation": "https://github.com/Balanov/shim",
+    "installCommand": "go install github.com/Balanov/shim/cmd/shim@v0.1.0",
+    "openSource": true,
+    "trending": true,
+    "features": [
+      "One static binary with zero dependencies and no telemetry",
+      "Natural-language CLI plus a full scriptable CLI, with a local mini-model as command router",
+      "Any model API via OpenAI-compatible and Anthropic adapters, plus local provider presets",
+      "Any MCP server over stdio or Streamable HTTP and lazy SKILL.md loading"
+    ],
+    "useCases": [
+      "Run a local-first AI harness from the terminal with any model",
+      "Self-hostable, inspectable source code and customizable architecture"
+    ],
+    "gettingStarted": "Install with go install github.com/Balanov/shim/cmd/shim@v0.1.0 and follow the instructions in the README.",
+    "dependencies": [
+      "Go"
+    ],
+    "alternatives": [],
+    "tags": [
+      "Go",
+      "AI Coding Assistants, CLI Agents & LLM Tools",
+      "Open Source"
+    ],
+    "releaseDate": "2026-11-02",
+    "releaseYear": "2026",
+    "releaseMonth": "2026-11",
+    "launchDate": "2026-11-02",
+    "launchYear": "2026",
+    "launchMonth": "2026-11",
+    "lastSyncedDate": "2026-11-03"
+  },
+  {
+    "id": "justrach-nanolight",
+    "name": "nanolight",
+    "owner": "justrach",
+    "fullName": "justrach/nanolight",
+    "slug": "justrach-nanolight",
+    "description": "Native Zig launcher for Mac, Windows and Linux: apps, math, Google suggestions, Grok and X search, plus Raycast extensions — about 2 MB, no Electron.",
+    "category": "Developer Utilities, TUI, CLI & Productivity",
+    "subcategory": "Developer Utilities, TUI, CLI & Productivity",
+    "language": "Zig",
+    "languageColor": "#ec915c",
+    "stars": 236,
+    "forks": 13,
+    "license": "MIT",
+    "latestRelease": null,
+    "lastUpdated": "2026-11-03",
+    "githubUrl": "https://github.com/justrach/nanolight",
+    "documentation": "https://github.com/justrach/nanolight",
+    "installCommand": "git clone https://github.com/justrach/nanolight.git",
+    "openSource": true,
+    "trending": true,
+    "features": [
+      "Fuzzy app search with inline completion and usage-based ranking",
+      "Built-in math, Google suggestions and in-panel search results",
+      "Runs Raycast Store extensions and script commands in the panel",
+      "Native Zig binary of about 2 MB with no Electron"
+    ],
+    "useCases": [
+      "Launch apps, compute and search from one keystroke on Mac, Windows or Linux",
+      "Self-hostable, inspectable source code and customizable architecture"
+    ],
+    "gettingStarted": "Clone the repository using git clone https://github.com/justrach/nanolight.git and follow the instructions in the README.",
+    "dependencies": [
+      "Zig"
+    ],
+    "alternatives": [],
+    "tags": [
+      "Zig",
+      "Developer Utilities, TUI, CLI & Productivity",
+      "Open Source"
+    ],
+    "releaseDate": "2026-11-02",
+    "releaseYear": "2026",
+    "releaseMonth": "2026-11",
+    "launchDate": "2026-11-02",
+    "launchYear": "2026",
+    "launchMonth": "2026-11",
+    "lastSyncedDate": "2026-11-03"
+  }
 ];
