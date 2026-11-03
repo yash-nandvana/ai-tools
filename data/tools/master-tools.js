@@ -100807,7 +100807,7 @@ export const masterToolsData = [
     "category": "DevOps & Cloud Infrastructure",
     "subcategory": "Autonomous backend platforms for AI coding agents",
     "website": "https://backenly.com",
-    "github": null,
+    "github": "https://github.com/backenly/backenly",
     "logo": "https://www.google.com/s2/favicons?domain=backenly.com&sz=128",
     "image": null,
     "pricing": "Freemium",
@@ -100835,6 +100835,9 @@ export const masterToolsData = [
     "featured": false,
     "trending": true,
     "lastVerified": "2026-11-03",
+    "launchDate": "2026-10-29",
+    "launchYear": "2026",
+    "launchMonth": "2026-10",
     "lastSyncedDate": "2026-11-03"
   }
 ];
