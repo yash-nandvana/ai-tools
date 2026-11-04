@@ -6262,5 +6262,17 @@
     "category": "AI utilities and miscellaneous developer tools",
     "website": "https://codesandbox.com",
     "source": "ai"
+  },
+  {
+        "name": "Testera",
+        "category": "AI-driven API testing",
+        "website": "https://testera.io/probe",
+        "source": "qa"
+  },
+  {
+        "name": "Prism",
+        "category": "AI agent frameworks for hardware engineering",
+        "website": "https://navier.ai/prism",
+        "source": "ai"
   }
 ]
