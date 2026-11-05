@@ -61849,7 +61849,6 @@ export const repositoriesData = [
     "lastUpdated": "2026-11-05",
     "githubUrl": "https://github.com/andrew-babo/muse4ai",
     "documentation": "https://muse4ai.andrewbabo.com",
-    "installCommand": "Download the Windows app from https://muse4ai.andrewbabo.com/download",
     "openSource": true,
     "trending": true,
     "features": [
