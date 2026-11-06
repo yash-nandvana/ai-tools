@@ -62084,5 +62084,111 @@ export const repositoriesData = [
     "launchYear": "2026",
     "launchMonth": "2026-11",
     "lastSyncedDate": "2026-11-05"
+  },
+  {
+    "id": "rerun-build-rerun",
+    "name": "Rerun",
+    "owner": "rerun-build",
+    "fullName": "rerun-build/rerun",
+    "slug": "rerun-build-rerun",
+    "description": "Hire AI coworkers for your team: a Foreman plans and builds a team of agents that use your tools, work on a schedule, and check with you before anything that matters. Self-hostable, AGPL-3.0.",
+    "category": "AI Agent Frameworks, Orchestration & RAG",
+    "subcategory": "AI Agent Frameworks, Orchestration & RAG",
+    "language": "TypeScript",
+    "languageColor": "#3178c6",
+    "stars": 735,
+    "forks": 76,
+    "license": "AGPL-3.0",
+    "latestRelease": null,
+    "lastUpdated": "2026-11-06",
+    "githubUrl": "https://github.com/rerun-build/rerun",
+    "documentation": "https://docs.rerun.build",
+    "installCommand": "git clone https://github.com/rerun-build/rerun.git",
+    "openSource": true,
+    "trending": true,
+    "features": [
+      "A Foreman interviews you, plans a team and builds it - each coworker gets a job, its own memory, skills and computer",
+      "Coworkers use 200+ tools in the catalog, any MCP server, and 2,000+ apps through Composio",
+      "Runs on your Claude or ChatGPT subscription, an API key, OpenRouter, or your own model via Ollama, LM Studio or vLLM",
+      "Agents ask before they send, pay or delete anything",
+      "Self-host with Docker, Node.js 22 and Supabase, or use Rerun Cloud"
+    ],
+    "useCases": [
+      "Give recurring team work to AI coworkers that run on a schedule or trigger",
+      "Self-host an AI coworker team on your own infrastructure"
+    ],
+    "gettingStarted": "Clone the repository, copy .env.example to .env with Supabase and OpenRouter keys, run node scripts/self-host-check.mjs, then docker compose up -d --build and open http://localhost:3000. Full guide at https://docs.rerun.build/self-host.",
+    "dependencies": [
+      "Docker",
+      "Node.js 22",
+      "Supabase"
+    ],
+    "alternatives": [],
+    "tags": [
+      "TypeScript",
+      "AI Agent Frameworks, Orchestration & RAG",
+      "Open Source"
+    ],
+    "releaseDate": "2026-10-29",
+    "releaseYear": "2026",
+    "releaseMonth": "2026-10",
+    "launchDate": "2026-10-29",
+    "launchYear": "2026",
+    "launchMonth": "2026-10",
+    "lastSyncedDate": "2026-11-06"
+  },
+  {
+    "id": "josssphzhou-poki",
+    "name": "poki",
+    "owner": "JosssphZhou",
+    "fullName": "JosssphZhou/poki",
+    "slug": "josssphzhou-poki",
+    "description": "Let AI agents operate a real iPhone: a local MCP server and agent that uses your phone like you do - no jailbreak, no extra hardware.",
+    "category": "Model Context Protocol (MCP) & Agent Connectors",
+    "subcategory": "Model Context Protocol (MCP) & Agent Connectors",
+    "language": "JavaScript",
+    "languageColor": "#f1e05a",
+    "stars": 257,
+    "forks": 51,
+    "license": "AGPL-3.0-only",
+    "latestRelease": "v0.1.0",
+    "lastUpdated": "2026-11-06",
+    "githubUrl": "https://github.com/JosssphZhou/poki",
+    "documentation": "https://poki.bot",
+    "installCommand": "git clone https://github.com/JosssphZhou/poki.git",
+    "openSource": true,
+    "trending": true,
+    "features": [
+      "AI agents operate a real iPhone like a person - local MCP server, no jailbreak, no extra hardware",
+      "Connects to Claude Code, Codex or any MCP client using your own subscription",
+      "Prebuilt macOS arm64 package (v0.1.0) with the native bridge and idevice tools included",
+      "Standalone terminal agent with messaging channels (poki login / poki status)",
+      "README in English, Chinese, Japanese, Korean and Spanish"
+    ],
+    "useCases": [
+      "Let Claude Code or Codex control your iPhone through MCP",
+      "Run phone tasks from an agent on your Mac"
+    ],
+    "gettingStarted": "Clone the repository, run ./bin/setup, then npm start; register the MCP server with claude mcp add --scope user poki-mcp -- node \"$PWD/src/stdio.mjs\". Requires macOS 15+, full Xcode, Rust, Node.js 24+ and ffmpeg.",
+    "dependencies": [
+      "macOS 15+",
+      "Xcode",
+      "Rust",
+      "Node.js 24+",
+      "ffmpeg"
+    ],
+    "alternatives": [],
+    "tags": [
+      "JavaScript",
+      "Model Context Protocol (MCP) & Agent Connectors",
+      "Open Source"
+    ],
+    "releaseDate": "2026-11-05",
+    "releaseYear": "2026",
+    "releaseMonth": "2026-11",
+    "launchDate": "2026-11-05",
+    "launchYear": "2026",
+    "launchMonth": "2026-11",
+    "lastSyncedDate": "2026-11-06"
   }
 ];
