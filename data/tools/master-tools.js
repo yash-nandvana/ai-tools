@@ -100839,5 +100839,90 @@ export const masterToolsData = [
     "launchYear": "2026",
     "launchMonth": "2026-10",
     "lastSyncedDate": "2026-11-03"
+  },
+  {
+    "id": "testera",
+    "name": "Testera",
+    "slug": "testera",
+    "description": "AI-driven API testing in the spirit of Postman: chain real HTTP requests on a visual canvas, let an AI agent write and debug them, and turn passing chains into test cases, with hosted MCP for any AI client.",
+    "category": "API & Backend Testing",
+    "subcategory": "AI-driven API testing and agentic test management",
+    "website": "https://testera.io/probe",
+    "github": null,
+    "logo": "https://www.google.com/s2/favicons?domain=testera.io&sz=128",
+    "image": null,
+    "pricing": "Free",
+    "openSource": false,
+    "platform": [
+      "Web"
+    ],
+    "useCases": [
+      "Chain multi-step API flows and map values from one response into the next request",
+      "Let an AI agent write chains, explain failures and re-run steps against real environments"
+    ],
+    "features": [
+      "Multi-step request chains on a visual canvas with response-to-request value mapping",
+      "AI agent writes chains, explains failures and re-runs steps against real environments",
+      "Passing chains become test cases in Testera test management",
+      "Hosted MCP for Claude, Cursor, ChatGPT, VS Code and custom agents",
+      "Webhook Catcher and full run history with request, response and cURL"
+    ],
+    "alternatives": [],
+    "tags": [
+      "AI",
+      "Developer",
+      "Productivity"
+    ],
+    "status": "verified",
+    "featured": false,
+    "trending": true,
+    "lastVerified": "2026-11-04",
+    "launchDate": "2026-11-03",
+    "launchYear": "2026",
+    "launchMonth": "2026-11",
+    "lastSyncedDate": "2026-11-04"
+  },
+  {
+    "id": "prism-navier",
+    "name": "Prism",
+    "slug": "prism-navier",
+    "description": "AI platform for hardware engineering: from natural language, agents build CAD, run multi-domain simulations, write code and firmware, and author reports in one desktop app, with review and approval at every step.",
+    "category": "AI Agent Frameworks",
+    "subcategory": "Agentic platforms for hardware engineering",
+    "website": "https://navier.ai/prism",
+    "github": null,
+    "logo": "https://www.google.com/s2/favicons?domain=navier.ai&sz=128",
+    "image": null,
+    "pricing": "Freemium",
+    "openSource": false,
+    "platform": [
+      "Desktop"
+    ],
+    "useCases": [
+      "Design and validate a part from a prompt with agent-built CAD",
+      "Run CFD, structural, thermal and multibody simulations through agents"
+    ],
+    "features": [
+      "CAD from a prompt that you can open, edit and export",
+      "Simulations across structures, fluids, thermal, multibody and electromagnetics",
+      "Agent writes solvers, analysis scripts and embedded firmware, then builds and runs them",
+      "Reports as PDFs or PowerPoint decks built on your templates",
+      "Plugins connect the agent to your CAD, code, trackers, docs and chat",
+      "Free to try on Windows, Mac and Linux"
+    ],
+    "alternatives": [],
+    "tags": [
+      "AI",
+      "Developer",
+      "Productivity"
+    ],
+    "status": "verified",
+    "featured": false,
+    "trending": true,
+    "lastVerified": "2026-11-04",
+    "launchDate": "2026-11-02",
+    "launchYear": "2026",
+    "launchMonth": "2026-11",
+    "lastSyncedDate": "2026-11-04"
   }
 ];

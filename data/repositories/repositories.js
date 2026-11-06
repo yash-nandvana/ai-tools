@@ -61830,5 +61830,105 @@ export const repositoriesData = [
     "launchYear": "2026",
     "launchMonth": "2026-11",
     "lastSyncedDate": "2026-11-03"
+  },
+  {
+    "id": "kkkkhazix-agent-autoloop",
+    "name": "agent-autoloop",
+    "owner": "KKKKhazix",
+    "fullName": "KKKKhazix/agent-autoloop",
+    "slug": "kkkkhazix-agent-autoloop",
+    "description": "Lightweight automation hub that lets command-line agents keep working in the background: a zero-dependency kernel with pluggable event sources, agents and notification channels, and approval cards when a decision is needed.",
+    "category": "AI Coding Agents",
+    "subcategory": "AI Coding Agents",
+    "language": "TypeScript",
+    "languageColor": "#3178c6",
+    "stars": 825,
+    "forks": 165,
+    "license": "MIT",
+    "latestRelease": null,
+    "lastUpdated": "2026-11-04",
+    "githubUrl": "https://github.com/KKKKhazix/agent-autoloop",
+    "documentation": "https://github.com/KKKKhazix/agent-autoloop",
+    "installCommand": "curl -fsSL https://raw.githubusercontent.com/KKKKhazix/agent-autoloop/main/install.sh | sh",
+    "openSource": true,
+    "trending": true,
+    "features": [
+      "Zero-external-dependency kernel runs on one Mac or Linux machine with one command",
+      "Any command-line agent that accepts a prompt plugs in with one line of config",
+      "Event sources, agents, notification channels and deploy pipelines are all swappable plugins",
+      "Approval cards go to Feishu, DingTalk, WeCom, Slack, Discord or desktop notifications"
+    ],
+    "useCases": [
+      "Let CLI coding agents keep working unattended and ask only when a decision is needed",
+      "Run scheduled agent work on your own machine without a cloud server or open ports"
+    ],
+    "gettingStarted": "Install with curl -fsSL https://raw.githubusercontent.com/KKKKhazix/agent-autoloop/main/install.sh | sh, then run agent-autoloop try and follow the instructions in the README.",
+    "dependencies": [
+      "Node.js 24",
+      "Git"
+    ],
+    "alternatives": [],
+    "tags": [
+      "TypeScript",
+      "AI Coding Agents",
+      "Open Source"
+    ],
+    "releaseDate": "2026-11-03",
+    "releaseYear": "2026",
+    "releaseMonth": "2026-11",
+    "launchDate": "2026-11-03",
+    "launchYear": "2026",
+    "launchMonth": "2026-11",
+    "lastSyncedDate": "2026-11-04"
+  },
+  {
+    "id": "govijr-terminal-mac",
+    "name": "terminal-mac",
+    "owner": "govijr",
+    "fullName": "govijr/terminal-mac",
+    "slug": "govijr-terminal-mac",
+    "description": "Separate macOS desktop for computer-use agents, viewed and controlled from a terminal: Apple Virtualization runs a real macOS guest whose screen streams via Kitty or iTerm2 graphics, without moving the host pointer or clipboard.",
+    "category": "AI Agent Infrastructure",
+    "subcategory": "AI Agent Infrastructure",
+    "language": "Swift",
+    "languageColor": "#F05138",
+    "stars": 413,
+    "forks": 32,
+    "license": "MIT",
+    "latestRelease": null,
+    "lastUpdated": "2026-11-04",
+    "githubUrl": "https://github.com/govijr/terminal-mac",
+    "documentation": "https://github.com/govijr/terminal-mac",
+    "installCommand": "curl -fsSL https://github.com/govijr/terminal-mac/releases/latest/download/get.sh | bash",
+    "openSource": true,
+    "trending": true,
+    "features": [
+      "Real macOS guest via Apple Virtualization with its own apps, files and permissions",
+      "Terminal viewer streams the guest screen using Kitty or iTerm2 graphics",
+      "Agent commands use a helper inside the guest, so the host pointer and clipboard never move",
+      "Installer verifies the release SHA-256 and needs no administrator rights"
+    ],
+    "useCases": [
+      "Run computer-use agents on a separate Mac desktop without disturbing your own session",
+      "Give agents an isolated macOS environment with its own accounts and permissions"
+    ],
+    "gettingStarted": "Install with curl -fsSL https://github.com/govijr/terminal-mac/releases/latest/download/get.sh | bash, then run terminal-mac and follow the guided flow in the README.",
+    "dependencies": [
+      "Apple silicon Mac",
+      "macOS 14+"
+    ],
+    "alternatives": [],
+    "tags": [
+      "Swift",
+      "AI Agent Infrastructure",
+      "Open Source"
+    ],
+    "releaseDate": "2026-11-03",
+    "releaseYear": "2026",
+    "releaseMonth": "2026-11",
+    "launchDate": "2026-11-03",
+    "launchYear": "2026",
+    "launchMonth": "2026-11",
+    "lastSyncedDate": "2026-11-04"
   }
 ];
