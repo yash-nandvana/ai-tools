@@ -61930,5 +61930,159 @@ export const repositoriesData = [
     "launchYear": "2026",
     "launchMonth": "2026-11",
     "lastSyncedDate": "2026-11-04"
+  },
+  {
+    "id": "andrew-babo-muse4ai",
+    "name": "muse4ai",
+    "owner": "andrew-babo",
+    "fullName": "andrew-babo/muse4ai",
+    "slug": "andrew-babo-muse4ai",
+    "description": "Local Windows bridge that lets AI agents generate images and videos through your own signed-in Muse session over REST, MCP and OAuth, with no cloud middleman and no per-seat fee.",
+    "category": "Model Context Protocol (MCP) & Agent Connectors",
+    "subcategory": "Model Context Protocol (MCP) & Agent Connectors",
+    "language": "TypeScript",
+    "languageColor": "#3178c6",
+    "stars": 508,
+    "forks": 141,
+    "license": "MIT",
+    "latestRelease": null,
+    "lastUpdated": "2026-11-05",
+    "githubUrl": "https://github.com/andrew-babo/muse4ai",
+    "documentation": "https://muse4ai.andrewbabo.com",
+    "openSource": true,
+    "trending": true,
+    "features": [
+      "Agents generate video and images with one call, text-only or with reference photos",
+      "Chat that remembers: conversation ids let agents keep threads going and attach files",
+      "Finished videos can be extended up to 6 steps, about 60 seconds per chain",
+      "Local library, queue, keys and tokens stay on your own Windows PC",
+      "Connects ChatGPT, Claude, Cursor, Codex, n8n or any script via REST, MCP or OAuth"
+    ],
+    "useCases": [
+      "Let an AI agent create images and videos from your own Muse session",
+      "Keep media generation keys, history and results entirely local"
+    ],
+    "gettingStarted": "Download the Windows app from https://muse4ai.andrewbabo.com/download, sign in to Muse, and connect your agent via REST, MCP or OAuth following the guide.",
+    "dependencies": [
+      "Windows",
+      "Muse account"
+    ],
+    "alternatives": [],
+    "tags": [
+      "TypeScript",
+      "Model Context Protocol (MCP) & Agent Connectors",
+      "Open Source"
+    ],
+    "releaseDate": "2026-11-03",
+    "releaseYear": "2026",
+    "releaseMonth": "2026-11",
+    "launchDate": "2026-11-03",
+    "launchYear": "2026",
+    "launchMonth": "2026-11",
+    "lastSyncedDate": "2026-11-05"
+  },
+  {
+    "id": "sarpstar-cinecode",
+    "name": "cinecode",
+    "owner": "sarpstar",
+    "fullName": "sarpstar/cinecode",
+    "slug": "sarpstar-cinecode",
+    "description": "Films made with code: an AI coding agent writes the script and builds every frame from code in headless Chrome, then delivers a finished MP4 — short films, long YouTube videos, ads, explainers and music videos.",
+    "category": "AI Coding Agents",
+    "subcategory": "AI Coding Agents",
+    "language": "Python",
+    "languageColor": "#3572A5",
+    "stars": 269,
+    "forks": 45,
+    "license": "MIT",
+    "latestRelease": null,
+    "lastUpdated": "2026-11-05",
+    "githubUrl": "https://github.com/sarpstar/cinecode",
+    "documentation": "https://github.com/sarpstar/cinecode",
+    "installCommand": "git clone https://github.com/sarpstar/cinecode.git",
+    "openSource": true,
+    "trending": true,
+    "features": [
+      "AI coding agent writes the script and constructs every frame from code",
+      "Runs inside Claude Code or Cursor on your own computer, no paid service required",
+      "Short films, 10+ minute documentaries, explainers, ads and music videos",
+      "Pitches grounded in real-world material (museum pieces, animals, space photos, crafts)",
+      "You approve the first two scenes before the full film is built",
+      "Optional voices via your own Gemini key, ElevenLabs or a free Turkish voice"
+    ],
+    "useCases": [
+      "Turn one sentence into a finished short film or YouTube video",
+      "Build researched, source-cited long-form documentaries and explainers"
+    ],
+    "gettingStarted": "Clone the repository using git clone https://github.com/sarpstar/cinecode.git and follow the instructions in the README inside Claude Code or Cursor.",
+    "dependencies": [
+      "Claude Code or Cursor",
+      "Headless Chrome"
+    ],
+    "alternatives": [],
+    "tags": [
+      "Python",
+      "AI Coding Agents",
+      "Open Source"
+    ],
+    "releaseDate": "2026-11-03",
+    "releaseYear": "2026",
+    "releaseMonth": "2026-11",
+    "launchDate": "2026-11-03",
+    "launchYear": "2026",
+    "launchMonth": "2026-11",
+    "lastSyncedDate": "2026-11-05"
+  },
+  {
+    "id": "balanov-latch",
+    "name": "latch",
+    "owner": "Balanov",
+    "fullName": "Balanov/latch",
+    "slug": "balanov-latch",
+    "description": "One tiny HTTPS contract between any agent and any service: quote, approve, commit, receipt — exact offers bound by SHA-256 digest with idempotency keys, in a single zero-dependency ESM file.",
+    "category": "AI Agent Infrastructure",
+    "subcategory": "AI Agent Infrastructure",
+    "language": "JavaScript",
+    "languageColor": "#f1e05a",
+    "stars": 225,
+    "forks": 0,
+    "license": "MIT",
+    "latestRelease": null,
+    "lastUpdated": "2026-11-05",
+    "githubUrl": "https://github.com/Balanov/latch",
+    "documentation": "https://github.com/Balanov/latch",
+    "installCommand": "git clone https://github.com/Balanov/latch.git",
+    "openSource": true,
+    "trending": true,
+    "features": [
+      "Five operations over one POST endpoint: ask, quote, approve, commit, status",
+      "Quotes carry an exact offer plus SHA-256 digest; approvals bind to that digest",
+      "Commits require the reviewed digest plus an Idempotency-Key",
+      "Single ESM file with zero runtime dependencies, Node.js 20+",
+      "Optional single-writer persistent store and caller-scoped authentication",
+      "Optional MCP stdio bridge; HTTP alone is enough for other agents and languages",
+      "No registry, account, telemetry, hosted proxy or payment rail"
+    ],
+    "useCases": [
+      "Let an agent order or book a service with a human-approved, auditable receipt",
+      "Add a safe approval boundary between agents and consequential service calls"
+    ],
+    "gettingStarted": "Clone the repository using git clone https://github.com/Balanov/latch.git, run npm test, then try node latch.mjs demo to trace discovery, quote, approval, commit and receipt.",
+    "dependencies": [
+      "Node.js 20+"
+    ],
+    "alternatives": [],
+    "tags": [
+      "JavaScript",
+      "AI Agent Infrastructure",
+      "Open Source"
+    ],
+    "releaseDate": "2026-11-04",
+    "releaseYear": "2026",
+    "releaseMonth": "2026-11",
+    "launchDate": "2026-11-04",
+    "launchYear": "2026",
+    "launchMonth": "2026-11",
+    "lastSyncedDate": "2026-11-05"
   }
 ];
