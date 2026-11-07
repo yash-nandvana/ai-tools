@@ -100924,5 +100924,91 @@ export const masterToolsData = [
     "launchYear": "2026",
     "launchMonth": "2026-11",
     "lastSyncedDate": "2026-11-04"
+  },
+  {
+    "id": "vork",
+    "name": "vork",
+    "slug": "vork",
+    "description": "Headless 3D and VFX engine built for AI agents: an agent writes a scene as code, renders it on the GPU, looks at the result and revises the code — no editor to drive, no video model.",
+    "category": "3D, Game Dev & CAD AI",
+    "subcategory": "Agent-driven 3D rendering and VFX",
+    "website": "https://voyager.so/vork",
+    "github": "https://github.com/voyager-so/vork",
+    "logo": "https://www.google.com/s2/favicons?domain=voyager.so&sz=128",
+    "image": null,
+    "pricing": "Free",
+    "openSource": false,
+    "platform": [
+      "CLI",
+      "Desktop"
+    ],
+    "useCases": [
+      "Let an AI agent author and render 3D scenes and VFX shots as code",
+      "Composite rendered 3D into real footage with tracked cameras and relighting"
+    ],
+    "features": [
+      "Headless 3D and VFX engine designed for agents, not human operators",
+      "Scene programs define materials, cameras, light, simulation and compositing",
+      "GPU rendering through Vulkan and Metal, with a path tracer",
+      "Agent loop: write a scene, render a preview, inspect the image, refine",
+      "Installs with one script on Linux, macOS (Apple Silicon) and Windows"
+    ],
+    "alternatives": [],
+    "tags": [
+      "AI",
+      "Developer",
+      "Productivity"
+    ],
+    "status": "verified",
+    "featured": false,
+    "trending": true,
+    "lastVerified": "2026-11-07",
+    "launchDate": "2026-11-05",
+    "launchYear": "2026",
+    "launchMonth": "2026-11",
+    "lastSyncedDate": "2026-11-07"
+  },
+  {
+    "id": "tracex",
+    "name": "TraceX",
+    "slug": "tracex",
+    "description": "AI engineer for production issues: reads a support email, Slack message or Jira ticket, investigates your database, code and logs read-only, and returns the root cause with evidence, a fix as a pull request and a drafted customer reply.",
+    "category": "Code Review, Debugging & Code Quality",
+    "subcategory": "AI incident investigation and root-cause analysis",
+    "website": "https://tracexpro.com",
+    "github": null,
+    "logo": "https://www.google.com/s2/favicons?domain=tracexpro.com&sz=128",
+    "image": null,
+    "pricing": "Free",
+    "openSource": false,
+    "platform": [
+      "Web",
+      "CLI"
+    ],
+    "useCases": [
+      "Investigate a production issue from a support ticket without touching production",
+      "Ask plain-English questions about your databases, code and logs"
+    ],
+    "features": [
+      "Root cause with confidence and evidence cited for every claim",
+      "Fix delivered as a pull request with validation steps",
+      "Read-only database access and read-only queries, always",
+      "Reviews pull requests with your codebase as context",
+      "CLI that answers in your terminal and works as a coding agent with approval"
+    ],
+    "alternatives": [],
+    "tags": [
+      "AI",
+      "Developer",
+      "Productivity"
+    ],
+    "status": "verified",
+    "featured": false,
+    "trending": true,
+    "lastVerified": "2026-11-07",
+    "launchDate": "2026-11-05",
+    "launchYear": "2026",
+    "launchMonth": "2026-11",
+    "lastSyncedDate": "2026-11-07"
   }
 ];
