@@ -62084,5 +62084,55 @@ export const repositoriesData = [
     "launchYear": "2026",
     "launchMonth": "2026-11",
     "lastSyncedDate": "2026-11-05"
+  },
+  {
+    "id": "alysisai-alysiscode",
+    "name": "Alysis Code",
+    "owner": "AlysisAi",
+    "fullName": "AlysisAi/AlysisCode",
+    "slug": "alysisai-alysiscode",
+    "description": "Open-source, multi-model agent for coding, research, and everyday workflows. Independently built engine with our own Alysis Sandbox, strict command isolation by default, and local model support.",
+    "category": "AI Coding Agents",
+    "subcategory": "AI Coding Agents",
+    "language": "Python",
+    "languageColor": "#3572A5",
+    "stars": 210,
+    "forks": 27,
+    "license": "Apache-2.0",
+    "latestRelease": null,
+    "lastUpdated": "2026-11-06",
+    "githubUrl": "https://github.com/AlysisAi/AlysisCode",
+    "documentation": "https://alysiscode.com/docs",
+    "installCommand": "curl -LsSf https://raw.githubusercontent.com/AlysisAi/AlysisCode/main/scripts/install.sh | sh",
+    "openSource": true,
+    "trending": true,
+    "features": [
+      "Open-source multi-model agent for coding, research and everyday workflows",
+      "Independently built engine with the Alysis Sandbox and strict command isolation",
+      "Local model support, plus free web search and computer use built in",
+      "Terminal CLI and desktop app for macOS and Windows",
+      "Documents workflow: attach notes or a CSV and get back Word, spreadsheet, presentation or PDF"
+    ],
+    "useCases": [
+      "Use for ai coding agents and modern software development",
+      "Inspect source code, build custom extensions, and run locally"
+    ],
+    "gettingStarted": "Install with curl -LsSf https://raw.githubusercontent.com/AlysisAi/AlysisCode/main/scripts/install.sh | sh (or uv tool install alysis-code), then run alysis to start the CLI.",
+    "dependencies": [
+      "Python 3.11+"
+    ],
+    "alternatives": [],
+    "tags": [
+      "Python",
+      "AI Coding Agents",
+      "Open Source"
+    ],
+    "releaseDate": "2026-05-08",
+    "releaseYear": "2026",
+    "releaseMonth": "2026-05",
+    "launchDate": "2026-11-06",
+    "launchYear": "2026",
+    "launchMonth": "2026-11",
+    "lastSyncedDate": "2026-11-07"
   }
 ];
