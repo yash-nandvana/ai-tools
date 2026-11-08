@@ -62134,5 +62134,212 @@ export const repositoriesData = [
     "launchYear": "2026",
     "launchMonth": "2026-11",
     "lastSyncedDate": "2026-11-07"
+  },
+  {
+    "id": "devvmhq-devvm",
+    "name": "devvm",
+    "owner": "devvmhq",
+    "fullName": "devvmhq/devvm",
+    "slug": "devvmhq-devvm",
+    "description": "One VM for every project. An isolated sandbox with your project's toolchain, ready for you or a coding agent to start coding",
+    "category": "DevOps, Cloud Infra, Containers & Orchestration",
+    "subcategory": "DevOps, Cloud Infra, Containers & Orchestration",
+    "language": "Go",
+    "languageColor": "#00ADD8",
+    "stars": 368,
+    "forks": 13,
+    "license": "MIT",
+    "latestRelease": "v0.1.0",
+    "lastUpdated": "2026-11-08",
+    "githubUrl": "https://github.com/devvmhq/devvm",
+    "documentation": "https://devvm.dev/docs/",
+    "installCommand": "curl -fsSL https://github.com/devvmhq/devvm/releases/latest/download/install.sh | bash",
+    "openSource": true,
+    "trending": true,
+    "features": [
+      "One isolated VM per project folder, mounting only that folder at the same path",
+      "Toolchains auto-detected from project files: node, python, rust, go and dotnet",
+      "Coding agents (Claude Code, Codex, opencode, pi) run inside the VM, never on the host",
+      "Network tiers with an allowlist by default; secrets stay on the host machine",
+      "VMs start in seconds from a shared base image; --clone gives the VM its own repo copy"
+    ],
+    "useCases": [
+      "Use for devops, cloud infra, containers & orchestration and modern software development",
+      "Inspect source code, build custom extensions, and run locally"
+    ],
+    "gettingStarted": "Install with curl -fsSL https://github.com/devvmhq/devvm/releases/latest/download/install.sh | bash (or brew install devvmhq/tap/devvm on macOS), run devvm doctor, then cd into a project and run devvm.",
+    "dependencies": [
+      "Lima 2.2+",
+      "macOS 13+ or Linux (arm64 or x86_64)"
+    ],
+    "alternatives": [],
+    "tags": [
+      "Go",
+      "DevOps, Cloud Infra, Containers & Orchestration",
+      "Open Source"
+    ],
+    "releaseDate": "2026-11-06",
+    "releaseYear": "2026",
+    "releaseMonth": "2026-11",
+    "launchDate": "2026-11-06",
+    "launchYear": "2026",
+    "launchMonth": "2026-11",
+    "lastSyncedDate": "2026-11-08"
+  },
+  {
+    "id": "shanselman-sandbox-mcp",
+    "name": "sandbox-mcp",
+    "owner": "shanselman",
+    "fullName": "shanselman/sandbox-mcp",
+    "slug": "shanselman-sandbox-mcp",
+    "description": "Fresh, throwaway Windows machines for testing your apps: an MCP server and CLI that automate Windows Sandbox",
+    "category": "Model Context Protocol (MCP) & Agent Connectors",
+    "subcategory": "Model Context Protocol (MCP) & Agent Connectors",
+    "language": "JavaScript",
+    "languageColor": "#f1e05a",
+    "stars": 279,
+    "forks": 14,
+    "license": "MIT",
+    "latestRelease": "v1.2.0",
+    "lastUpdated": "2026-11-08",
+    "githubUrl": "https://github.com/shanselman/sandbox-mcp",
+    "documentation": "https://shanselman.github.io/sandbox-mcp/",
+    "installCommand": "curl -LO https://github.com/shanselman/sandbox-mcp/releases/download/v1.2.0/sandbox-mcp-win-x64-v1.2.0.zip",
+    "openSource": true,
+    "trending": true,
+    "features": [
+      "A real disposable Windows 11 machine per run, not a container pretending to be Windows",
+      "sbx CLI plus an optional MCP adapter sharing the same engine and state",
+      "Native UI automation: inspect, type, click, toggle and wait across WinUI, WPF, WinForms and Win32",
+      "Network off by default, with firewall or on as explicit options",
+      "Evidence that survives: PNGs, bounded recordings, self-contained HTML, exit codes and crash events"
+    ],
+    "useCases": [
+      "Use for model context protocol (mcp) & agent connectors and modern software development",
+      "Inspect source code, build custom extensions, and run locally"
+    ],
+    "gettingStarted": "Download sandbox-mcp-win-x64-v1.2.0.zip from the v1.2.0 release, extract it, enable Windows Sandbox, then run sbx doctor to verify the machine.",
+    "dependencies": [
+      "Windows 11 24H2+ (Pro, Enterprise or Education)",
+      "Hardware virtualization enabled",
+      "Windows Sandbox"
+    ],
+    "alternatives": [],
+    "tags": [
+      "JavaScript",
+      "Model Context Protocol (MCP) & Agent Connectors",
+      "Open Source"
+    ],
+    "releaseDate": "2026-11-06",
+    "releaseYear": "2026",
+    "releaseMonth": "2026-11",
+    "launchDate": "2026-11-06",
+    "launchYear": "2026",
+    "launchMonth": "2026-11",
+    "lastSyncedDate": "2026-11-08"
+  },
+  {
+    "id": "th0rgal-satmux",
+    "name": "satmux",
+    "owner": "Th0rgal",
+    "fullName": "Th0rgal/satmux",
+    "slug": "th0rgal-satmux",
+    "description": "Accelerate high-latency GEO inflight Wi-Fi via warm BBR TCP multiplexing + 1-RTT Ground-TLS + zlib (zero dependencies)",
+    "category": "Cloud Networking",
+    "subcategory": "Cloud Networking",
+    "language": "Python",
+    "languageColor": "#3572A5",
+    "stars": 513,
+    "forks": 25,
+    "license": "MIT",
+    "latestRelease": null,
+    "lastUpdated": "2026-11-07",
+    "githubUrl": "https://github.com/Th0rgal/satmux",
+    "documentation": "https://github.com/Th0rgal/satmux",
+    "installCommand": "git clone https://github.com/Th0rgal/satmux.git",
+    "openSource": true,
+    "trending": true,
+    "features": [
+      "12 pre-warmed BBR TCP carrier connections bypass the cabin :443 proxy and onboard DNS",
+      "0-RTT stream open via local SOCKS5 and HTTP CONNECT proxies on the laptop",
+      "1-RTT ground fetch with verified TLS 1.3, HTTP redirects and zlib compression",
+      "Routes git and gh CLI traffic over a local Unix socket so coding agents keep working",
+      "Pure Python 3 stdlib with zero external dependencies"
+    ],
+    "useCases": [
+      "Use for cloud networking and modern software development",
+      "Inspect source code, build custom extensions, and run locally"
+    ],
+    "gettingStarted": "Clone the repo, generate a PSK with openssl rand -hex 32, start satmux.py server on a small Linux VM near the satellite ground station, then run the client and enable macOS routing with bin/satmux-macos on.",
+    "dependencies": [
+      "Python 3.9+",
+      "Linux VM near the satellite ground station (TCP port 8444)",
+      "Authenticated cabin Wi-Fi session"
+    ],
+    "alternatives": [],
+    "tags": [
+      "Python",
+      "Cloud Networking",
+      "Open Source"
+    ],
+    "releaseDate": "2026-11-07",
+    "releaseYear": "2026",
+    "releaseMonth": "2026-11",
+    "launchDate": "2026-11-07",
+    "launchYear": "2026",
+    "launchMonth": "2026-11",
+    "lastSyncedDate": "2026-11-08"
+  },
+  {
+    "id": "arnold117-ios-noir",
+    "name": "iOS-NOIR",
+    "owner": "arnold117",
+    "fullName": "arnold117/iOS-NOIR",
+    "slug": "arnold117-ios-noir",
+    "description": "No-jailbreak iOS privacy, entitlement, sandbox & telemetry forensic auditor (inspired by Verlintas/NOIR)",
+    "category": "Security Reconnaissance",
+    "subcategory": "Security Reconnaissance",
+    "language": "Python",
+    "languageColor": "#3572A5",
+    "stars": 277,
+    "forks": 53,
+    "license": "MIT",
+    "latestRelease": null,
+    "lastUpdated": "2026-11-08",
+    "githubUrl": "https://github.com/arnold117/iOS-NOIR",
+    "documentation": "https://github.com/arnold117/iOS-NOIR",
+    "installCommand": "git clone https://github.com/arnold117/iOS-NOIR.git && cd iOS-NOIR && pip install -r requirements.txt",
+    "openSource": true,
+    "trending": true,
+    "features": [
+      "Maps the 5-layer persistent device identity chain: iCloud KVS, shared keychain, app-group collusion, carrier gateways and BSSID hooks",
+      "Audits silent VoIP wakeups, URL-scheme probing and hijacking, and USB/Wi-Fi sandbox exposure",
+      "Parses kernel .ips logs for disk-write monsters, CPU kills and embedded SDKs",
+      "Evidence-graded standalone bilingual HTML report with synthetic sample data",
+      "No jailbreak required; tested on macOS over USB"
+    ],
+    "useCases": [
+      "Use for security reconnaissance and modern software development",
+      "Inspect source code, build custom extensions, and run locally"
+    ],
+    "gettingStarted": "Clone the repo, install requirements, connect your iPhone over USB and trust the computer, then run python ios_noir.py scan for the full audit and HTML report.",
+    "dependencies": [
+      "Python 3.x",
+      "macOS (usbmuxd)",
+      "iPhone connected over USB"
+    ],
+    "alternatives": [],
+    "tags": [
+      "Python",
+      "Security Reconnaissance",
+      "Open Source"
+    ],
+    "releaseDate": "2026-11-06",
+    "releaseYear": "2026",
+    "releaseMonth": "2026-11",
+    "launchDate": "2026-11-06",
+    "launchYear": "2026",
+    "launchMonth": "2026-11",
+    "lastSyncedDate": "2026-11-08"
   }
 ];
