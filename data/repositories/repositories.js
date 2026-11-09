@@ -62341,5 +62341,215 @@ export const repositoriesData = [
     "launchYear": "2026",
     "launchMonth": "2026-11",
     "lastSyncedDate": "2026-11-08"
+  },
+  {
+    "id": "lxe-phoneuse",
+    "name": "phoneuse",
+    "owner": "lxe",
+    "fullName": "lxe/phoneuse",
+    "slug": "lxe-phoneuse",
+    "description": "See and operate an unmodified iPhone from a Linux PC: AirPlay mirror in, Bluetooth HID mouse/keyboard out, plus a CLI and skill for agents.",
+    "category": "Model Context Protocol (MCP) & Agent Connectors",
+    "subcategory": "Model Context Protocol (MCP) & Agent Connectors",
+    "language": "Python",
+    "languageColor": "#3572A5",
+    "stars": 459,
+    "forks": 47,
+    "license": "MIT",
+    "latestRelease": null,
+    "lastUpdated": "2026-11-09",
+    "githubUrl": "https://github.com/lxe/phoneuse",
+    "documentation": "https://github.com/lxe/phoneuse",
+    "installCommand": "git clone https://github.com/lxe/phoneuse.git",
+    "openSource": true,
+    "trending": true,
+    "features": [
+      "AirPlay screen mirror from an unmodified iPhone to a Linux PC, with a browser mirror on localhost:8777",
+      "Bluetooth HID mouse and keyboard out — the PC's own adapter or a small ESP32 bridge left next to the phone",
+      "Every action is a CLI subcommand, plus a skill for agents to operate the phone",
+      "Unlock asks you first in the browser mirror and only types the saved passcode after you approve",
+      "No jailbreak, developer account, cable or app on the phone — uses Screen Mirroring and AssistiveTouch"
+    ],
+    "useCases": [
+      "Operate an unmodified iPhone from a Linux PC, by hand or from an agent over CLI and MCP",
+      "Inspect source code, build custom extensions, and run locally"
+    ],
+    "gettingStarted": "Clone the repo, link bin/phoneuse into ~/.local/bin, run `phoneuse install` (needs sudo), then `phoneuse up` and pick PhoneUse in the iPhone's Screen Mirroring.",
+    "dependencies": [
+      "Python",
+      "Linux",
+      "Bluetooth adapter or ESP32 bridge"
+    ],
+    "alternatives": [],
+    "tags": [
+      "Python",
+      "Model Context Protocol (MCP) & Agent Connectors",
+      "Open Source"
+    ],
+    "releaseDate": "2026-11-07",
+    "releaseYear": "2026",
+    "releaseMonth": "2026-11",
+    "launchDate": "2026-11-07",
+    "launchYear": "2026",
+    "launchMonth": "2026-11",
+    "lastSyncedDate": "2026-11-09"
+  },
+  {
+    "id": "drost-ai-tinker-ai-skill",
+    "name": "tinker-ai-skill",
+    "owner": "drost-ai",
+    "fullName": "drost-ai/tinker-ai-skill",
+    "slug": "drost-ai-tinker-ai-skill",
+    "description": "Agent Skill for fine-tuning an agentic model on your own Claude Code sessions with Tinker. Works in Claude Code, Codex and OpenCode.",
+    "category": "AI Coding Agents",
+    "subcategory": "AI Coding Agents",
+    "language": "Python",
+    "languageColor": "#3572A5",
+    "stars": 267,
+    "forks": 36,
+    "license": "MIT",
+    "latestRelease": null,
+    "lastUpdated": "2026-11-07",
+    "githubUrl": "https://github.com/drost-ai/tinker-ai-skill",
+    "documentation": "https://github.com/drost-ai/tinker-ai-skill",
+    "installCommand": "git clone https://github.com/drost-ai/tinker-ai-skill.git ~/.claude/skills/tinker-ai-skill",
+    "openSource": true,
+    "trending": true,
+    "features": [
+      "Nine-step pipeline turns Claude Code session transcripts into a fine-tuned model you run locally",
+      "Per-session anonymization replaces every credential by value and randomizes identities",
+      "LoRA training on Tinker, then merge and ship a GGUF that runs in llama.cpp",
+      "Synthetic transcript generator dry-runs the whole pipeline in five minutes without spending a cent",
+      "Production-tested recipe behind the Tess-4 and Tess-4.5 open-weight agentic models"
+    ],
+    "useCases": [
+      "Turn your own coding-agent sessions into a fine-tuned model that runs locally",
+      "Inspect source code, build custom extensions, and run locally"
+    ],
+    "gettingStarted": "Clone into your agent's skills directory, e.g. git clone https://github.com/drost-ai/tinker-ai-skill.git ~/.claude/skills/tinker-ai-skill, then ask your agent to fine-tune a model on your Claude Code sessions.",
+    "dependencies": [
+      "Python",
+      "Tinker",
+      "llama.cpp"
+    ],
+    "alternatives": [],
+    "tags": [
+      "Python",
+      "AI Coding Agents",
+      "Open Source"
+    ],
+    "releaseDate": "2026-11-07",
+    "releaseYear": "2026",
+    "releaseMonth": "2026-11",
+    "launchDate": "2026-11-07",
+    "launchYear": "2026",
+    "launchMonth": "2026-11",
+    "lastSyncedDate": "2026-11-09"
+  },
+  {
+    "id": "danyuchn-claude-work-mode",
+    "name": "claude-work-mode",
+    "owner": "danyuchn",
+    "fullName": "danyuchn/claude-work-mode",
+    "slug": "danyuchn-claude-work-mode",
+    "description": "Session work modes for Claude Code: /work-mode auto | out | wrap, with optional gates",
+    "category": "AI Coding Agents",
+    "subcategory": "AI Coding Agents",
+    "language": "TypeScript",
+    "languageColor": "#3178c6",
+    "stars": 150,
+    "forks": 9,
+    "license": "MIT",
+    "latestRelease": null,
+    "lastUpdated": "2026-11-08",
+    "githubUrl": "https://github.com/danyuchn/claude-work-mode",
+    "documentation": "https://github.com/danyuchn/claude-work-mode",
+    "installCommand": "/plugin install work-mode --marketplace danyuchn/claude-work-mode",
+    "openSource": true,
+    "trending": true,
+    "features": [
+      "Three session modes — auto, out, wrap — switched with one /work-mode slash command",
+      "auto stops asking about internal reversible steps and reports hard stops once at the end",
+      "out delegates batch work to a background subagent or external CLI and verifies the result",
+      "Optional shell-hook gates: scratch-doc guard, git-safe-commit gate and decision-label guard",
+      "Modes combine freely per session and reach the model once, so they never bloat every turn"
+    ],
+    "useCases": [
+      "Switch Claude Code session work modes with one slash command",
+      "Inspect source code, build custom extensions, and run locally"
+    ],
+    "gettingStarted": "In Claude Code run /plugin install work-mode --marketplace danyuchn/claude-work-mode, then switch modes with /work-mode auto, out or wrap.",
+    "dependencies": [
+      "Claude Code 2.1.314+",
+      "bash",
+      "jq",
+      "git",
+      "python3"
+    ],
+    "alternatives": [],
+    "tags": [
+      "TypeScript",
+      "AI Coding Agents",
+      "Open Source"
+    ],
+    "releaseDate": "2026-11-08",
+    "releaseYear": "2026",
+    "releaseMonth": "2026-11",
+    "launchDate": "2026-11-08",
+    "launchYear": "2026",
+    "launchMonth": "2026-11",
+    "lastSyncedDate": "2026-11-09"
+  },
+  {
+    "id": "kunchenguid-headless",
+    "name": "headless",
+    "owner": "kunchenguid",
+    "fullName": "kunchenguid/headless",
+    "slug": "kunchenguid-headless",
+    "description": "Agent skill that sets up a headless Mac, Linux or Windows machine over SSH, step by step, without ever seeing the admin password.",
+    "category": "DevOps, Cloud Infra, Containers & Orchestration",
+    "subcategory": "DevOps, Cloud Infra, Containers & Orchestration",
+    "language": "Shell",
+    "languageColor": "#89e051",
+    "stars": 135,
+    "forks": 8,
+    "license": "MIT",
+    "latestRelease": null,
+    "lastUpdated": "2026-11-08",
+    "githubUrl": "https://github.com/kunchenguid/headless",
+    "documentation": "https://github.com/kunchenguid/headless",
+    "installCommand": "git clone https://github.com/kunchenguid/headless.git",
+    "openSource": true,
+    "trending": true,
+    "features": [
+      "Takes a machine from admin account with password and remote login on to a configured headless machine over SSH",
+      "The admin password never reaches the agent — it stays in your secret store",
+      "Mac, Linux and Windows: Determinate Nix and nix-darwin on Apple silicon, NixOS on Linux",
+      "Never sleeps, signs itself in after a restart, SSH keys only",
+      "Optionally joins Tailscale so the machine stays reachable"
+    ],
+    "useCases": [
+      "Set up a headless Mac, Linux or Windows machine over SSH without handing the agent your password",
+      "Inspect source code, build custom extensions, and run locally"
+    ],
+    "gettingStarted": "Clone the skill into your agent's skills directory, then point your agent at a machine with an admin account, a password in your secret store, and remote login on.",
+    "dependencies": [
+      "bash",
+      "ssh",
+      "tar"
+    ],
+    "alternatives": [],
+    "tags": [
+      "Shell",
+      "DevOps, Cloud Infra, Containers & Orchestration",
+      "Open Source"
+    ],
+    "releaseDate": "2026-11-07",
+    "releaseYear": "2026",
+    "releaseMonth": "2026-11",
+    "launchDate": "2026-11-07",
+    "launchYear": "2026",
+    "launchMonth": "2026-11",
+    "lastSyncedDate": "2026-11-09"
   }
 ];

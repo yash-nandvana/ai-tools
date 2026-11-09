@@ -101010,5 +101010,47 @@ export const masterToolsData = [
     "launchYear": "2026",
     "launchMonth": "2026-11",
     "lastSyncedDate": "2026-11-07"
+  },
+  {
+    "id": "outages-live",
+    "name": "outages.live",
+    "slug": "outages-live",
+    "description": "Free live outage feed for your agents — syncs the status pages of the providers your app depends on, readable on the web, over RSS, or from your agent over MCP",
+    "category": "DevOps & Cloud Infrastructure",
+    "subcategory": "AI DevOps, cloud and infrastructure",
+    "website": "https://outages.live",
+    "github": null,
+    "logo": "https://www.google.com/s2/favicons?domain=outages.live&sz=128",
+    "image": null,
+    "pricing": "Free",
+    "openSource": false,
+    "platform": [
+      "Web"
+    ],
+    "useCases": [
+      "Let your agents check whether a provider outage is behind a failure before paging you",
+      "Follow the status of every provider your app depends on in one live feed"
+    ],
+    "features": [
+      "Syncs provider status pages every few minutes into one live feed",
+      "Read the feed on the web, over RSS, or from your agent over MCP",
+      "Filter by provider, time range, state and impact",
+      "Report an outage from the feed",
+      "Free live feed — no subscription to read it"
+    ],
+    "alternatives": [],
+    "tags": [
+      "DevOps",
+      "Developer",
+      "Productivity"
+    ],
+    "status": "verified",
+    "featured": false,
+    "trending": true,
+    "lastVerified": "2026-11-09",
+    "launchDate": "2026-11-08",
+    "launchYear": "2026",
+    "launchMonth": "2026-11",
+    "lastSyncedDate": "2026-11-09"
   }
 ];
