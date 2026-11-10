@@ -62657,5 +62657,213 @@ export const repositoriesData = [
     "launchYear": "2026",
     "launchMonth": "2026-11",
     "lastSyncedDate": "2026-11-06"
+  },
+  {
+    "id": "morluto-rea",
+    "name": "REA",
+    "owner": "morluto",
+    "fullName": "morluto/rea",
+    "slug": "morluto-rea",
+    "description": "Reverse engineer anything with agents: one MCP server that inspects native binaries, JavaScript and Electron apps, .NET assemblies and websites, then rebuilds the feature — with evidence for every conclusion.",
+    "category": "Model Context Protocol (MCP) & Agent Connectors",
+    "subcategory": "Model Context Protocol (MCP) & Agent Connectors",
+    "language": "TypeScript",
+    "languageColor": "#3178c6",
+    "stars": 447359,
+    "forks": 110319,
+    "license": "MIT",
+    "latestRelease": null,
+    "lastUpdated": "2026-11-10",
+    "githubUrl": "https://github.com/morluto/rea",
+    "documentation": "https://rea.tools/",
+    "installCommand": "npx rea-agents setup",
+    "openSource": true,
+    "trending": true,
+    "features": [
+      "One MCP server for reverse engineering across native binaries, JavaScript/Electron apps, .NET assemblies and websites",
+      "Native analysis through your existing Hopper, Ghidra, IDA or Kuna installation — setup can install Hopper with your approval",
+      "Every finding ships with its evidence and limitations, and analysis runs locally",
+      "Ask your agent to explain how a feature works, then build a version for your own project",
+      "Works from the terminal too: analyze JS/Electron apps and ASAR bundles with the rea CLI"
+    ],
+    "useCases": [
+      "Understand how a feature in any app works, down to the binary level",
+      "Inspect source code, build custom extensions, and run locally"
+    ],
+    "gettingStarted": "Run `npx rea-agents setup`, pick your agents (Claude Code, Codex, Cursor, Gemini CLI, Grok Build), approve the proposed changes and restart your agent — then ask it to investigate a feature, e.g. 'Understand how search works in the Notes app, show me the evidence, and build a similar feature for my project.'",
+    "dependencies": [
+      "Node.js",
+      "npm",
+      "Hopper / Ghidra / IDA / Kuna (optional, for native analysis)"
+    ],
+    "alternatives": [],
+    "tags": [
+      "TypeScript",
+      "Model Context Protocol (MCP) & Agent Connectors",
+      "Open Source"
+    ],
+    "releaseDate": "2026-04-14",
+    "releaseYear": "2026",
+    "releaseMonth": "2026-04",
+    "launchDate": "2026-04-14",
+    "launchYear": "2026",
+    "launchMonth": "2026-04",
+    "lastSyncedDate": "2026-11-10"
+  },
+  {
+    "id": "gokayfem-image-to-sculpt",
+    "name": "image-to-sculpt",
+    "owner": "gokayfem",
+    "fullName": "gokayfem/image-to-sculpt",
+    "slug": "gokayfem-image-to-sculpt",
+    "description": "A skill for coding agents that turns one image of anything into a watertight 3D sculpt measured against that image — normals, outline and depth checked at every step, with a Blender replay timelapse.",
+    "category": "AI Coding Agents",
+    "subcategory": "AI Coding Agents",
+    "language": "Python",
+    "languageColor": "#3572A5",
+    "stars": 207,
+    "forks": 14,
+    "license": "MIT",
+    "latestRelease": null,
+    "lastUpdated": "2026-11-10",
+    "githubUrl": "https://github.com/gokayfem/image-to-sculpt",
+    "documentation": "https://github.com/gokayfem/image-to-sculpt",
+    "installCommand": "git clone https://github.com/gokayfem/image-to-sculpt.git",
+    "openSource": true,
+    "trending": true,
+    "features": [
+      "Fits a watertight sculpt to the image's own normals, outline and depth in the image's own camera",
+      "Generated side views are registered by search and screened against each other — a disagreeing view is rejected with its reason recorded",
+      "One view is held out from fitting and reported separately, so the result is honestly measured",
+      "Every pass is recorded in build/steps/ — Blender replays the build as a timelapse with a 360° turntable",
+      "Outputs GLB/OBJ/STL plus a .blend with the photo as the camera background"
+    ],
+    "useCases": [
+      "Turn one image of a character, creature, figurine or product into a measured 3D sculpt",
+      "Inspect source code, build custom extensions, and run locally"
+    ],
+    "gettingStarted": "Clone the repo and point your coding agent (Claude Code, Codex, Cursor, Copilot or Gemini) at skills/image-to-sculpt/ — the skill walks the agent through prep, views, hull, fit, check and the Blender replay.",
+    "dependencies": [
+      "Python",
+      "Blender",
+      "MoGe",
+      "Marigold",
+      "BiRefNet"
+    ],
+    "alternatives": [],
+    "tags": [
+      "Python",
+      "AI Coding Agents",
+      "Open Source"
+    ],
+    "releaseDate": "2026-11-08",
+    "releaseYear": "2026",
+    "releaseMonth": "2026-11",
+    "launchDate": "2026-11-08",
+    "launchYear": "2026",
+    "launchMonth": "2026-11",
+    "lastSyncedDate": "2026-11-10"
+  },
+  {
+    "id": "lobehub-lobe-mygo",
+    "name": "lobe-mygo",
+    "owner": "lobehub",
+    "fullName": "lobehub/lobe-mygo",
+    "slug": "lobehub-lobe-mygo",
+    "description": "The UI kit for native Go apps: Lobe UI components for MyGo native UI, drawn on the GPU in pure Go — same tokens as Lobe UI on the web.",
+    "category": "UI Component Libraries, Design Systems & Generative UI",
+    "subcategory": "UI Component Libraries, Design Systems & Generative UI",
+    "language": "Go",
+    "languageColor": "#00ADD8",
+    "stars": 199,
+    "forks": 5,
+    "license": "MIT",
+    "latestRelease": null,
+    "lastUpdated": "2026-11-10",
+    "githubUrl": "https://github.com/lobehub/lobe-mygo",
+    "documentation": "https://mygo.lobehub.com",
+    "installCommand": "go get github.com/lobehub/lobe-mygo",
+    "openSource": true,
+    "trending": true,
+    "features": [
+      "Lobe UI components (Button, Input, Select, DatePicker, Calendar, Upload and more) for MyGo native UI, drawn on the GPU in pure Go",
+      "Same design tokens as @lobehub/ui — a Go app and a web app share one look",
+      "Light and dark themes built in: theme.Apply follows the system appearance with no extra setup",
+      "Pure Go, no cgo: one small binary per platform, cross-compiled from any machine",
+      "Motion included: springs and shared-element transitions; all 2,300+ Lucide icons as Go functions"
+    ],
+    "useCases": [
+      "Build a native desktop Go app with Lobe UI components",
+      "Inspect source code, build custom extensions, and run locally"
+    ],
+    "gettingStarted": "Run `go get github.com/lobehub/lobe-mygo` (Go 1.27+), call theme.Apply(c) at the top of each view, then build your window with MyGo — or copy examples/desktop for a skeleton app with title bar, tabs, sidebar and settings form.",
+    "dependencies": [
+      "Go 1.27+",
+      "MyGo"
+    ],
+    "alternatives": [],
+    "tags": [
+      "Go",
+      "UI Component Libraries, Design Systems & Generative UI",
+      "Open Source"
+    ],
+    "releaseDate": "2026-11-08",
+    "releaseYear": "2026",
+    "releaseMonth": "2026-11",
+    "launchDate": "2026-11-08",
+    "launchYear": "2026",
+    "launchMonth": "2026-11",
+    "lastSyncedDate": "2026-11-10"
+  },
+  {
+    "id": "paulirish-chrome-capture",
+    "name": "chrome-capture",
+    "owner": "paulirish",
+    "fullName": "paulirish/chrome-capture",
+    "slug": "paulirish-chrome-capture",
+    "description": "Record a Chrome tab at 60–120fps (up to 2160p) straight to an AV1 .mp4 — tab audio too, no ffmpeg — using Chrome 153's native screen-recording API.",
+    "category": "Developer Utilities, TUI, CLI & Productivity",
+    "subcategory": "Developer Utilities, TUI, CLI & Productivity",
+    "language": "TypeScript",
+    "languageColor": "#3178c6",
+    "stars": 106,
+    "forks": 1,
+    "license": "Apache-2.0",
+    "latestRelease": null,
+    "lastUpdated": "2026-11-10",
+    "githubUrl": "https://github.com/paulirish/chrome-capture",
+    "documentation": "https://github.com/paulirish/chrome-capture",
+    "installCommand": "npx chrome-capture https://paulirish.github.io/chrome-capture/ demo.mp4 4s",
+    "openSource": true,
+    "trending": true,
+    "features": [
+      "Records a Chrome tab at 60–120fps up to 2160p, straight to an AV1 .mp4",
+      "Captures tab audio as well as video, with no ffmpeg dependency",
+      "Built on Chrome 153's native Page.startScreenRecording — frames go straight from the compositor to an out-of-process encoder",
+      "Stopping is near-instant because encoding is already done — no multi-second ffmpeg flush",
+      "Start and stop recording whenever you want, from the CLI"
+    ],
+    "useCases": [
+      "Record a Chrome tab as a high-framerate AV1 video without ffmpeg",
+      "Inspect source code, build custom extensions, and run locally"
+    ],
+    "gettingStarted": "With Chrome 153+ installed, run `npx chrome-capture <url> demo.mp4 4s` to record a tab for 4 seconds — see the repo README for the full CLI.",
+    "dependencies": [
+      "Node.js",
+      "Chrome 153+"
+    ],
+    "alternatives": [],
+    "tags": [
+      "TypeScript",
+      "Developer Utilities, TUI, CLI & Productivity",
+      "Open Source"
+    ],
+    "releaseDate": "2026-11-08",
+    "releaseYear": "2026",
+    "releaseMonth": "2026-11",
+    "launchDate": "2026-11-08",
+    "launchYear": "2026",
+    "launchMonth": "2026-11",
+    "lastSyncedDate": "2026-11-10"
   }
 ];
