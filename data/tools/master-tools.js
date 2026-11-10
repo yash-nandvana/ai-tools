@@ -101052,5 +101052,47 @@ export const masterToolsData = [
     "launchYear": "2026",
     "launchMonth": "2026-11",
     "lastSyncedDate": "2026-11-09"
+  },
+  {
+    "id": "protomap",
+    "name": "ProtoMap",
+    "slug": "protomap",
+    "description": "Free, self-hosted service graph for gRPC and Protobuf: maps every service, API and field across your monorepos and microservices, refreshed on every commit, so engineers and coding agents see the blast radius of a change before editing.",
+    "category": "DevOps & Cloud Infrastructure",
+    "subcategory": "AI DevOps, cloud and infrastructure",
+    "website": "https://hounddog.ai/",
+    "github": "https://github.com/hounddogai/protomap",
+    "logo": "https://www.google.com/s2/favicons?domain=hounddog.ai&sz=128",
+    "image": null,
+    "pricing": "Free",
+    "openSource": false,
+    "platform": [
+      "Web"
+    ],
+    "useCases": [
+      "See the blast radius of a gRPC or Protobuf change before editing",
+      "Give coding agents org-wide API context without burning tokens on rediscovery"
+    ],
+    "features": [
+      "Deterministic Rust scanner builds the service graph from source code on standard CPU, refreshed on every commit",
+      "Query the graph in plain English; coding agents query it over MCP instead of grepping across repos",
+      "Shows callers, dependencies, call sites and field-level dataflows for every gRPC service and Protobuf message",
+      "Self-hosted: install the web platform and CLI scanner for free with Docker — your source code stays in your environment",
+      "Supports gRPC and Thrift today, with GraphQL and REST on the near-term roadmap"
+    ],
+    "alternatives": [],
+    "tags": [
+      "DevOps",
+      "Developer",
+      "Productivity"
+    ],
+    "status": "verified",
+    "featured": false,
+    "trending": true,
+    "lastVerified": "2026-11-10",
+    "launchDate": "2026-11-09",
+    "launchYear": "2026",
+    "launchMonth": "2026-11",
+    "lastSyncedDate": "2026-11-10"
   }
 ];
