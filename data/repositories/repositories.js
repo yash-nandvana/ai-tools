@@ -62657,5 +62657,263 @@ export const repositoriesData = [
     "launchYear": "2026",
     "launchMonth": "2026-11",
     "lastSyncedDate": "2026-11-06"
+  },
+  {
+    "id": "stevenmichaelthomas-numbrone",
+    "name": "numbrone",
+    "owner": "stevenmichaelthomas",
+    "fullName": "stevenmichaelthomas/numbrone",
+    "slug": "stevenmichaelthomas-numbrone",
+    "description": "A chief of staff for your coding agents: route plain-language requests to per-project manager agents that run parallel workers in git worktrees, on herdr.",
+    "category": "AI Coding Agents",
+    "subcategory": "AI Coding Agents",
+    "language": "Shell",
+    "languageColor": "#89e051",
+    "stars": 115,
+    "forks": 3,
+    "license": "MIT",
+    "latestRelease": null,
+    "lastUpdated": "2026-11-11",
+    "githubUrl": "https://github.com/stevenmichaelthomas/numbrone",
+    "documentation": "https://github.com/stevenmichaelthomas/numbrone",
+    "installCommand": "npx skills add stevenmichaelthomas/numbrone -g",
+    "openSource": true,
+    "trending": true,
+    "features": [
+      "A chief agent you talk to in plain language — it routes each request to the right project's manager and reports back",
+      "One manager per project, living in that project's herdr workspace, answering small things itself and spawning workers for code changes",
+      "Workers run in parallel, each in its own git worktree and herdr tab, so many tasks run at once without stepping on your checkout",
+      "Managers review worker output before reporting it as ready; reports flow worker to manager to chief to you",
+      "Runs on herdr, so you can watch any agent at any time; state is plain text files you can read and edit"
+    ],
+    "useCases": [
+      "Route plain-language requests across several projects to the right coding agent",
+      "Run many code tasks in parallel without stepping on your own checkout"
+    ],
+    "gettingStarted": "Install the skill with `npx skills add stevenmichaelthomas/numbrone -g`, start herdr, then run `/numbrone` in Claude Code to set up your projects — then ask the chief for things in plain language. Needs herdr, git and jq.",
+    "dependencies": [
+      "herdr",
+      "git",
+      "jq",
+      "Claude Code (or Codex, Gemini, OpenCode)"
+    ],
+    "alternatives": [],
+    "tags": [
+      "Shell",
+      "AI Coding Agents",
+      "Open Source"
+    ],
+    "releaseDate": "2026-11-08",
+    "releaseYear": "2026",
+    "releaseMonth": "2026-11",
+    "launchDate": "2026-11-08",
+    "launchYear": "2026",
+    "launchMonth": "2026-11",
+    "lastSyncedDate": "2026-11-11"
+  },
+  {
+    "id": "0xcodez-iphone-mirror-windows",
+    "name": "iphone-mirror-windows",
+    "owner": "0xCodez",
+    "fullName": "0xCodez/iphone-mirror-windows",
+    "slug": "0xcodez-iphone-mirror-windows",
+    "description": "Mirror and control your iPhone on Windows: an AirPlay receiver in an iPhone-shaped window, plus mouse and keyboard control over USB.",
+    "category": "Developer Utilities, TUI, CLI & Productivity",
+    "subcategory": "Developer Utilities, TUI, CLI & Productivity",
+    "language": "Python",
+    "languageColor": "#3572A5",
+    "stars": 130,
+    "forks": 25,
+    "license": "GPL-3.0",
+    "latestRelease": null,
+    "lastUpdated": "2026-11-11",
+    "githubUrl": "https://github.com/0xCodez/iphone-mirror-windows",
+    "documentation": "https://github.com/0xCodez/iphone-mirror-windows",
+    "installCommand": "git clone https://github.com/0xCodez/iphone-mirror-windows.git",
+    "openSource": true,
+    "trending": true,
+    "features": [
+      "Wireless AirPlay mirroring with sound — the PC appears as an AirPlay receiver, no app on the phone, no cable",
+      "Frameless, rounded iPhone-shaped window that floats on top of other apps and remembers its position",
+      "Rotation follows the iPhone: turn the phone to landscape and the window turns with it",
+      "One-click screenshots saved as PNG",
+      "Optional mouse and keyboard control over USB — tap, swipe, scroll, type, Home and App Switcher through WebDriverAgent"
+    ],
+    "useCases": [
+      "Mirror your iPhone screen on a Windows PC without a Mac",
+      "Control your iPhone from your PC with mouse and keyboard"
+    ],
+    "gettingStarted": "Clone the repo and double-click install.bat (creates a private venv and installs dependencies), then pick the PC as the AirPlay receiver from your iPhone's Control Center. Needs Windows 10/11 and Python 3.11+.",
+    "dependencies": [
+      "Windows 10/11",
+      "Python 3.11+",
+      "iPhone on the same Wi-Fi network"
+    ],
+    "alternatives": [],
+    "tags": [
+      "Python",
+      "Developer Utilities, TUI, CLI & Productivity",
+      "Open Source"
+    ],
+    "releaseDate": "2026-11-08",
+    "releaseYear": "2026",
+    "releaseMonth": "2026-11",
+    "launchDate": "2026-11-08",
+    "launchYear": "2026",
+    "launchMonth": "2026-11",
+    "lastSyncedDate": "2026-11-11"
+  },
+  {
+    "id": "egoist-tinytraffic",
+    "name": "tinytraffic",
+    "owner": "egoist",
+    "fullName": "egoist/tinytraffic",
+    "slug": "egoist-tinytraffic",
+    "description": "Privacy-friendly self-hosted web analytics for personal use: one binary, one DuckDB file, no cookies, a ~1KB tracker and Plausible-compatible events.",
+    "category": "Monitoring & Observability",
+    "subcategory": "Monitoring & Observability",
+    "language": "TypeScript",
+    "languageColor": "#3178c6",
+    "stars": 134,
+    "forks": 6,
+    "license": "AGPL-3.0-only",
+    "latestRelease": null,
+    "lastUpdated": "2026-11-11",
+    "githubUrl": "https://github.com/egoist/tinytraffic",
+    "documentation": "https://github.com/egoist/tinytraffic",
+    "installCommand": "git clone https://github.com/egoist/tinytraffic.git",
+    "openSource": true,
+    "trending": true,
+    "features": [
+      "~1KB gzipped tracker: pageviews including SPA navigation, outbound link clicks and custom events, accepting Plausible's event format",
+      "No cookies or storage: visitors identified by a salted hash that rotates daily, and the IP is never stored",
+      "Dashboard with visitors, visits, pageviews, bounce rate and visit duration, plus sources, referrers, pages, locations, devices and goals",
+      "Make a site's stats public to share its dashboard with anyone, no sign-in needed",
+      "API keys for scripts and other apps: read stats, manage sites and send events from your server"
+    ],
+    "useCases": [
+      "Self-host privacy-friendly analytics for a personal site or side project",
+      "Replace Plausible-style tracking with a single binary and no cookies"
+    ],
+    "gettingStarted": "Clone the repo, run `bun install` then `bun run build`, then `./bin/tinytraffic` and open http://localhost:8080. Needs Go 1.26+, Bun 1.4+ and a C compiler.",
+    "dependencies": [
+      "Go 1.26+",
+      "Bun 1.4+",
+      "Docker (optional)"
+    ],
+    "alternatives": [],
+    "tags": [
+      "TypeScript",
+      "Monitoring & Observability",
+      "Open Source"
+    ],
+    "releaseDate": "2026-11-10",
+    "releaseYear": "2026",
+    "releaseMonth": "2026-11",
+    "launchDate": "2026-11-10",
+    "launchYear": "2026",
+    "launchMonth": "2026-11",
+    "lastSyncedDate": "2026-11-11"
+  },
+  {
+    "id": "dodaios-ste80-humanizer",
+    "name": "STE80 Humanizer",
+    "owner": "Dodaios",
+    "fullName": "Dodaios/ste80-humanizer",
+    "slug": "dodaios-ste80-humanizer",
+    "description": "An agent skill that makes AI-written text read like a careful person wrote it: strips Wikipedia's 26 signs of AI writing, then rebuilds sentences 80% of the way to ASD-STE100 controlled English.",
+    "category": "AI Coding Agents",
+    "subcategory": "AI Coding Agents",
+    "language": "Python",
+    "languageColor": "#3572A5",
+    "stars": 318,
+    "forks": 17,
+    "license": "MIT",
+    "latestRelease": null,
+    "lastUpdated": "2026-11-11",
+    "githubUrl": "https://github.com/Dodaios/ste80-humanizer",
+    "documentation": "https://github.com/Dodaios/ste80-humanizer",
+    "installCommand": "npx skills add Dodaios/ste80-humanizer",
+    "openSource": true,
+    "trending": true,
+    "features": [
+      "Removes the 26 tells from Wikipedia's 'Signs of AI writing' catalog",
+      "Rebuilds sentences 80% of the way to ASD-STE100, the controlled English of aircraft maintenance manuals",
+      "Keeps the meaning unchanged: shorter sentences, visible actors, no stacked hedges or filler phrases",
+      "Answers to /ste80-humanizer, or starts by itself when you ask to humanize, simplify or de-AI a text",
+      "Explicitly not built to beat AI detectors — the goal is text people read easily"
+    ],
+    "useCases": [
+      "Rewrite AI-drafted docs and posts so they read like a person wrote them",
+      "Simplify dense technical writing into short, direct sentences"
+    ],
+    "gettingStarted": "Install with `npx skills add Dodaios/ste80-humanizer`, then ask your agent to humanize a text or run `/ste80-humanizer`.",
+    "dependencies": [
+      "A coding agent (Claude Code, Codex, Cursor or any skills.sh-supported agent)"
+    ],
+    "alternatives": [],
+    "tags": [
+      "Python",
+      "AI Coding Agents",
+      "Open Source"
+    ],
+    "releaseDate": "2026-11-09",
+    "releaseYear": "2026",
+    "releaseMonth": "2026-11",
+    "launchDate": "2026-11-09",
+    "launchYear": "2026",
+    "launchMonth": "2026-11",
+    "lastSyncedDate": "2026-11-11"
+  },
+  {
+    "id": "jdhruv14-line-art-animation",
+    "name": "line-art-animation",
+    "owner": "JDhruv14",
+    "fullName": "JDhruv14/line-art-animation",
+    "slug": "jdhruv14-line-art-animation",
+    "description": "A Claude skill and dependency-free TypeScript library for animated line-art SVG components: ink-on-paper figures that walk, ride and react, in scenes that run from day to night.",
+    "category": "AI Coding Agents",
+    "subcategory": "AI Coding Agents",
+    "language": "TypeScript",
+    "languageColor": "#3178c6",
+    "stars": 193,
+    "forks": 17,
+    "license": "MIT",
+    "latestRelease": null,
+    "lastUpdated": "2026-11-11",
+    "githubUrl": "https://github.com/JDhruv14/line-art-animation",
+    "documentation": "https://github.com/JDhruv14/line-art-animation",
+    "installCommand": "git clone https://github.com/JDhruv14/line-art-animation ~/.claude/skills/line-art-animation",
+    "openSource": true,
+    "trending": true,
+    "features": [
+      "A Claude skill plus four dependency-free TypeScript modules: ink drawing primitives, a walk/run solver, springs/pendulums/wind motion, and a day-night palette",
+      "Everything drawn live in SVG, so scenes stay sharp at any size and respond to the pointer",
+      "Day-to-night scenes with lit windows, reflections and villagers on schedules — about a dozen interactions in the village example",
+      "Deterministic frame capture for video rendering, plus tools for measuring a reference clip",
+      "Claude shows one figure for approval before building the rest, and checks motion frame by frame"
+    ],
+    "useCases": [
+      "Generate animated line-art scenes and characters with a coding agent",
+      "Add day-night cycles and walk animations to SVG components"
+    ],
+    "gettingStarted": "Clone the repo into `~/.claude/skills/line-art-animation`, then ask Claude Code for a scene, e.g. 'Make a line art animation of a bakery at dawn'. Needs Node 22.18+ for the examples.",
+    "dependencies": [
+      "Node.js 22.18+",
+      "Claude Code"
+    ],
+    "alternatives": [],
+    "tags": [
+      "TypeScript",
+      "AI Coding Agents",
+      "Open Source"
+    ],
+    "releaseDate": "2026-11-10",
+    "releaseYear": "2026",
+    "releaseMonth": "2026-11",
+    "launchDate": "2026-11-10",
+    "launchYear": "2026",
+    "launchMonth": "2026-11",
+    "lastSyncedDate": "2026-11-11"
   }
 ];
