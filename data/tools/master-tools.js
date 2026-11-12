@@ -101095,4 +101095,47 @@ export const masterToolsData = [
     "launchMonth": "2026-11",
     "lastSyncedDate": "2026-11-10"
   }
+,
+  {
+    "id": "nod",
+    "name": "Nod",
+    "slug": "nod",
+    "description": "Free, open-source personal agent from n8n Labs that runs on your own computer: it works in your apps and on real websites from a private sandbox, asks before it acts, and uses the AI provider you choose.",
+    "category": "AI Agent Frameworks",
+    "subcategory": "AI agent frameworks and orchestration",
+    "website": "https://nod.n8n.io",
+    "github": "https://github.com/n8n-io/nod",
+    "logo": "https://www.google.com/s2/favicons?domain=nod.n8n.io&sz=128",
+    "image": null,
+    "pricing": "Free",
+    "openSource": true,
+    "platform": [
+      "Desktop"
+    ],
+    "useCases": [
+      "Let a personal agent finish errands in your apps and on websites instead of describing the work",
+      "Run an AI agent locally in a private sandbox with no n8n account or cloud setup"
+    ],
+    "features": [
+      "Private computer of its own on your Mac or PC, with its own browser, files and terminal",
+      "Asks before anything you didn't ask for",
+      "Uses the AI provider you choose - OpenAI, Anthropic, OpenRouter, Bedrock, Vertex, Azure or a local model",
+      "Open source under Apache 2.0 - every rule it follows is in the code",
+      "Scores 93.2% on the LongMemEval long-term-memory benchmark in n8n's own evaluation"
+    ],
+    "alternatives": [],
+    "tags": [
+      "AI Agent",
+      "Automation",
+      "Open Source"
+    ],
+    "status": "verified",
+    "featured": false,
+    "trending": true,
+    "lastVerified": "2026-11-12",
+    "launchDate": "2026-11-10",
+    "launchYear": "2026",
+    "launchMonth": "2026-11",
+    "lastSyncedDate": "2026-11-12"
+  }
 ];
