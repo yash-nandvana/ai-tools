@@ -63124,4 +63124,212 @@ export const repositoriesData = [
     "launchMonth": "2026-11",
     "lastSyncedDate": "2026-11-11"
   }
+,
+  {
+    "id": "aws-aws-emulator",
+    "name": "aws-emulator",
+    "owner": "aws",
+    "fullName": "aws/aws-emulator",
+    "slug": "aws-aws-emulator",
+    "description": "Local emulator of the AWS APIs: test your software without calling AWS and without an AWS account - on your machine, a dev server or in CI - with 400+ API models across 200+ services.",
+    "category": "DevOps, Cloud Infra, Containers & Orchestration",
+    "subcategory": "DevOps, Cloud Infra, Containers & Orchestration",
+    "language": "Rust",
+    "languageColor": "#dea584",
+    "stars": 2697,
+    "forks": 60,
+    "license": "CC0-1.0",
+    "latestRelease": "v1.0.322",
+    "lastUpdated": "2026-11-12",
+    "githubUrl": "https://github.com/aws/aws-emulator",
+    "documentation": "https://docs.aws.amazon.com/emulator/latest/userguide/what-is-service.html",
+    "installCommand": "aws agent-toolkit add-skill --skill-name aws-emulator --region us-east-1",
+    "openSource": true,
+    "trending": true,
+    "features": [
+      "Local AWS API endpoint - requests go to the emulator, not to AWS",
+      "No AWS account and no additional service fee to test against",
+      "400+ API models across 200+ services, with fidelity scores published per release",
+      "Server mode for CLI and any SDK, plus an embedded in-process mode for Rust tests",
+      "Ships with an AI coding agent skill that sets the emulator up for you"
+    ],
+    "useCases": [
+      "Test AWS-dependent code locally and in CI without an AWS account",
+      "Inspect source code, build custom extensions, and run locally"
+    ],
+    "gettingStarted": "Install the aws-emulator agent skill with the AWS CLI, then ask your agent to set it up - or install the Linux package or Docker image, run `aws-emulator`, and point your SDK at its endpoint.",
+    "dependencies": [
+      "AWS CLI 2.35.0 or later",
+      "Docker (macOS/Windows)"
+    ],
+    "alternatives": [],
+    "tags": [
+      "Rust",
+      "DevOps, Cloud Infra, Containers & Orchestration",
+      "Open Source"
+    ],
+    "releaseDate": "2026-09-11",
+    "releaseYear": "2026",
+    "releaseMonth": "2026-09",
+    "launchDate": "2026-09-11",
+    "launchYear": "2026",
+    "launchMonth": "2026-09",
+    "lastSyncedDate": "2026-11-12"
+  },
+  {
+    "id": "janestreet-agent-skills",
+    "name": "agent_skills",
+    "owner": "janestreet",
+    "fullName": "janestreet/agent_skills",
+    "slug": "janestreet-agent-skills",
+    "description": "Agent skills from Jane Street: a collection of SKILL.md skills for AI agents and chatbots - starting with socratic-tutor, a strict Socratic tutor that teaches any topic one question at a time.",
+    "category": "AI Coding Agents",
+    "subcategory": "AI Coding Agents",
+    "language": "Markdown",
+    "languageColor": "#083fa1",
+    "stars": 6167,
+    "forks": 429,
+    "license": "MIT",
+    "latestRelease": null,
+    "lastUpdated": "2026-11-12",
+    "githubUrl": "https://github.com/janestreet/agent_skills",
+    "documentation": "https://github.com/janestreet/agent_skills",
+    "installCommand": "git clone https://github.com/janestreet/agent_skills.git",
+    "openSource": true,
+    "trending": true,
+    "features": [
+      "socratic-tutor turns an LLM into a strict personal tutor for any topic",
+      "Diagnostic, skill map with levels 0-5, one question at a time, spaced review and a final assessment",
+      "Works with any coding agent that supports the SKILL.md format",
+      "Also works with a plain chatbot - paste the SKILL.md body into the chat"
+    ],
+    "useCases": [
+      "Learn any topic Socratic-style with an AI tutor that questions instead of lecturing",
+      "Inspect source code, build custom extensions, and run locally"
+    ],
+    "gettingStarted": "Clone the repo and copy the skill directory (e.g. socratic-tutor) into your agent's skills folder, then ask the agent to use it - or paste the SKILL.md body into a chatbot followed by what you want to learn.",
+    "dependencies": [
+      "Claude Code",
+      "Codex",
+      "Cursor",
+      "Gemini CLI"
+    ],
+    "alternatives": [],
+    "tags": [
+      "Markdown",
+      "AI Coding Agents",
+      "Open Source"
+    ],
+    "releaseDate": "2026-11-03",
+    "releaseYear": "2026",
+    "releaseMonth": "2026-11",
+    "launchDate": "2026-11-03",
+    "launchYear": "2026",
+    "launchMonth": "2026-11",
+    "lastSyncedDate": "2026-11-12"
+  },
+  {
+    "id": "expo-exact",
+    "name": "exact",
+    "owner": "expo",
+    "fullName": "expo/exact",
+    "slug": "expo-exact",
+    "description": "Write an app once: it runs natively on the web, macOS, iOS and Linux, and an AI agent can build it, run it, see it and test it on every one of them - UI in Contract, logic in TypeScript or Rust.",
+    "category": "Full-Stack Frameworks",
+    "subcategory": "Full-Stack Frameworks",
+    "language": "Rust",
+    "languageColor": "#dea584",
+    "stars": 3013,
+    "forks": 66,
+    "license": "MIT",
+    "latestRelease": null,
+    "lastUpdated": "2026-11-12",
+    "githubUrl": "https://github.com/expo/exact",
+    "documentation": "https://github.com/expo/exact",
+    "installCommand": "git clone https://github.com/expo/exact.git && cd exact && bun scripts/exact.mjs setup",
+    "openSource": true,
+    "trending": true,
+    "features": [
+      "One app.contract UI in Contract plus TypeScript or Rust logic, running natively on web, macOS, iOS and Linux",
+      "No webview and no JavaScript bridge in the UI - each platform draws with its own native tools",
+      "An AI agent can build, run, see and test the app on all four platforms",
+      "Web build is one ES module over a ~20 KB runtime driving the real DOM",
+      "Rust layout kernel computes every box with CSS rules"
+    ],
+    "useCases": [
+      "Build one app that ships natively on web, macOS, iOS and Linux",
+      "Let a coding agent build and test your app across all four platforms"
+    ],
+    "gettingStarted": "Clone the repo, run `bun scripts/exact.mjs setup` once, then `bun scripts/exact.mjs new <path>` to scaffold an app and read docs/start-here.md - or give Claude Code the README prompt and let the agent build it.",
+    "dependencies": [
+      "Bun",
+      "Rust",
+      "Xcode (macOS/iOS)",
+      "Chrome"
+    ],
+    "alternatives": [],
+    "tags": [
+      "Rust",
+      "Full-Stack Frameworks",
+      "Open Source"
+    ],
+    "releaseDate": "2026-11-02",
+    "releaseYear": "2026",
+    "releaseMonth": "2026-11",
+    "launchDate": "2026-11-02",
+    "launchYear": "2026",
+    "launchMonth": "2026-11",
+    "lastSyncedDate": "2026-11-12"
+  },
+  {
+    "id": "sskandon-blender-ai-mcp-addon",
+    "name": "blender-ai-mcp-addon",
+    "owner": "SsKanDon",
+    "fullName": "SsKanDon/blender-ai-mcp-addon",
+    "slug": "sskandon-blender-ai-mcp-addon",
+    "description": "AI assistant for Blender with a visual chat workspace and a built-in MCP server: inspect the scene, build objects, edit materials, find assets and run multi-step agent workflows in Blender 4.2+.",
+    "category": "Model Context Protocol (MCP) & Agent Connectors",
+    "subcategory": "Model Context Protocol (MCP) & Agent Connectors",
+    "language": "Python",
+    "languageColor": "#3572A5",
+    "stars": 167,
+    "forks": 1,
+    "license": "MIT",
+    "latestRelease": "v1.0.0",
+    "lastUpdated": "2026-11-12",
+    "githubUrl": "https://github.com/SsKanDon/blender-ai-mcp-addon",
+    "documentation": "https://github.com/SsKanDon/blender-ai-mcp-addon",
+    "installCommand": "Download blender-ai-mcp-addon-v1.0.0.zip from the releases page and install it in Blender 4.2+",
+    "openSource": true,
+    "trending": true,
+    "features": [
+      "Visual Studio workspace: chat, scene objects, viewport snapshots, approvals and a task board",
+      "21 scene tools - create, inspect, edit, capture, search assets and export scenes",
+      "Your choice of AI: cloud providers, local Ollama models or compatible custom endpoints",
+      "Single assistant for quick edits, or manager/worker/reviewer team chains for larger tasks",
+      "Built-in MCP server over authenticated Streamable HTTP for OpenCode and other MCP clients"
+    ],
+    "useCases": [
+      "Turn a creative brief into Blender scene operations through conversation",
+      "Automate repetitive Blender work with an AI assistant that can see the scene"
+    ],
+    "gettingStarted": "Download the v1.0.0 release zip, install the addon in Blender 4.2+, then open the Studio workspace and connect your AI provider - a cloud provider, local Ollama or a custom endpoint.",
+    "dependencies": [
+      "Blender 4.2+",
+      "AI provider API key or local Ollama"
+    ],
+    "alternatives": [],
+    "tags": [
+      "Python",
+      "Model Context Protocol (MCP) & Agent Connectors",
+      "Open Source"
+    ],
+    "releaseDate": "2026-11-11",
+    "releaseYear": "2026",
+    "releaseMonth": "2026-11",
+    "launchDate": "2026-11-11",
+    "launchYear": "2026",
+    "launchMonth": "2026-11",
+    "lastSyncedDate": "2026-11-12"
+  }
 ];
