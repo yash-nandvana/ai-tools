@@ -63123,5 +63123,56 @@ export const repositoriesData = [
     "launchYear": "2026",
     "launchMonth": "2026-11",
     "lastSyncedDate": "2026-11-11"
+  },
+  {
+    "id": "microsoft-tokeneconomizer",
+    "name": "TokenEconomizer",
+    "owner": "microsoft",
+    "fullName": "microsoft/TokenEconomizer",
+    "slug": "microsoft-tokeneconomizer",
+    "description": "Experience-driven cost controller for coding agents — learns from past sessions in a repo to cut token cost 18–31% on SWE-Bench, with micro-skills, tool pruning and a failure-loop guard.",
+    "category": "AI Coding Agents",
+    "subcategory": "AI Coding Agents",
+    "language": "Python",
+    "languageColor": "#3572A5",
+    "stars": 5711,
+    "forks": 357,
+    "license": "Apache-2.0",
+    "latestRelease": "v0.1.0",
+    "lastUpdated": "2026-11-10",
+    "githubUrl": "https://github.com/microsoft/TokenEconomizer",
+    "documentation": "https://tokeneconomizer.github.io",
+    "installCommand": "git clone https://github.com/microsoft/TokenEconomizer.git",
+    "openSource": true,
+    "trending": true,
+    "features": [
+      "Micro-skills remember how a repo works — build steps, working command spellings, env vars — learned from repeated failures and a review every 3 sessions",
+      "Tool pruning leaves out tools that go unused across sessions, through the agent's own settings; one command brings them back",
+      "Failure-loop intervention: a judge model spots a stuck turn and redirects it to try another approach, at most once per turn — it never stops a turn itself",
+      "Everything learned stays local in ~/.tokeneconomizer; no API key of its own and it never handles credentials",
+      "Works as a plugin for Claude Code, Codex, GitHub Copilot CLI and Pi, with experimental support for opencode, Cursor Agent and Grok Build"
+    ],
+    "useCases": [
+      "Cut token cost on the repositories you work in every day, without changing your coding agent",
+      "Stop paying to rediscover the same repo facts, load unused tools and repeat the same failing loops"
+    ],
+    "gettingStarted": "Clone the repo, then in Claude Code run `claude plugin marketplace add \"$PWD/TokenEconomizer\"` and `claude plugin install tokeneconomizer@tokeneconomizer`, start claude, trust the folder and check with `/tokeneconomizer:status`.",
+    "dependencies": [
+      "Python 3.10+",
+      "Claude Code / Codex / GitHub Copilot CLI / Pi"
+    ],
+    "alternatives": [],
+    "tags": [
+      "Python",
+      "AI Coding Agents",
+      "Open Source"
+    ],
+    "releaseDate": "2026-10-13",
+    "releaseYear": "2026",
+    "releaseMonth": "2026-10",
+    "launchDate": "2026-10-13",
+    "launchYear": "2026",
+    "launchMonth": "2026-10",
+    "lastSyncedDate": "2026-11-11"
   }
 ];
