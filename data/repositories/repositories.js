@@ -63382,5 +63382,260 @@ export const repositoriesData = [
     "launchYear": "2026",
     "launchMonth": "2026-11",
     "lastSyncedDate": "2026-11-12"
+  },
+  {
+    "id": "openai-codex-security",
+    "name": "codex-security",
+    "owner": "openai",
+    "fullName": "openai/codex-security",
+    "slug": "openai-codex-security",
+    "description": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities.",
+    "category": "Security, Vulnerability Scanners, SAST & Pentesting",
+    "subcategory": "Security, Vulnerability Scanners, SAST & Pentesting",
+    "language": "TypeScript",
+    "languageColor": "#3178c6",
+    "stars": 12540,
+    "forks": 980,
+    "license": "Apache-2.0",
+    "latestRelease": null,
+    "lastUpdated": "2026-11-13",
+    "githubUrl": "https://github.com/openai/codex-security",
+    "documentation": "https://developers.openai.com/codex/security",
+    "installCommand": "npm install --global @openai/codex-security",
+    "openSource": true,
+    "trending": true,
+    "features": [
+      "Scan repositories, selected paths, or Git changes for security vulnerabilities",
+      "Validate candidate findings, generate patches, and verify existing fixes",
+      "Draft SECURITY.md policies and save threat models for later review",
+      "Export findings as SARIF, JSON, and CSV, and track them in Linear, Jira, or GitHub",
+      "Automate scans across repositories, in CI, and in containers"
+    ],
+    "useCases": [
+      "Find, validate, and fix security vulnerabilities in your codebase",
+      "Inspect source code, build custom extensions, and run locally"
+    ],
+    "gettingStarted": "Install the CLI globally with npm, run `cs login`, then run `cs scan .` from your repository directory.",
+    "dependencies": [
+      "Node.js 22.13+ or 24.x / 26.x",
+      "Python 3.10+"
+    ],
+    "alternatives": [],
+    "tags": [
+      "TypeScript",
+      "Security, Vulnerability Scanners, SAST & Pentesting",
+      "Open Source"
+    ],
+    "releaseDate": "2026-07-13",
+    "releaseYear": "2026",
+    "releaseMonth": "2026-07",
+    "launchDate": "2026-07-13",
+    "launchYear": "2026",
+    "launchMonth": "2026-07",
+    "lastSyncedDate": "2026-11-13"
+  },
+  {
+    "id": "shadcn-improve",
+    "name": "improve",
+    "owner": "shadcn",
+    "fullName": "shadcn/improve",
+    "slug": "shadcn-improve",
+    "description": "Use your most capable model to audit your codebase and write plans for cheaper models to execute.",
+    "category": "AI Coding Agents",
+    "subcategory": "AI Coding Agents",
+    "language": "Markdown",
+    "languageColor": "#083fa1",
+    "stars": 11587,
+    "forks": 469,
+    "license": "MIT",
+    "latestRelease": null,
+    "lastUpdated": "2026-11-13",
+    "githubUrl": "https://github.com/shadcn/improve",
+    "documentation": "https://github.com/shadcn/improve",
+    "installCommand": "npx skills add shadcn/improve",
+    "openSource": true,
+    "trending": true,
+    "features": [
+      "Audits any codebase and writes implementation plans for other agents to execute",
+      "Uses the most capable model where intelligence compounds and cheaper models for execution",
+      "The skill never implements anything itself - the plan is the product",
+      "Plans are plain markdown, so any agent or human can pick them up",
+      "Focused modes: quick, deep, security, perf, tests, bugs, and branch audits"
+    ],
+    "useCases": [
+      "Audit a codebase and get prioritized, self-contained implementation plans",
+      "Inspect source code, build custom extensions, and run locally"
+    ],
+    "gettingStarted": "Run `npx skills add shadcn/improve`, then use `/improve` in your agent to audit the codebase and write implementation plans.",
+    "dependencies": [
+      "Claude Code",
+      "Codex",
+      "Cursor",
+      "Gemini CLI"
+    ],
+    "alternatives": [],
+    "tags": [
+      "Markdown",
+      "AI Coding Agents",
+      "Open Source"
+    ],
+    "releaseDate": "2026-06-10",
+    "releaseYear": "2026",
+    "releaseMonth": "2026-06",
+    "launchDate": "2026-06-10",
+    "launchYear": "2026",
+    "launchMonth": "2026-06",
+    "lastSyncedDate": "2026-11-13"
+  },
+  {
+    "id": "googlechrome-modern-web-guidance-src",
+    "name": "modern-web-guidance-src",
+    "owner": "GoogleChrome",
+    "fullName": "GoogleChrome/modern-web-guidance-src",
+    "slug": "googlechrome-modern-web-guidance-src",
+    "description": "Keep your coding agent up to date with the latest web best practices.",
+    "category": "AI Coding Agents",
+    "subcategory": "AI Coding Agents",
+    "language": "TypeScript",
+    "languageColor": "#3178c6",
+    "stars": 3279,
+    "forks": 208,
+    "license": "Apache-2.0",
+    "latestRelease": null,
+    "lastUpdated": "2026-11-13",
+    "githubUrl": "https://github.com/GoogleChrome/modern-web-guidance-src",
+    "documentation": "https://goo.gle/modern-web-guidance",
+    "installCommand": "npx modern-web-guidance@latest install",
+    "openSource": true,
+    "trending": true,
+    "features": [
+      "Curated web best-practice guides published by Google's Chrome team",
+      "Installs as agent skills so coding agents stop writing outdated web code",
+      "Covers modern web platform guidance in one reference set",
+      "Works with coding agents that support the agent skills format"
+    ],
+    "useCases": [
+      "Keep your coding agent up to date with the latest web best practices",
+      "Inspect source code, build custom extensions, and run locally"
+    ],
+    "gettingStarted": "Run `npx modern-web-guidance@latest install` to add the guides to your coding agent.",
+    "dependencies": [
+      "Node.js",
+      "An AI coding agent that supports agent skills"
+    ],
+    "alternatives": [],
+    "tags": [
+      "TypeScript",
+      "AI Coding Agents",
+      "Open Source"
+    ],
+    "releaseDate": "2026-01-27",
+    "releaseYear": "2026",
+    "releaseMonth": "2026-01",
+    "launchDate": "2026-01-27",
+    "launchYear": "2026",
+    "launchMonth": "2026-01",
+    "lastSyncedDate": "2026-11-13"
+  },
+  {
+    "id": "vercel-labs-agent-desktop",
+    "name": "agent-desktop",
+    "owner": "vercel-labs",
+    "fullName": "vercel-labs/agent-desktop",
+    "slug": "vercel-labs-agent-desktop",
+    "description": "Computer use CLI for AI agents: see and operate desktop apps on macOS, Windows, and Linux through the OS accessibility tree.",
+    "category": "AI Coding Agents",
+    "subcategory": "AI Coding Agents",
+    "language": "Rust",
+    "languageColor": "#dea584",
+    "stars": 22804,
+    "forks": 1688,
+    "license": "Apache-2.0",
+    "latestRelease": null,
+    "lastUpdated": "2026-11-13",
+    "githubUrl": "https://github.com/vercel-labs/agent-desktop",
+    "documentation": "https://agent-browser.dev/desktop/installation",
+    "installCommand": "npm install -g agent-desktop",
+    "openSource": true,
+    "trending": true,
+    "features": [
+      "Gives an AI agent computer use without screenshots or pixel matching",
+      "Reads the accessibility tree of a desktop app and returns it as JSON with refs for every actionable element",
+      "The agent clicks or types on a ref, then re-reads the UI to check the result",
+      "Ships as a CLI and a C library, with no model inside - the loop lives in your agent",
+      "Runs on macOS, Windows, and Linux"
+    ],
+    "useCases": [
+      "Let an AI agent see and operate real desktop apps",
+      "Inspect source code, build custom extensions, and run locally"
+    ],
+    "gettingStarted": "Install with `npm install -g agent-desktop`, run `agent-desktop status` to check platform and permissions, then let your agent drive desktop apps through the CLI.",
+    "dependencies": [
+      "Node.js",
+      "macOS, Windows, or Linux"
+    ],
+    "alternatives": [],
+    "tags": [
+      "Rust",
+      "AI Coding Agents",
+      "Open Source"
+    ],
+    "releaseDate": "2026-02-19",
+    "releaseYear": "2026",
+    "releaseMonth": "2026-02",
+    "launchDate": "2026-02-19",
+    "launchYear": "2026",
+    "launchMonth": "2026-02",
+    "lastSyncedDate": "2026-11-13"
+  },
+  {
+    "id": "meta-astryx",
+    "name": "astryx",
+    "owner": "meta",
+    "fullName": "meta/astryx",
+    "slug": "meta-astryx",
+    "description": "An open source design system that's fully customizable and agent ready.",
+    "category": "UI Component Libraries, Design Systems & Generative UI",
+    "subcategory": "UI Component Libraries, Design Systems & Generative UI",
+    "language": "TypeScript",
+    "languageColor": "#3178c6",
+    "stars": 26707,
+    "forks": 2071,
+    "license": "MIT",
+    "latestRelease": null,
+    "lastUpdated": "2026-11-13",
+    "githubUrl": "https://github.com/meta/astryx",
+    "documentation": "https://github.com/meta/astryx",
+    "installCommand": "npm install @astryxdesign/core @astryxdesign/theme-neutral @stylexjs/stylex",
+    "openSource": true,
+    "trending": true,
+    "features": [
+      "Open source design system from Meta for React, grown inside Meta over eight years",
+      "150+ accessible components with theming, dark mode, templates, and a CLI",
+      "Fully customizable and agent ready - people and AI assistants use the same tooling",
+      "Requires React 19 or later, currently in Beta"
+    ],
+    "useCases": [
+      "Build accessible React interfaces with Meta's design system",
+      "Inspect source code, build custom extensions, and run locally"
+    ],
+    "gettingStarted": "Install the core and theme packages with npm, then import the components and theme into your React 19 app.",
+    "dependencies": [
+      "React 19+",
+      "Node.js"
+    ],
+    "alternatives": [],
+    "tags": [
+      "TypeScript",
+      "UI Component Libraries, Design Systems & Generative UI",
+      "Open Source"
+    ],
+    "releaseDate": "2026-01-09",
+    "releaseYear": "2026",
+    "releaseMonth": "2026-01",
+    "launchDate": "2026-01-09",
+    "launchYear": "2026",
+    "launchMonth": "2026-01",
+    "lastSyncedDate": "2026-11-13"
   }
 ];
