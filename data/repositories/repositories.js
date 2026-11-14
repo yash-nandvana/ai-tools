@@ -63637,5 +63637,261 @@ export const repositoriesData = [
     "launchYear": "2026",
     "launchMonth": "2026-01",
     "lastSyncedDate": "2026-11-13"
+  },
+  {
+    "id": "pingdotgg-t3code",
+    "name": "t3code",
+    "owner": "pingdotgg",
+    "fullName": "pingdotgg/t3code",
+    "slug": "pingdotgg-t3code",
+    "description": "The best way to control Claude Code, Codex and more from any computer or phone",
+    "category": "AI Coding Agents",
+    "subcategory": "AI Coding Agents",
+    "language": "TypeScript",
+    "languageColor": "#3178c6",
+    "stars": 59693,
+    "forks": 10813,
+    "license": "MIT",
+    "latestRelease": "v0.1.9",
+    "lastUpdated": "2026-11-14",
+    "githubUrl": "https://github.com/pingdotgg/t3code",
+    "documentation": "https://t3.codes",
+    "installCommand": "brew install --cask t3-code",
+    "openSource": true,
+    "trending": true,
+    "features": [
+      "Every agent in one place: switch models mid-thread and let Claude hand a task to Codex",
+      "Desktop, web, and phone clients share the same threads from one server",
+      "Run agents on any machine and connect over the local network, Tailscale, or T3 Connect",
+      "Git built in: each thread works in its own worktree with one-button diff review, commit, push, and pull request",
+      "MIT licensed and open source - if you do not like something, fork it"
+    ],
+    "useCases": [
+      "Control Claude Code, Codex, and more from any computer or phone",
+      "Inspect source code, build custom extensions, and run locally"
+    ],
+    "gettingStarted": "Install with `brew install --cask t3-code`, run `t3` to start the server, then sign in to an agent.",
+    "dependencies": [
+      "macOS, Windows, or Linux",
+      "An AI coding agent subscription (Claude Code, Codex, or similar)"
+    ],
+    "alternatives": [],
+    "tags": [
+      "TypeScript",
+      "AI Coding Agents",
+      "Open Source"
+    ],
+    "releaseDate": "2026-02-08",
+    "releaseYear": "2026",
+    "releaseMonth": "2026-02",
+    "launchDate": "2026-02-08",
+    "launchYear": "2026",
+    "launchMonth": "2026-02",
+    "lastSyncedDate": "2026-11-14"
+  },
+  {
+    "id": "yetone-magpie",
+    "name": "magpie",
+    "owner": "yetone",
+    "fullName": "yetone/magpie",
+    "slug": "yetone-magpie",
+    "description": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
+    "category": "AI Coding Agents",
+    "subcategory": "AI Coding Agents",
+    "language": "Go",
+    "languageColor": "#00ADD8",
+    "stars": 36169,
+    "forks": 3229,
+    "license": "MIT",
+    "latestRelease": "v0.1.4113",
+    "lastUpdated": "2026-11-14",
+    "githubUrl": "https://github.com/yetone/magpie",
+    "documentation": "https://usemagpie.ai/docs/start",
+    "installCommand": "curl -fsSL https://usemagpie.ai/install.sh | sh",
+    "openSource": true,
+    "trending": true,
+    "features": [
+      "Pick any model for any agent from one list, editing the key that matters in each agent's own config",
+      "Use one provider everywhere: an API key, a local model, or the Claude, ChatGPT, Copilot, Gemini, or Grok plan you are signed in to",
+      "Routing groups move on to another model or provider when a quota runs out, so the agent never sees the error",
+      "Optional privacy masking hides keys, passwords, and emails on your computer before requests leave it",
+      "Shared library of instructions, MCP servers, skills, and subagents written into each agent's files in its own format"
+    ],
+    "useCases": [
+      "Run Codex on DeepSeek or Claude Code on Kimi from the menu bar",
+      "Inspect source code, build custom extensions, and run locally"
+    ],
+    "gettingStarted": "Run `curl -fsSL https://usemagpie.ai/install.sh | sh`, then pick a model for each agent from the menu bar.",
+    "dependencies": [
+      "macOS or Linux",
+      "An AI coding agent (Claude Code, Codex, Gemini CLI, or similar)"
+    ],
+    "alternatives": [],
+    "tags": [
+      "Go",
+      "AI Coding Agents",
+      "Open Source"
+    ],
+    "releaseDate": "2026-09-23",
+    "releaseYear": "2026",
+    "releaseMonth": "2026-09",
+    "launchDate": "2026-09-23",
+    "launchYear": "2026",
+    "launchMonth": "2026-09",
+    "lastSyncedDate": "2026-11-14"
+  },
+  {
+    "id": "copilotkit-openbot",
+    "name": "OpenBot",
+    "owner": "CopilotKit",
+    "fullName": "CopilotKit/OpenBot",
+    "slug": "copilotkit-openbot",
+    "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
+    "category": "AI Agent Frameworks, Orchestration & RAG",
+    "subcategory": "AI Agent Frameworks, Orchestration & RAG",
+    "language": "TypeScript",
+    "languageColor": "#3178c6",
+    "stars": 12137,
+    "forks": 1489,
+    "license": "MIT",
+    "latestRelease": "v1.0.2",
+    "lastUpdated": "2026-11-14",
+    "githubUrl": "https://github.com/CopilotKit/OpenBot",
+    "documentation": "https://open.bot",
+    "installCommand": "Download the installer from https://open.bot",
+    "openSource": true,
+    "trending": true,
+    "features": [
+      "Each AI coworker gets a computer of its own: a browser, files, and tools",
+      "Every action is decided before it happens and recorded after",
+      "Choose your models: OpenAI, Claude, Gemini, or open models through an OpenAI-compatible endpoint",
+      "Bring your own agents through AG-UI from any agent execution platform",
+      "Company sign-in, roles, tool permissions, approvals, and audit apply across the workspace"
+    ],
+    "useCases": [
+      "Give AI coworkers their own computers to do real work in your stack",
+      "Inspect source code, build custom extensions, and run locally"
+    ],
+    "gettingStarted": "Download the installer for macOS or Windows from open.bot, then connect your models and agents.",
+    "dependencies": [
+      "macOS or Windows",
+      "Docker",
+      "A model key (OpenAI, Anthropic, or Google)"
+    ],
+    "alternatives": [],
+    "tags": [
+      "TypeScript",
+      "AI Agent Frameworks, Orchestration & RAG",
+      "Open Source"
+    ],
+    "releaseDate": "2026-08-17",
+    "releaseYear": "2026",
+    "releaseMonth": "2026-08",
+    "launchDate": "2026-08-17",
+    "launchYear": "2026",
+    "launchMonth": "2026-08",
+    "lastSyncedDate": "2026-11-14"
+  },
+  {
+    "id": "gentleman-programming-gentle-ai",
+    "name": "gentle-ai",
+    "owner": "Gentleman-Programming",
+    "fullName": "Gentleman-Programming/gentle-ai",
+    "slug": "gentleman-programming-gentle-ai",
+    "description": "Configures the AI coding agents you already use - Claude Code, Cursor, OpenCode, Codex, Pi, and more - with persistent memory, curated skills, MCP servers, and personas. Open source, no agent lock-in.",
+    "category": "AI Coding Agents",
+    "subcategory": "AI Coding Agents",
+    "language": "Go",
+    "languageColor": "#00ADD8",
+    "stars": 9139,
+    "forks": 898,
+    "license": "MIT",
+    "latestRelease": "v4.5.0",
+    "lastUpdated": "2026-11-14",
+    "githubUrl": "https://github.com/Gentleman-Programming/gentle-ai",
+    "documentation": "https://github.com/Gentleman-Programming/gentle-ai",
+    "installCommand": "brew install gentleman-programming/tap/gentle-ai",
+    "openSource": true,
+    "trending": true,
+    "features": [
+      "Configures Claude Code, Cursor, OpenCode, Codex, Pi, and more from one setup",
+      "Persistent memory (Engram) keeps project context across sessions",
+      "Organic-Driven Development keeps small work small with test-first defaults",
+      "Curated skills, MCP servers, and personas, plus optional bounded review",
+      "Deterministic by design: know the next valid step"
+    ],
+    "useCases": [
+      "Set up persistent memory, skills, and MCP servers across your AI coding agents",
+      "Inspect source code, build custom extensions, and run locally"
+    ],
+    "gettingStarted": "Install with `brew install gentleman-programming/tap/gentle-ai`, then run the installer to configure your agents.",
+    "dependencies": [
+      "macOS or Linux",
+      "An AI coding agent (Claude Code, Cursor, OpenCode, Codex, or Pi)"
+    ],
+    "alternatives": [],
+    "tags": [
+      "Go",
+      "AI Coding Agents",
+      "Open Source"
+    ],
+    "releaseDate": "2026-02-27",
+    "releaseYear": "2026",
+    "releaseMonth": "2026-02",
+    "launchDate": "2026-02-27",
+    "launchYear": "2026",
+    "launchMonth": "2026-02",
+    "lastSyncedDate": "2026-11-14"
+  },
+  {
+    "id": "galaxy-io-filament",
+    "name": "filament",
+    "owner": "galaxy-io",
+    "fullName": "galaxy-io/filament",
+    "slug": "galaxy-io-filament",
+    "description": "Open-source data replication engine in Go: full loads, incremental replication, and change data capture, with verified Arrow batches at the sink.",
+    "category": "Databases, ORMs, Migrations & Query Builders",
+    "subcategory": "Databases, ORMs, Migrations & Query Builders",
+    "language": "Go",
+    "languageColor": "#00ADD8",
+    "stars": 306,
+    "forks": 42,
+    "license": "Apache-2.0",
+    "latestRelease": "v0.43.0",
+    "lastUpdated": "2026-11-14",
+    "githubUrl": "https://github.com/galaxy-io/filament",
+    "documentation": "https://filament.getgalaxy.io",
+    "installCommand": "brew install galaxy-io/tap/filament",
+    "openSource": true,
+    "trending": true,
+    "features": [
+      "Full loads, incremental replication, and change data capture (CDC)",
+      "Verifies Arrow batches at the sink handoff and checks the exact serialized payload where the sink supports it",
+      "Every record is hashed on read and write; batches fail unless counts, bytes, and checksums match",
+      "Runs as a standalone binary or embedded in a Go application",
+      "Moves data between databases, APIs, event streams, and object storage"
+    ],
+    "useCases": [
+      "Replicate data between Postgres, MySQL, ClickHouse, Iceberg, and S3 with integrity checks",
+      "Inspect source code, build custom extensions, and run locally"
+    ],
+    "gettingStarted": "Install with `brew install galaxy-io/tap/filament`, then run `filament` to start moving data.",
+    "dependencies": [
+      "Go",
+      "macOS or Linux"
+    ],
+    "alternatives": [],
+    "tags": [
+      "Go",
+      "Databases, ORMs, Migrations & Query Builders",
+      "Open Source"
+    ],
+    "releaseDate": "2026-06-30",
+    "releaseYear": "2026",
+    "releaseMonth": "2026-06",
+    "launchDate": "2026-06-30",
+    "launchYear": "2026",
+    "launchMonth": "2026-06",
+    "lastSyncedDate": "2026-11-14"
   }
 ];
