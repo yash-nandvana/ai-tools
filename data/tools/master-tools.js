@@ -101137,5 +101137,94 @@ export const masterToolsData = [
     "launchYear": "2026",
     "launchMonth": "2026-11",
     "lastSyncedDate": "2026-11-12"
+  },
+  {
+    "id": "talyn",
+    "name": "Talyn",
+    "slug": "talyn",
+    "description": "Runs Claude Code and Codex in parallel cloud sandboxes on the plan you already pay for — each task gets its own Firecracker microVM, branch and diff, and comes back as a green pull request",
+    "category": "AI Coding Assistants & Agents",
+    "subcategory": "AI coding assistants and agents",
+    "website": "https://www.talyn.dev",
+    "github": null,
+    "logo": "https://www.google.com/s2/favicons?domain=www.talyn.dev&sz=128",
+    "image": null,
+    "pricing": "Freemium",
+    "openSource": false,
+    "platform": [
+      "Web",
+      "Desktop"
+    ],
+    "useCases": [
+      "Run several Claude Code or Codex tasks in parallel without file collisions",
+      "Close the laptop and come back to a finished diff or green pull request",
+      "Run agents on the Claude or ChatGPT subscription you already pay for, with no second token bill"
+    ],
+    "features": [
+      "A fresh Firecracker microVM per task, destroyed when the task ends",
+      "Your subscription token is never placed inside the sandbox",
+      "Merge queue, AI code review, GitHub automations and a hosted MCP server",
+      "Free with 10 box-hours a month; Pro gives 200 box-hours and up to 100 sandboxes at once"
+    ],
+    "alternatives": [],
+    "tags": [
+      "AI Coding Agents",
+      "Cloud Sandboxes",
+      "Claude Code",
+      "Codex"
+    ],
+    "status": "verified",
+    "featured": false,
+    "trending": true,
+    "lastVerified": "2026-11-16",
+    "launchDate": "2026-11-15",
+    "launchYear": "2026",
+    "launchMonth": "2026-11",
+    "lastSyncedDate": "2026-11-16"
+  },
+  {
+    "id": "rakazo",
+    "name": "Rakazo",
+    "slug": "rakazo",
+    "description": "Open-source, self-hosted AI teammates that keep working after you close the chat — each bot has its own memory, routines and computer, with a browser you can watch and take over; any model, your keys, your machine",
+    "category": "AI Agent Frameworks",
+    "subcategory": "AI agent frameworks and orchestration",
+    "website": "https://rakazo.com",
+    "github": "https://github.com/elie222/rakazo",
+    "logo": "https://www.google.com/s2/favicons?domain=rakazo.com&sz=128",
+    "image": null,
+    "pricing": "Free",
+    "openSource": true,
+    "platform": [
+      "Web",
+      "Desktop",
+      "Mobile"
+    ],
+    "useCases": [
+      "Run personal AI teammates on your own machine instead of a hosted agent cloud",
+      "Give each bot its own computer, memory and routines",
+      "Keep credentials, sessions and audit logs behind your own firewall"
+    ],
+    "features": [
+      "Open source under Apache-2.0 with no seat fee — you pay only the model and computer providers",
+      "Bot computers run in local Docker, hosted sandboxes or a trusted local-computer mode",
+      "Bring your own model key, including a local server",
+      "Approval rules and audit logs on every bot action",
+      "Web, desktop and mobile apps"
+    ],
+    "alternatives": [],
+    "tags": [
+      "AI Agent",
+      "Open Source",
+      "Self-Hosted"
+    ],
+    "status": "verified",
+    "featured": false,
+    "trending": true,
+    "lastVerified": "2026-11-16",
+    "launchDate": "2026-11-15",
+    "launchYear": "2026",
+    "launchMonth": "2026-11",
+    "lastSyncedDate": "2026-11-16"
   }
 ];
