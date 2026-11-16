@@ -64163,5 +64163,167 @@ export const repositoriesData = [
     "launchYear": "2026",
     "launchMonth": "2026-06",
     "lastSyncedDate": "2026-11-15"
+  },
+  {
+    "id": "google-labs-code-stitch-skills",
+    "name": "stitch-skills",
+    "owner": "google-labs-code",
+    "fullName": "google-labs-code/stitch-skills",
+    "slug": "google-labs-code-stitch-skills",
+    "description": "Agent skills and plugins for Google Stitch following the Agent Skills open standard — design, build and utility skills for coding agents like Codex, Claude Code, Gemini CLI and Cursor, backed by the Stitch MCP server",
+    "category": "Model Context Protocol (MCP) & Agent Connectors",
+    "subcategory": "Model Context Protocol (MCP) & Agent Connectors",
+    "language": "TypeScript",
+    "languageColor": "#3178c6",
+    "stars": 9384,
+    "forks": 1131,
+    "license": "Apache-2.0",
+    "latestRelease": null,
+    "lastUpdated": "2026-11-16",
+    "githubUrl": "https://github.com/google-labs-code/stitch-skills",
+    "documentation": "https://stitch.withgoogle.com",
+    "installCommand": "npx plugins add google-labs-code/stitch-skills --scope project --target claude-code",
+    "openSource": true,
+    "trending": true,
+    "features": [
+      "Three plugins in one repo: stitch-design, stitch-build and stitch-utilities",
+      "Follows the Agent Skills open standard, so skills work across Codex, Antigravity, Gemini CLI, Claude Code, Cursor and OpenCode",
+      "Skills for code-to-design, generate-design, extract-static-html, extract-design-md and upload-to-stitch",
+      "Runs against the Stitch MCP server for live design generation and editing",
+      "Sparse-checkout install keeps the plugin footprint small"
+    ],
+    "useCases": [
+      "Give a coding agent Stitch design and build skills",
+      "Generate UI designs from code and extract designs back to code",
+      "Manage a design system through agent skills"
+    ],
+    "gettingStarted": "Add the marketplace with `codex plugin marketplace add google-labs-code/stitch-skills --ref main`, install the stitch-design, stitch-build or stitch-utilities plugins, and configure the Stitch MCP server first.",
+    "dependencies": [
+      "Stitch MCP server configured",
+      "Codex, Claude Code, Cursor, Gemini CLI or another supported agent"
+    ],
+    "alternatives": [],
+    "tags": [
+      "TypeScript",
+      "MCP",
+      "Agent Skills",
+      "Open Source"
+    ],
+    "releaseDate": "2026-01-16",
+    "releaseYear": "2026",
+    "releaseMonth": "2026-01",
+    "launchDate": "2026-01-16",
+    "launchYear": "2026",
+    "launchMonth": "2026-01",
+    "lastSyncedDate": "2026-11-16"
+  },
+  {
+    "id": "elementalsouls-claude-bughunter",
+    "name": "Claude-BugHunter",
+    "owner": "elementalsouls",
+    "fullName": "elementalsouls/Claude-BugHunter",
+    "slug": "elementalsouls-claude-bughunter",
+    "description": "Drop-in Claude Code skill bundle for bug hunting and external red-team work — 83 skills, 15 slash commands and 681 disclosed-report patterns across 24 vulnerability classes, plus enterprise identity and infrastructure attack matrices",
+    "category": "Security, Vulnerability Scanners, SAST & Pentesting",
+    "subcategory": "Security, Vulnerability Scanners, SAST & Pentesting",
+    "language": "Python",
+    "languageColor": "#3572A5",
+    "stars": 6570,
+    "forks": 982,
+    "license": "MIT",
+    "latestRelease": null,
+    "lastUpdated": "2026-11-16",
+    "githubUrl": "https://github.com/elementalsouls/Claude-BugHunter",
+    "documentation": "https://elementalsouls.github.io/Claude-BugHunter/",
+    "installCommand": "git clone https://github.com/elementalsouls/Claude-BugHunter.git && cd Claude-BugHunter && bash scripts/install.sh",
+    "openSource": true,
+    "trending": true,
+    "features": [
+      "83 skills that auto-load by topic — describe the target in plain English and the relevant skill loads",
+      "58 hunt-* web-app vulnerability skills curated from 681 disclosed HackerOne reports, 433 individually cited and auditable",
+      "Enterprise attack matrices for M365/Entra, Okta, SharePoint, vCenter, SSL-VPN and cloud IAM with current 2024-2026 CVE chains",
+      "7-Question triage gate, VRT-aware severity mapping and evidence hygiene for clean reports",
+      "Burp MCP integration plus a `cbh` CLI and a `hunt` engagement scaffolder",
+      "CI skill-linter that blocks leaked secrets and client identifiers"
+    ],
+    "useCases": [
+      "Bug-bounty hunting with Claude Code as a senior researcher",
+      "Authorized red-team engagements with engagement-folder scaffolding",
+      "Triage and validate findings with VRT-aware severity"
+    ],
+    "gettingStarted": "In Claude Code run `/plugin marketplace add elementalsouls/Claude-BugHunter` then `/plugin install claude-bughunter@elementalsouls`, or clone the repo and run `bash scripts/install.sh`. Then describe the in-scope target in plain English.",
+    "dependencies": [
+      "Claude Code",
+      "Python 3 (for the cbh CLI)"
+    ],
+    "alternatives": [],
+    "tags": [
+      "Python",
+      "Security",
+      "Bug Bounty",
+      "Claude Code",
+      "Open Source"
+    ],
+    "releaseDate": "2026-05-05",
+    "releaseYear": "2026",
+    "releaseMonth": "2026-05",
+    "launchDate": "2026-05-05",
+    "launchYear": "2026",
+    "launchMonth": "2026-05",
+    "lastSyncedDate": "2026-11-16"
+  },
+  {
+    "id": "nvidia-skillevaluator",
+    "name": "SkillEvaluator",
+    "owner": "NVIDIA",
+    "fullName": "NVIDIA/SkillEvaluator",
+    "slug": "nvidia-skillevaluator",
+    "description": "Multi-tier framework from NVIDIA for evaluating AI agent skills: quality gates, semantic overlap detection, synthetic evaluation dataset generation and live agent evaluation that measures how a skill changes agent behaviour",
+    "category": "AI Agent Frameworks, Orchestration & RAG",
+    "subcategory": "AI Agent Frameworks, Orchestration & RAG",
+    "language": "Python",
+    "languageColor": "#3572A5",
+    "stars": 1799,
+    "forks": 236,
+    "license": "Apache-2.0",
+    "latestRelease": "0.9.0",
+    "lastUpdated": "2026-11-16",
+    "githubUrl": "https://github.com/NVIDIA/SkillEvaluator",
+    "documentation": "https://docs.nvidia.com/skills/skillevaluator/",
+    "installCommand": "pip install skillevaluator",
+    "openSource": true,
+    "trending": true,
+    "features": [
+      "Tier 1 quality and security checks run with no API key",
+      "Tier 2 builds evaluation datasets grounded in skill instructions, author intent or production traces",
+      "Tier 3 live agent evaluation measures Skill Lift against a no-skill baseline",
+      "Evaluation budgets for tokens, judge calls, attempts and priced cost",
+      "HTML, JSON and Markdown reports with evidence, stable finding IDs and judge audit trails",
+      "CI integration for GitHub and GitLab, plus skill-version comparison with --compare-to"
+    ],
+    "useCases": [
+      "Measure whether an agent skill actually improves task results",
+      "Validate agent skills in CI on every pull request",
+      "Build and review evaluation datasets for agent skills"
+    ],
+    "gettingStarted": "Run `pip install skillevaluator`, then `skillevaluator validate ./my-skill --tiers 1` for a no-API-key quality score, or `skillevaluator ci init` to add checks to a repo.",
+    "dependencies": [
+      "Python 3.12+",
+      "An LLM provider key for model-backed judging (Tier 2/3)"
+    ],
+    "alternatives": [],
+    "tags": [
+      "Python",
+      "AI Evaluation",
+      "Agent Skills",
+      "Open Source"
+    ],
+    "releaseDate": "2026-06-24",
+    "releaseYear": "2026",
+    "releaseMonth": "2026-06",
+    "launchDate": "2026-06-24",
+    "launchYear": "2026",
+    "launchMonth": "2026-06",
+    "lastSyncedDate": "2026-11-16"
   }
 ];
