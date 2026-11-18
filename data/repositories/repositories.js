@@ -64606,4 +64606,115 @@ export const repositoriesData = [
     "launchMonth": "2026-05",
     "lastSyncedDate": "2026-11-17"
   }
+,
+{
+  "id": "erkamyaman-rust-anything",
+  "name": "rust-anything",
+  "owner": "erkamyaman",
+  "fullName": "erkamyaman/rust-anything",
+  "slug": "erkamyaman-rust-anything",
+  "description": "Rewrite your whole app in Rust, one piece at a time: records what your TypeScript, Python, C, Go, Ruby or Java app does today, then checks every piece of the Rust rewrite against that recording before moving on.",
+  "category": "AI Coding Agents",
+  "subcategory": "AI Coding Agents",
+  "language": "Rust",
+  "languageColor": "#dea584",
+  "stars": 1556,
+  "forks": 113,
+  "license": "MIT",
+  "latestRelease": null,
+  "lastUpdated": "2026-11-18",
+  "githubUrl": "https://github.com/erkamyaman/rust-anything",
+  "documentation": "https://github.com/erkamyaman/rust-anything",
+  "installCommand": "cargo install rust-anything",
+  "openSource": true,
+  "trending": true,
+  "features": [
+    "Records the original app's behavior and replays it against each Rust port",
+    "Whole-app ports for CLIs, HTTP servers and libraries in six languages",
+    "Every step exposed as an MCP tool, plus an agent skill for Claude Code, Codex, Cursor and Gemini CLI",
+    "Up to 20x faster on real workloads, verified by benchmarks in the repo",
+    "Gate checks formatting, clippy, tests, unsafe audit and behavior before a port lands"
+  ],
+  "useCases": [
+    "Port a slow hot path from TypeScript, Python, Go, Ruby, Java or C to Rust without breaking behavior",
+    "Rewrite a whole CLI or HTTP server in Rust piece by piece, verified at every step",
+    "Let your coding agent drive the port with recorded behavior as the safety net"
+  ],
+  "gettingStarted": "Install with `cargo install rust-anything` (or `npm install -g rust-anything`), then paste the install prompt from the README into Claude Code, Codex, Cursor or Gemini CLI and let your agent set it up.",
+  "dependencies": [
+    "Rust toolchain (cargo)",
+    "Claude Code, Codex, Cursor or Gemini CLI (optional, for agent-driven ports)"
+  ],
+  "alternatives": [],
+  "tags": [
+    "Rust",
+    "Agent Skills",
+    "MCP",
+    "Code Migration",
+    "AI Coding",
+    "Open Source"
+  ],
+  "releaseDate": "2026-11-16",
+  "releaseYear": "2026",
+  "releaseMonth": "2026-11",
+  "launchDate": "2026-11-16",
+  "launchYear": "2026",
+  "launchMonth": "2026-11",
+  "lastSyncedDate": "2026-11-18"
+},
+{
+  "id": "sybil-solutions-inference-optimisation-skill",
+  "name": "inference-optimisation-skill",
+  "owner": "sybil-solutions",
+  "fullName": "sybil-solutions/inference-optimisation-skill",
+  "slug": "sybil-solutions-inference-optimisation-skill",
+  "description": "Agent skill for hill-climbing the speed of a local LLM server on any hardware and quantization: decode, speculative decoding, prefill, KV cache, startup time and time to first token, measured against interleaved controls.",
+  "category": "LLM Inference",
+  "subcategory": "LLM Inference",
+  "language": "Python",
+  "languageColor": "#3572A5",
+  "stars": 946,
+  "forks": 83,
+  "license": "MIT",
+  "latestRelease": null,
+  "lastUpdated": "2026-11-18",
+  "githubUrl": "https://github.com/sybil-solutions/inference-optimisation-skill",
+  "documentation": "https://github.com/sybil-solutions/inference-optimisation-skill",
+  "installCommand": "git clone https://github.com/sybil-solutions/inference-optimisation-skill.git",
+  "openSource": true,
+  "trending": true,
+  "features": [
+    "Covers single-user and concurrent decode, speculative decoding, prefill and KV cache sizing",
+    "Change one thing at a time and measure against interleaved controls",
+    "Works under a memory cap with a full-context stability check on every result",
+    "Every result, including failures, is logged; clean pinned builds are gated on long-context retrieval",
+    "Measured wins published per hardware, from laptop iGPUs to 4x H200 NVL"
+  ],
+  "useCases": [
+    "Speed up a local LLM server (vLLM, SGLang or llama.cpp) on any hardware",
+    "Tune speculative decoding, KV cache and prefill for your model and quantization",
+    "Give an agent a repeatable hill-climbing workflow for inference performance"
+  ],
+  "gettingStarted": "Clone the repo and load the SKILL.md into Claude Code or any agent that loads SKILL.md-style skills, or follow PROMPT.md with any model.",
+  "dependencies": [
+    "Claude Code or any agent that loads SKILL.md-style skills",
+    "A local LLM server such as vLLM, SGLang or llama.cpp"
+  ],
+  "alternatives": [],
+  "tags": [
+    "LLM Inference",
+    "Agent Skills",
+    "vLLM",
+    "SGLang",
+    "Local AI",
+    "Open Source"
+  ],
+  "releaseDate": "2026-11-16",
+  "releaseYear": "2026",
+  "releaseMonth": "2026-11",
+  "launchDate": "2026-11-16",
+  "launchYear": "2026",
+  "launchMonth": "2026-11",
+  "lastSyncedDate": "2026-11-18"
+}
 ];
