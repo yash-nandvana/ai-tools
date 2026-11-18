@@ -101227,4 +101227,151 @@ export const masterToolsData = [
     "launchMonth": "2026-11",
     "lastSyncedDate": "2026-11-16"
   }
+,
+{
+  "id": "appxiom",
+  "name": "Appxiom",
+  "slug": "appxiom",
+  "description": "Context layer for AI coding agents: detects crashes, freezes, memory leaks, failed network calls and broken user journeys in mobile and web apps, then hands that production context to your coding agent through an MCP server and agent skills.",
+  "category": "Bug Reporting & Session Replay",
+  "subcategory": "Bug reporting, issue tracking and session replay",
+  "website": "https://appxiom.com",
+  "github": null,
+  "logo": "https://www.google.com/s2/favicons?domain=appxiom.com&sz=128",
+  "image": null,
+  "pricing": "Freemium",
+  "openSource": false,
+  "platform": [
+    "Web",
+    "Mobile"
+  ],
+  "useCases": [
+    "Give your coding agent production crash and bug context instead of pasted logs",
+    "Rank production bugs by the user goals they cost you, like signup or checkout",
+    "Detect crashes, ANRs, memory leaks and failing APIs across Android, iOS, Flutter and Web"
+  ],
+  "features": [
+    "MCP server exposes issues, severity, activity trails and Goal Friction Impact to Claude Code, Cursor, Copilot and Codex",
+    "Agent Skills install the SDK on Android, iOS, Flutter, Kotlin Multiplatform and Web with one command",
+    "Activity Trails record taps, network calls and screen transitions leading up to an issue",
+    "Goal Friction Impact links each failure to the user goal it broke and the conversions it cost",
+    "Starter plan from $10/month with a 30-day free trial"
+  ],
+  "alternatives": [],
+  "tags": [
+    "AI Coding Agents",
+    "MCP",
+    "Crash Reporting",
+    "Mobile",
+    "QA"
+  ],
+  "status": "verified",
+  "featured": false,
+  "trending": true,
+  "lastVerified": "2026-11-18",
+  "releaseDate": "2026-11-17",
+  "releaseYear": "2026",
+  "releaseMonth": "2026-11",
+  "launchDate": "2026-11-17",
+  "launchYear": "2026",
+  "launchMonth": "2026-11",
+  "lastSyncedDate": "2026-11-18"
+},
+{
+  "id": "ekline",
+  "name": "EkLine",
+  "slug": "ekline",
+  "description": "AI SEO for developer tools and API-first companies: checks what ChatGPT, Claude and coding agents say about your product, then fixes the docs, help center and marketing pages those agents read via pull requests your team approves.",
+  "category": "SEO & Marketing",
+  "subcategory": "AI Visibility / GEO",
+  "website": "https://ekline.io",
+  "github": null,
+  "logo": "https://www.google.com/s2/favicons?domain=ekline.io&sz=128",
+  "image": null,
+  "pricing": "Freemium",
+  "openSource": false,
+  "platform": [
+    "Web"
+  ],
+  "useCases": [
+    "Find out whether ChatGPT, Claude, Gemini and Perplexity recommend your developer tool",
+    "Check whether coding agents like Cursor and Claude Code can actually build with your product",
+    "Keep docs, help center and blog in sync with every release through drafted pull requests"
+  ],
+  "features": [
+    "AI agents audit your website, docs, GitHub and community content for gaps",
+    "Fixes arrive as code-grounded pull requests your team approves",
+    "Re-tests AI answers after fixes to measure whether recommendations improved",
+    "Free report and one-time free credits to start; pay as you go from $50/month plus usage",
+    "SOC 2 compliant with per-customer data isolation"
+  ],
+  "alternatives": [],
+  "tags": [
+    "AI SEO",
+    "GEO",
+    "Developer Tools",
+    "Documentation",
+    "AI Visibility"
+  ],
+  "status": "verified",
+  "featured": false,
+  "trending": true,
+  "lastVerified": "2026-11-18",
+  "releaseDate": "2026-11-17",
+  "releaseYear": "2026",
+  "releaseMonth": "2026-11",
+  "launchDate": "2026-11-17",
+  "launchYear": "2026",
+  "launchMonth": "2026-11",
+  "lastSyncedDate": "2026-11-18"
+},
+{
+  "id": "pinecall",
+  "name": "Pinecall",
+  "slug": "pinecall",
+  "description": "Open-source harness for voice AI: build, test and run voice agents in TypeScript, Python or Ruby, with AI test callers, call judging, transcripts and human handoff, on your servers or Pinecall's cloud.",
+  "category": "AI Audio & Voice",
+  "subcategory": "Conversational Voice",
+  "website": "https://pinecall.io",
+  "github": null,
+  "logo": "https://www.google.com/s2/favicons?domain=pinecall.io&sz=128",
+  "image": null,
+  "pricing": "Freemium",
+  "openSource": true,
+  "platform": [
+    "Web",
+    "API"
+  ],
+  "useCases": [
+    "Build voice agents in TypeScript, Python or Ruby, or in a no-code Studio form",
+    "Test agents before shipping with simulated callers and judges that score every call",
+    "Keep a human one tap away to listen, whisper or take over a live call"
+  ],
+  "features": [
+    "Open source under Apache-2.0, built on LiveKit",
+    "Every call transcribed and logged with timing, cost and a hang-up score",
+    "AI judges check calls against your rules and alert when metrics pass thresholds",
+    "120 free minutes on Pinecall's keys to start, no card required",
+    "Runs on your own Kubernetes cluster or on Pinecall's cloud"
+  ],
+  "alternatives": [],
+  "tags": [
+    "Voice AI",
+    "AI Agents",
+    "Open Source",
+    "LiveKit",
+    "MCP"
+  ],
+  "status": "verified",
+  "featured": false,
+  "trending": true,
+  "lastVerified": "2026-11-18",
+  "releaseDate": "2026-11-16",
+  "releaseYear": "2026",
+  "releaseMonth": "2026-11",
+  "launchDate": "2026-11-16",
+  "launchYear": "2026",
+  "launchMonth": "2026-11",
+  "lastSyncedDate": "2026-11-18"
+}
 ];
