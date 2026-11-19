@@ -64716,5 +64716,263 @@ export const repositoriesData = [
   "launchYear": "2026",
   "launchMonth": "2026-11",
   "lastSyncedDate": "2026-11-18"
+},
+{
+  "id": "thedotmack-claude-mem",
+  "name": "claude-mem",
+  "owner": "thedotmack",
+  "fullName": "thedotmack/claude-mem",
+  "slug": "thedotmack-claude-mem",
+  "description": "Persistent context across sessions for every agent \u2014 captures everything your agent does, compresses it with AI, and injects relevant context back into future sessions",
+  "category": "AI Coding Agents",
+  "subcategory": "AI Coding Agents",
+  "language": "TypeScript",
+  "languageColor": "#3178c6",
+  "stars": 118274,
+  "forks": 10282,
+  "license": "Apache-2.0",
+  "latestRelease": "v16.0.0",
+  "lastUpdated": "2026-11-19",
+  "githubUrl": "https://github.com/thedotmack/claude-mem",
+  "documentation": "https://claude-mem.ai",
+  "installCommand": "npx claude-mem install",
+  "openSource": true,
+  "trending": true,
+  "features": [
+    "Captures everything your agent does during sessions and compresses it with AI",
+    "Injects relevant context back into future sessions so work resumes with memory",
+    "Works with Claude Code and other coding agents on your machine",
+    "One-command install that auto-detects the agents installed on your machine"
+  ],
+  "useCases": [
+    "Give coding agents persistent memory across sessions",
+    "Resume work with context from previous sessions instead of starting cold",
+    "Search past agent sessions, decisions and context"
+  ],
+  "gettingStarted": "Install with `npx claude-mem install`, pick your agents in the browser setup, then start working \u2014 your second session in a project opens with memory from the first.",
+  "dependencies": [
+    "TypeScript"
+  ],
+  "alternatives": [],
+  "tags": [
+    "AI",
+    "TypeScript",
+    "Open Source",
+    "Memory",
+    "Claude Code"
+  ],
+  "releaseDate": "2025-08-31",
+  "releaseYear": "2025",
+  "releaseMonth": "2025-08",
+  "launchDate": "2025-08-31",
+  "launchYear": "2025",
+  "launchMonth": "2025-08",
+  "lastSyncedDate": "2026-11-19"
+},
+{
+  "id": "vercel-labs-agent-browser",
+  "name": "agent-browser",
+  "owner": "vercel-labs",
+  "fullName": "vercel-labs/agent-browser",
+  "slug": "vercel-labs-agent-browser",
+  "description": "Browser automation CLI for AI agents \u2014 open pages, read them as an accessibility tree, and act on elements from the shell",
+  "category": "Browser Automation, E2E & QA Testing",
+  "subcategory": "Browser Automation, E2E & QA Testing",
+  "language": "Rust",
+  "languageColor": "#dea584",
+  "stars": 52677,
+  "forks": 3687,
+  "license": "Apache-2.0",
+  "latestRelease": "v0.43.0",
+  "lastUpdated": "2026-11-19",
+  "githubUrl": "https://github.com/vercel-labs/agent-browser",
+  "documentation": "https://agent-browser.dev",
+  "installCommand": "npm install -g agent-browser",
+  "openSource": true,
+  "trending": true,
+  "features": [
+    "Native Rust CLI that gives an AI agent a browser it can drive one command at a time",
+    "Snapshot returns the page as compact text with a ref for each element",
+    "Browser stays open between commands, so each step is one short shell call",
+    "Installs via npm, Homebrew or npx with no build step"
+  ],
+  "useCases": [
+    "Let coding agents browse, read and act on web pages",
+    "Automate browser checks from the shell",
+    "Drive web interfaces from agent workflows"
+  ],
+  "gettingStarted": "Install with `npm install -g agent-browser`, run `agent-browser install` once to download Chrome for Testing, then `agent-browser open example.com`.",
+  "dependencies": [
+    "Rust"
+  ],
+  "alternatives": [],
+  "tags": [
+    "AI",
+    "Rust",
+    "Open Source",
+    "Browser Automation"
+  ],
+  "releaseDate": "2026-01-11",
+  "releaseYear": "2026",
+  "releaseMonth": "2026-01",
+  "launchDate": "2026-01-11",
+  "launchYear": "2026",
+  "launchMonth": "2026-01",
+  "lastSyncedDate": "2026-11-19"
+},
+{
+  "id": "debpalash-voicestudio",
+  "name": "VoiceStudio",
+  "owner": "debpalash",
+  "fullName": "debpalash/VoiceStudio",
+  "slug": "debpalash-voicestudio",
+  "description": "Open-source, fully-local ElevenLabs alternative \u2014 voice cloning, voice design, video dubbing, dictation, transcription and audiobooks in 646 languages",
+  "category": "Local AI, Model Weights, Quantization & Inference Engines",
+  "subcategory": "Local AI, Model Weights, Quantization & Inference Engines",
+  "language": "Python",
+  "languageColor": "#3572A5",
+  "stars": 113606,
+  "forks": 12629,
+  "license": "AGPL-3.0",
+  "latestRelease": "v0.5.8",
+  "lastUpdated": "2026-11-19",
+  "githubUrl": "https://github.com/debpalash/VoiceStudio",
+  "documentation": "https://voicestudio.sh/",
+  "installCommand": "Download the latest release from https://github.com/debpalash/VoiceStudio/releases/latest",
+  "openSource": true,
+  "trending": true,
+  "features": [
+    "Voice cloning, voice design, video dubbing, dictation, transcription and audiobooks",
+    "Runs entirely on your own device in 646 languages",
+    "Download only the models you need",
+    "Desktop app for laptop, desktop, servers, phones and tablets"
+  ],
+  "useCases": [
+    "Clone voices and design new ones locally without a cloud service",
+    "Dub videos and narrate audiobooks on-device",
+    "Dictate and transcribe with local models"
+  ],
+  "gettingStarted": "Download the latest release for your platform from the releases page and open the app to pick your engines and models.",
+  "dependencies": [
+    "Python"
+  ],
+  "alternatives": [],
+  "tags": [
+    "AI",
+    "Python",
+    "Open Source",
+    "Voice",
+    "Text-to-Speech"
+  ],
+  "releaseDate": "2026-04-09",
+  "releaseYear": "2026",
+  "releaseMonth": "2026-04",
+  "launchDate": "2026-04-09",
+  "launchYear": "2026",
+  "launchMonth": "2026-04",
+  "lastSyncedDate": "2026-11-19"
+},
+{
+  "id": "cloudflare-security-audit-skill",
+  "name": "security-audit-skill",
+  "owner": "cloudflare",
+  "fullName": "cloudflare/security-audit-skill",
+  "slug": "cloudflare-security-audit-skill",
+  "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+  "category": "Security, Vulnerability Scanners, SAST & Pentesting",
+  "subcategory": "Security, Vulnerability Scanners, SAST & Pentesting",
+  "language": "JavaScript",
+  "languageColor": "#f1e05a",
+  "stars": 75422,
+  "forks": 5067,
+  "license": "MIT",
+  "latestRelease": null,
+  "lastUpdated": "2026-11-19",
+  "githubUrl": "https://github.com/cloudflare/security-audit-skill",
+  "documentation": "https://github.com/cloudflare/security-audit-skill",
+  "installCommand": "npx skills add https://github.com/cloudflare/security-audit-skill --skill security-audit",
+  "openSource": true,
+  "trending": true,
+  "features": [
+    "Six-phase audit: reconnaissance, coverage-led hunting, candidate validation, structured output, independent record verification and target-neutral reporting",
+    "Every finding is checked by a fresh verifier agent that tries to disprove it",
+    "Machine-readable findings.json validated against a schema",
+    "Seeded Cloudflare's vulnerability discovery harness"
+  ],
+  "useCases": [
+    "Turn a coding agent into a security auditor",
+    "Run coverage-led vulnerability hunts on a codebase",
+    "Produce verified, machine-readable audit findings"
+  ],
+  "gettingStarted": "Install with `npx skills add https://github.com/cloudflare/security-audit-skill --skill security-audit`, then ask your coding agent to run a security audit.",
+  "dependencies": [
+    "JavaScript"
+  ],
+  "alternatives": [],
+  "tags": [
+    "AI",
+    "JavaScript",
+    "Open Source",
+    "Security",
+    "AI Agents"
+  ],
+  "releaseDate": "2026-06-18",
+  "releaseYear": "2026",
+  "releaseMonth": "2026-06",
+  "launchDate": "2026-06-18",
+  "launchYear": "2026",
+  "launchMonth": "2026-06",
+  "lastSyncedDate": "2026-11-19"
+},
+{
+  "id": "sherlock-project-sherlock",
+  "name": "sherlock",
+  "owner": "sherlock-project",
+  "fullName": "sherlock-project/sherlock",
+  "slug": "sherlock-project-sherlock",
+  "description": "Hunt down social media accounts by username across 400+ social networks",
+  "category": "Security, Vulnerability Scanners, SAST & Pentesting",
+  "subcategory": "Security, Vulnerability Scanners, SAST & Pentesting",
+  "language": "Python",
+  "languageColor": "#3572A5",
+  "stars": 114235,
+  "forks": 13131,
+  "license": "MIT",
+  "latestRelease": "v0.16.2",
+  "lastUpdated": "2026-11-19",
+  "githubUrl": "https://github.com/sherlock-project/sherlock",
+  "documentation": "https://sherlockproject.xyz",
+  "installCommand": "pipx install sherlock-project",
+  "openSource": true,
+  "trending": true,
+  "features": [
+    "Searches 400+ social networks for a username in one run",
+    "Fast parallel checks with per-site result reporting",
+    "Installs via pipx, pip, uv or Docker",
+    "Open-source OSINT tool with a large community"
+  ],
+  "useCases": [
+    "Check whether a username exists across social networks",
+    "OSINT username investigation",
+    "Verify username availability across platforms"
+  ],
+  "gettingStarted": "Install with `pipx install sherlock-project`, then run `sherlock username` to search 400+ sites.",
+  "dependencies": [
+    "Python"
+  ],
+  "alternatives": [],
+  "tags": [
+    "Python",
+    "Open Source",
+    "Security",
+    "OSINT"
+  ],
+  "releaseDate": "2018-12-24",
+  "releaseYear": "2018",
+  "releaseMonth": "2018-12",
+  "launchDate": "2018-12-24",
+  "launchYear": "2018",
+  "launchMonth": "2018-12",
+  "lastSyncedDate": "2026-11-19"
 }
 ];
