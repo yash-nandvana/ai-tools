@@ -101373,5 +101373,99 @@ export const masterToolsData = [
   "launchYear": "2026",
   "launchMonth": "2026-11",
   "lastSyncedDate": "2026-11-18"
+},
+  {
+  "id": "volcano",
+  "name": "Volcano",
+  "slug": "volcano",
+  "description": "Agent cloud for building with Claude Code, Codex or Cursor and deploying apps with durable functions, branchable Postgres and self-healing LavaFlow fixes",
+  "category": "DevOps & Cloud Infrastructure",
+  "subcategory": "Agent Cloud",
+  "website": "https://volcano.dev",
+  "github": null,
+  "logo": "https://www.google.com/s2/favicons?domain=volcano.dev&sz=128",
+  "image": null,
+  "pricing": "Freemium",
+  "openSource": false,
+  "platform": [
+    "Web",
+    "Cloud"
+  ],
+  "useCases": [
+    "Deploy apps built by coding agents to a managed cloud",
+    "Run durable functions, edge functions and MCP servers",
+    "Let LavaFlow monitor production and ship fixes autonomously"
+  ],
+  "features": [
+    "Build with Claude Code, Codex or Cursor and deploy to one project",
+    "Year-long durable functions, branchable PostgreSQL, edge functions, auth and file storage",
+    "LavaFlow watches production, finds bugs and writes fixes"
+  ],
+  "alternatives": [],
+  "tags": [
+    "AI",
+    "Agent Cloud",
+    "Freemium",
+    "SaaS",
+    "Volcano"
+  ],
+  "status": "verified",
+  "featured": false,
+  "trending": true,
+  "lastVerified": "2026-11-21",
+  "releaseDate": "2026-11-19",
+  "releaseYear": "2026",
+  "releaseMonth": "2026-11",
+  "launchDate": "2026-11-19",
+  "launchYear": "2026",
+  "launchMonth": "2026-11",
+  "lastSyncedDate": "2026-11-21"
+},
+  {
+  "id": "undoguard",
+  "name": "UndoGuard",
+  "slug": "undoguard",
+  "description": "Ctrl+Z for autonomous AI agents — a rollback proxy and MCP server that snapshots state before every mutating API call so bad agent writes can be reverted",
+  "category": "AI Agent Frameworks",
+  "subcategory": "Agent Safety & Rollback",
+  "website": "https://undoguard.vercel.app",
+  "github": null,
+  "logo": "https://www.google.com/s2/favicons?domain=undoguard.vercel.app&sz=128",
+  "image": null,
+  "pricing": "Freemium",
+  "openSource": false,
+  "platform": [
+    "Web",
+    "Cloud"
+  ],
+  "useCases": [
+    "Revert bad writes from autonomous coding agents in one click",
+    "Snapshot state before mutating API calls in Claude, Cursor, LangChain or n8n",
+    "Give agents a safe undo for production changes"
+  ],
+  "features": [
+    "Rollback proxy and MCP server snapshotting state before every mutating call",
+    "AES-256 encrypted snapshots of agent actions",
+    "One-click or one-API-call revert of bad agent writes"
+  ],
+  "alternatives": [],
+  "tags": [
+    "AI",
+    "Agent Safety & Rollback",
+    "Freemium",
+    "SaaS",
+    "UndoGuard"
+  ],
+  "status": "verified",
+  "featured": false,
+  "trending": true,
+  "lastVerified": "2026-11-21",
+  "releaseDate": "2026-11-19",
+  "releaseYear": "2026",
+  "releaseMonth": "2026-11",
+  "launchDate": "2026-11-19",
+  "launchYear": "2026",
+  "launchMonth": "2026-11",
+  "lastSyncedDate": "2026-11-21"
 }
 ];
