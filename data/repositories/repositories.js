@@ -65247,5 +65247,109 @@ export const repositoriesData = [
   "launchYear": "2026",
   "launchMonth": "2026-07",
   "lastSyncedDate": "2026-11-20"
+},
+  {
+  "id": "baarai-artex",
+  "name": "ARTEX",
+  "owner": "BaaRai",
+  "fullName": "BaaRai/ARTEX",
+  "slug": "baarai-artex",
+  "description": "Self-hosted, LLM-driven autonomous penetration testing platform — a planner splits goals into intents, workers run real tools, and every finding carries captured request/response evidence",
+  "category": "Security, Vulnerability Scanners, SAST & Pentesting",
+  "subcategory": "Security, Vulnerability Scanners, SAST & Pentesting",
+  "language": "Go",
+  "languageColor": "#00ADD8",
+  "stars": 13880,
+  "forks": 5428,
+  "license": "AGPL-3.0",
+  "latestRelease": null,
+  "lastUpdated": "2026-11-21",
+  "githubUrl": "https://github.com/BaaRai/ARTEX",
+  "documentation": "https://github.com/BaaRai/ARTEX",
+  "installCommand": "git clone https://github.com/BaaRai/ARTEX.git && docker compose up -d --build",
+  "openSource": true,
+  "trending": true,
+  "features": [
+    "Planner splits goals into intents and workers execute them with real tools",
+    "Every finding carries captured request and response evidence",
+    "Scope rules, approval gates and token and turn budgets keep autonomy in check",
+    "Dual-graph architecture: exploration graph plus asset graph with a full audit trail",
+    "Self-hosted and model-agnostic with a PostgreSQL backend"
+  ],
+  "useCases": [
+    "Run autonomous penetration tests with evidence-backed findings",
+    "Self-host an LLM-driven red-team platform"
+  ],
+  "gettingStarted": "Self-host with Docker Compose, then open the web UI and configure an LLM provider.",
+  "dependencies": [
+    "Docker and Docker Compose",
+    "PostgreSQL",
+    "LLM provider (Anthropic/OpenAI-compatible or Ollama)"
+  ],
+  "alternatives": [],
+  "tags": [
+    "Go",
+    "Security, Vulnerability Scanners, SAST & Pentesting",
+    "Open Source"
+  ],
+  "releaseDate": "2026-10-08",
+  "releaseYear": "2026",
+  "releaseMonth": "2026-10",
+  "launchDate": "2026-10-08",
+  "launchYear": "2026",
+  "launchMonth": "2026-10",
+  "lastSyncedDate": "2026-11-21"
+},
+  {
+  "id": "nexu-io-openmotion",
+  "name": "OpenMotion",
+  "owner": "nexu-io",
+  "fullName": "nexu-io/openmotion",
+  "slug": "nexu-io-openmotion",
+  "description": "Open-source agentic video studio and Claude Motion / CapCut alternative — turn a reference video into editable motion graphics with your brand kit and export MP4s for YouTube, Shorts, Reels and TikTok",
+  "category": "AI Agent Frameworks",
+  "subcategory": "AI Agent Frameworks",
+  "language": "TypeScript",
+  "languageColor": "#3178c6",
+  "stars": 14067,
+  "forks": 1391,
+  "license": "Apache-2.0",
+  "latestRelease": null,
+  "lastUpdated": "2026-11-21",
+  "githubUrl": "https://github.com/nexu-io/openmotion",
+  "documentation": "https://open-design.ai",
+  "installCommand": "npx skills add nexu-io/openmotion --skill openmotion",
+  "openSource": true,
+  "trending": true,
+  "features": [
+    "Turn a reference video into editable motion graphics with your brand kit",
+    "300+ Motion.md guides and support for 22 agents",
+    "Export MP4s for YouTube, YouTube Shorts, Instagram Reels and TikTok",
+    "Full-stack agentic video studio with Studio and MCP",
+    "Free and open source — bring your own agent and keys"
+  ],
+  "useCases": [
+    "Recreate reference videos with your own brand kit and copy",
+    "Generate product demos, brand films and explainers with an agent"
+  ],
+  "gettingStarted": "Install the skill with npx, then ask your agent to install and connect the local Studio and MCP.",
+  "dependencies": [
+    "Node.js 26+",
+    "npm",
+    "Git"
+  ],
+  "alternatives": [],
+  "tags": [
+    "TypeScript",
+    "AI Agent Frameworks",
+    "Open Source"
+  ],
+  "releaseDate": "2026-05-11",
+  "releaseYear": "2026",
+  "releaseMonth": "2026-05",
+  "launchDate": "2026-05-11",
+  "launchYear": "2026",
+  "launchMonth": "2026-05",
+  "lastSyncedDate": "2026-11-21"
 }
 ];
