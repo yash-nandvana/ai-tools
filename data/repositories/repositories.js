@@ -65351,5 +65351,263 @@ export const repositoriesData = [
   "launchYear": "2026",
   "launchMonth": "2026-05",
   "lastSyncedDate": "2026-11-21"
+},
+  {
+  "id": "obra-superpowers",
+  "name": "superpowers",
+  "owner": "obra",
+  "fullName": "obra/superpowers",
+  "slug": "obra-superpowers",
+  "description": "An agentic skills framework and software development methodology that works — composable skills that turn coding agents into spec-first, plan-driven developers",
+  "category": "AI Coding Agents",
+  "subcategory": "AI Coding Agents",
+  "language": "Shell",
+  "languageColor": "#89e051",
+  "stars": 323905,
+  "forks": 28729,
+  "license": "MIT",
+  "latestRelease": "v7.0.2",
+  "lastUpdated": "2026-11-22",
+  "githubUrl": "https://github.com/obra/superpowers",
+  "documentation": "https://github.com/obra/superpowers",
+  "installCommand": "/plugin install superpowers@claude-plugins-official",
+  "openSource": true,
+  "trending": true,
+  "features": [
+    "Spec-first workflow: the agent teases out a real spec before writing code",
+    "Implementation plans clear enough for a junior engineer to follow",
+    "True red/green TDD with YAGNI and DRY emphasized throughout",
+    "Subagent-driven development with inspection and review of each task",
+    "Works across Claude Code, Codex, Cursor, Gemini CLI, Copilot and more"
+  ],
+  "useCases": [
+    "Give any coding agent a complete software development methodology",
+    "Run long autonomous coding sessions without the agent deviating from the plan",
+    "Enforce spec, design and test discipline on agent-written code"
+  ],
+  "gettingStarted": "Install the plugin from Anthropic's official Claude plugin marketplace, then start your coding agent as normal.",
+  "dependencies": [
+    "A supported coding agent (Claude Code, Codex, Cursor, Gemini CLI or similar)"
+  ],
+  "alternatives": [],
+  "tags": [
+    "Shell",
+    "AI Coding Agents",
+    "Open Source"
+  ],
+  "releaseDate": "2025-10-09",
+  "releaseYear": "2025",
+  "releaseMonth": "2025-10",
+  "launchDate": "2025-10-09",
+  "launchYear": "2025",
+  "launchMonth": "2025-10",
+  "lastSyncedDate": "2026-11-22"
+},
+  {
+  "id": "stablyai-orca",
+  "name": "orca",
+  "owner": "stablyai",
+  "fullName": "stablyai/orca",
+  "slug": "stablyai-orca",
+  "description": "Run a fleet of coding-agent bots with your own subscription — Claude Code, Codex, Grok and more — on desktop, mobile and remote runtime",
+  "category": "AI Coding Agents",
+  "subcategory": "AI Coding Agents",
+  "language": "TypeScript",
+  "languageColor": "#3178c6",
+  "stars": 132257,
+  "forks": 8434,
+  "license": "MIT",
+  "latestRelease": "v1.4.269",
+  "lastUpdated": "2026-11-22",
+  "githubUrl": "https://github.com/stablyai/orca",
+  "documentation": "https://orca.dev/docs",
+  "installCommand": "Download Orca from https://orca.dev/download",
+  "openSource": true,
+  "trending": true,
+  "features": [
+    "Orca Bots: ask a bot in Slack, Linear or GitHub to fix a bug and get a tested pull request",
+    "Run any agent in a chat UI or as the raw CLI and move conversations between them",
+    "Orchestrate agents: a coordinator splits work across worker agents in parallel workspaces",
+    "Run anywhere: remote server, SSH host or per-worktree cloud VM",
+    "Mobile app to get pinged when an agent needs you and keep work moving"
+  ],
+  "useCases": [
+    "Delegate bug fixes and features to coding-agent bots from Slack or your phone",
+    "Run parallel agents across workspaces on your own machines",
+    "Keep agents running when your laptop sleeps"
+  ],
+  "gettingStarted": "Download Orca from orca.dev, connect your Claude Code or Codex account, and ask a bot to fix a bug.",
+  "dependencies": [
+    "A Claude Code or Codex subscription",
+    "macOS, Windows or Linux"
+  ],
+  "alternatives": [],
+  "tags": [
+    "TypeScript",
+    "AI Coding Agents",
+    "Open Source"
+  ],
+  "releaseDate": "2026-03-17",
+  "releaseYear": "2026",
+  "releaseMonth": "2026-03",
+  "launchDate": "2026-03-17",
+  "launchYear": "2026",
+  "launchMonth": "2026-03",
+  "lastSyncedDate": "2026-11-22"
+},
+  {
+  "id": "hkuds-cli-anything",
+  "name": "CLI-Anything",
+  "owner": "HKUDS",
+  "fullName": "HKUDS/CLI-Anything",
+  "slug": "hkuds-cli-anything",
+  "description": "Make any software agent-native through auto-generated CLIs — one command line for Pi, OpenClaw, nanobot, Cursor, Claude Code and more, with a community CLI-Hub",
+  "category": "AI Agent Frameworks",
+  "subcategory": "AI Agent Frameworks",
+  "language": "Python",
+  "languageColor": "#3572A5",
+  "stars": 62268,
+  "forks": 5652,
+  "license": "Apache-2.0",
+  "latestRelease": "v0.4.0",
+  "lastUpdated": "2026-11-22",
+  "githubUrl": "https://github.com/HKUDS/CLI-Anything",
+  "documentation": "https://hkuds.github.io/CLI-Anything/",
+  "installCommand": "pip install cli-anything-hub",
+  "openSource": true,
+  "trending": true,
+  "features": [
+    "Auto-generates a CLI harness for any software so agents can drive it",
+    "CLI-Hub registry to browse, install and manage community-built CLIs",
+    "Works with Pi, OpenClaw, nanobot, Cursor, Claude Code and other agents",
+    "Preview, live preview and trajectory loops that produce real artifacts",
+    "Skills installable with npx skills add for any CLI in the registry"
+  ],
+  "useCases": [
+    "Let an AI agent drive desktop software it has no API for",
+    "Publish a CLI harness for your favourite app to the community hub",
+    "Automate CAD builds, 3D scenes, diagrams and gameplay with agents"
+  ],
+  "gettingStarted": "Install the CLI-Hub with pip, then browse and install community CLIs with `cli-hub install <name>`.",
+  "dependencies": [
+    "Python 3.10+",
+    "pip",
+    "Click 8.0+"
+  ],
+  "alternatives": [],
+  "tags": [
+    "Python",
+    "AI Agent Frameworks",
+    "Open Source"
+  ],
+  "releaseDate": "2026-03-08",
+  "releaseYear": "2026",
+  "releaseMonth": "2026-03",
+  "launchDate": "2026-03-08",
+  "launchYear": "2026",
+  "launchMonth": "2026-03",
+  "lastSyncedDate": "2026-11-22"
+},
+  {
+  "id": "cursor-plugins",
+  "name": "plugins",
+  "owner": "cursor",
+  "fullName": "cursor/plugins",
+  "slug": "cursor-plugins",
+  "description": "Official Cursor plugin specification and plugins — standalone agent plugins for popular developer tools, frameworks and SaaS products",
+  "category": "Model Context Protocol (MCP) & Agent Connectors",
+  "subcategory": "Model Context Protocol (MCP) & Agent Connectors",
+  "language": "TypeScript",
+  "languageColor": "#3178c6",
+  "stars": 18189,
+  "forks": 1987,
+  "license": "Not specified",
+  "latestRelease": null,
+  "lastUpdated": "2026-11-22",
+  "githubUrl": "https://github.com/cursor/plugins",
+  "documentation": "https://github.com/cursor/plugins",
+  "installCommand": "Clone the repo and add a plugin directory to Cursor",
+  "openSource": true,
+  "trending": true,
+  "features": [
+    "Official plugin specification with a .cursor-plugin/plugin.json manifest per plugin",
+    "Plugins for developer tools: PR review, branch review, scaffolding, orchestration",
+    "Third-party integrations: Gmail, Google Drive, GitHub, Slack, Salesforce and more",
+    "Skills for building on the Cursor Origin API and TypeScript SDK",
+    "Community-authored plugins alongside Cursor-authored ones"
+  ],
+  "useCases": [
+    "Extend Cursor with official plugins for code review, learning and orchestration",
+    "Connect Cursor to SaaS tools like Gmail, Linear, Salesforce and Playwright",
+    "Build your own Cursor plugin from the official specification"
+  ],
+  "gettingStarted": "Browse the plugin directories at the repository root and add one to Cursor.",
+  "dependencies": [
+    "Cursor"
+  ],
+  "alternatives": [],
+  "tags": [
+    "TypeScript",
+    "Model Context Protocol (MCP) & Agent Connectors",
+    "Open Source"
+  ],
+  "releaseDate": "2026-01-23",
+  "releaseYear": "2026",
+  "releaseMonth": "2026-01",
+  "launchDate": "2026-01-23",
+  "launchYear": "2026",
+  "launchMonth": "2026-01",
+  "lastSyncedDate": "2026-11-22"
+},
+  {
+  "id": "xerj-org-xerj",
+  "name": "xerj",
+  "owner": "xerj-org",
+  "fullName": "xerj-org/xerj",
+  "slug": "xerj-org-xerj",
+  "description": "AI search engine and MCP server for bots and agents — one Rust binary indexes code, docs, logs, JSONL/CSV and PDFs for BM25 full-text, vector and hybrid search",
+  "category": "Search Engines",
+  "subcategory": "Search Engines",
+  "language": "Rust",
+  "languageColor": "#dea584",
+  "stars": 19285,
+  "forks": 1211,
+  "license": "Apache-2.0",
+  "latestRelease": "v1.0.0-rc.104",
+  "lastUpdated": "2026-11-22",
+  "githubUrl": "https://github.com/xerj-org/xerj",
+  "documentation": "https://xerj.org/docs/",
+  "installCommand": "curl -fsSL https://xerj.org/get | sh",
+  "openSource": true,
+  "trending": true,
+  "features": [
+    "XERJ Query-1: answers over facts you wrote, with quoted spans and conflict detection",
+    "BM25, vector and hybrid search in one query, in a single Rust binary",
+    "Agent memory via /_memory and native MCP support for Claude Code, Cursor and any MCP client",
+    "Reference coding: 2.7x fewer output tokens than a grep-driven agent",
+    "Runs offline on CPU with no embeddings to build and no GPU"
+  ],
+  "useCases": [
+    "Give coding agents fast, grounded search over a codebase and docs",
+    "Replace Elasticsearch with a single binary and no JVM",
+    "Build agent memory that persists across sessions"
+  ],
+  "gettingStarted": "Install with the installer from xerj.org, start xerj, and index a directory.",
+  "dependencies": [
+    "A CPU (single binary, no JVM, no GPU required)"
+  ],
+  "alternatives": [],
+  "tags": [
+    "Rust",
+    "Search Engines",
+    "Open Source"
+  ],
+  "releaseDate": "2026-06-30",
+  "releaseYear": "2026",
+  "releaseMonth": "2026-06",
+  "launchDate": "2026-06-30",
+  "launchYear": "2026",
+  "launchMonth": "2026-06",
+  "lastSyncedDate": "2026-11-22"
 }
 ];
