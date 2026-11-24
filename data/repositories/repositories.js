@@ -1,5 +1,209 @@
 // Master directory of all 1253 deduplicated open-source GitHub repositories
 export const repositoriesData = [
+{
+  "id": "pierridotite-mobile-agent-testers",
+  "name": "mobile-agent-testers",
+  "owner": "pierridotite",
+  "fullName": "pierridotite/mobile-agent-testers",
+  "slug": "pierridotite-mobile-agent-testers",
+  "description": "20 AI testers on 20 different phones, in parallel, on GitHub's free runners: Claude Code agents on iOS Simulators and Android emulators that find broken flows, translation, layout and accessibility bugs",
+  "category": "Mobile Testing",
+  "subcategory": "Mobile Testing",
+  "language": "Python",
+  "languageColor": "#3572A5",
+  "stars": 1512,
+  "forks": 146,
+  "license": "MIT",
+  "latestRelease": "v0.1.0",
+  "lastUpdated": "2026-11-24",
+  "githubUrl": "https://github.com/pierridotite/mobile-agent-testers",
+  "documentation": "https://github.com/pierridotite/mobile-agent-testers",
+  "installCommand": "git clone https://github.com/pierridotite/mobile-agent-testers.git",
+  "openSource": true,
+  "trending": true,
+  "features": [
+    "20 ready-made personas across 14 languages, RTL, tablets and Android 10 to 15",
+    "Accessibility check on every screen: unnamed controls and touch targets under 48 dp or 44 pt",
+    "Encrypted reports, screenshots and screen recordings with your public key",
+    "One summary groups reports that describe the same bug",
+    "Claude Code plugin sets it up for your app"
+  ],
+  "useCases": [
+    "Beta-test a mobile app with 20 AI personas in parallel on GitHub Actions",
+    "Catch broken flows, translation, layout and accessibility bugs before release",
+    "Run persona-matrix testing on public repos with no token"
+  ],
+  "gettingStarted": "Clone the repository using git clone https://github.com/pierridotite/mobile-agent-testers.git and follow the README instructions.",
+  "dependencies": [
+    "Python"
+  ],
+  "alternatives": [],
+  "tags": [
+    "Mobile",
+    "Python",
+    "Open Source"
+  ],
+  "releaseDate": "2026-11-16",
+  "releaseYear": "2026",
+  "releaseMonth": "2026-11",
+  "launchDate": "2026-11-16",
+  "launchYear": "2026",
+  "launchMonth": "2026-11",
+  "lastSyncedDate": "2026-11-24"
+},
+{
+  "id": "el4cteo-fast-anything",
+  "name": "fast-anything",
+  "owner": "EL4CTEO",
+  "fullName": "EL4CTEO/fast-anything",
+  "slug": "el4cteo-fast-anything",
+  "description": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
+  "category": "Performance Testing",
+  "subcategory": "Performance Testing",
+  "language": "Rust",
+  "languageColor": "#dea584",
+  "stars": 3212,
+  "forks": 211,
+  "license": "MIT",
+  "latestRelease": "v0.8.6",
+  "lastUpdated": "2026-11-24",
+  "githubUrl": "https://github.com/EL4CTEO/fast-anything",
+  "documentation": "https://www.npmjs.com/package/@el4cteo/fast-anything",
+  "installCommand": "git clone https://github.com/EL4CTEO/fast-anything.git",
+  "openSource": true,
+  "trending": true,
+  "features": [
+    "Profiles Python, Node, Ruby, Java, Go, PHP, C and C++ apps to find the slowest functions",
+    "Has your coding agent port just the hot functions to Rust",
+    "Verifies each port against recorded calls before swapping it in",
+    "Ships an MCP server and a Claude Code plugin",
+    "doctor command checks scan and port readiness"
+  ],
+  "useCases": [
+    "Speed up the 5% of code that is slow without rewriting the app",
+    "Port hot functions to Rust with behaviour verified against recorded calls",
+    "Profile apps across Python, Node, Ruby, Java, Go and C++"
+  ],
+  "gettingStarted": "Clone the repository using git clone https://github.com/EL4CTEO/fast-anything.git and follow the README instructions.",
+  "dependencies": [
+    "Rust"
+  ],
+  "alternatives": [],
+  "tags": [
+    "Rust",
+    "Performance Testing",
+    "Open Source"
+  ],
+  "releaseDate": "2026-11-21",
+  "releaseYear": "2026",
+  "releaseMonth": "2026-11",
+  "launchDate": "2026-11-21",
+  "launchYear": "2026",
+  "launchMonth": "2026-11",
+  "lastSyncedDate": "2026-11-24"
+},
+{
+  "id": "cathrynlavery-diagram-design",
+  "name": "diagram-design",
+  "owner": "cathrynlavery",
+  "fullName": "cathrynlavery/diagram-design",
+  "slug": "cathrynlavery-diagram-design",
+  "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 52 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+  "category": "AI Coding Agents",
+  "subcategory": "AI Coding Agents",
+  "language": "HTML",
+  "languageColor": "#e34c26",
+  "stars": 71074,
+  "forks": 4753,
+  "license": "MIT",
+  "latestRelease": null,
+  "lastUpdated": "2026-11-24",
+  "githubUrl": "https://github.com/cathrynlavery/diagram-design",
+  "documentation": "https://diagramdesign.dev",
+  "installCommand": "git clone https://github.com/cathrynlavery/diagram-design.git",
+  "openSource": true,
+  "trending": true,
+  "features": [
+    "52 diagram types in an editorial design system",
+    "Self-contained HTML and SVG output with no shadows",
+    "Works with Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder and Pi",
+    "No Mermaid: hand-built diagram layouts for documentation and posts",
+    "Open-source and permissively licensed"
+  ],
+  "useCases": [
+    "Design diagrams with a coding agent instead of Mermaid",
+    "Produce editorial-quality diagrams for docs and posts",
+    "Keep diagram style consistent across a codebase's documentation"
+  ],
+  "gettingStarted": "Clone the repository using git clone https://github.com/cathrynlavery/diagram-design.git and follow the README instructions.",
+  "dependencies": [
+    "HTML"
+  ],
+  "alternatives": [],
+  "tags": [
+    "HTML",
+    "AI Coding Agents",
+    "Open Source"
+  ],
+  "releaseDate": "2026-04-16",
+  "releaseYear": "2026",
+  "releaseMonth": "2026-04",
+  "launchDate": "2026-04-16",
+  "launchYear": "2026",
+  "launchMonth": "2026-04",
+  "lastSyncedDate": "2026-11-24"
+},
+{
+  "id": "mvanhorn-last30days-skill",
+  "name": "last30days-skill",
+  "owner": "mvanhorn",
+  "fullName": "mvanhorn/last30days-skill",
+  "slug": "mvanhorn-last30days-skill",
+  "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+  "category": "AI Coding Agents",
+  "subcategory": "AI Coding Agents",
+  "language": "Python",
+  "languageColor": "#3572A5",
+  "stars": 73517,
+  "forks": 6486,
+  "license": "MIT",
+  "latestRelease": "v4.6.0",
+  "lastUpdated": "2026-11-24",
+  "githubUrl": "https://github.com/mvanhorn/last30days-skill",
+  "documentation": "https://github.com/mvanhorn/last30days-skill",
+  "installCommand": "git clone https://github.com/mvanhorn/last30days-skill.git",
+  "openSource": true,
+  "trending": true,
+  "features": [
+    "Researches any topic across Reddit, X, YouTube, HN, Polymarket and the web",
+    "Synthesizes a grounded summary from multiple sources",
+    "Works as an agent skill for Claude Code and other coding agents",
+    "Person runs for working professionals with employer, LinkedIn and email context",
+    "Free lanes for TikTok and Instagram comments via public endpoints"
+  ],
+  "useCases": [
+    "Research any topic across social and web sources and get a grounded summary",
+    "Track a person, company or topic over the last 30 days",
+    "Feed agent research into briefs and reports"
+  ],
+  "gettingStarted": "Clone the repository using git clone https://github.com/mvanhorn/last30days-skill.git and follow the README instructions.",
+  "dependencies": [
+    "Python"
+  ],
+  "alternatives": [],
+  "tags": [
+    "Python",
+    "AI Coding Agents",
+    "Open Source"
+  ],
+  "releaseDate": "2026-01-23",
+  "releaseYear": "2026",
+  "releaseMonth": "2026-01",
+  "launchDate": "2026-01-23",
+  "launchYear": "2026",
+  "launchMonth": "2026-01",
+  "lastSyncedDate": "2026-11-24"
+},
   {
     "id": "aider-ai-aider",
     "name": "aider",
