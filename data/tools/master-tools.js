@@ -1,4 +1,51 @@
 export const masterToolsData = [
+{
+  "id": "strict",
+  "name": "Strict",
+  "slug": "strict",
+  "description": "Self-healing, auto load-balancing, Tailscale-native fleet console for self-hosted GitHub Actions runners.",
+  "category": "DevOps & Cloud Infrastructure",
+  "subcategory": "Self-hosted GitHub Actions runners",
+  "website": "https://strict.ai",
+  "github": null,
+  "logo": "https://www.google.com/s2/favicons?domain=strict.ai&sz=128",
+  "image": null,
+  "pricing": "Free",
+  "openSource": false,
+  "platform": [
+    "CLI",
+    "Desktop"
+  ],
+  "useCases": [
+    "Run GitHub Actions on spare Mac or Linux hardware for $0/min",
+    "Keep CI caches warm across builds with persistent local NVMe",
+    "Self-host runners without babysitting disks, crashes or load"
+  ],
+  "features": [
+    "Wraps GitHub's official runner: code and secrets never pass through Strict",
+    "Runs GitHub Actions on any spare Mac or Linux box at $0/min",
+    "Warm NVMe caches keep DerivedData, SPM and Docker hot",
+    "7-tier automatic disk cleanup keeps hosts healthy",
+    "Auto load-balancing over Tailscale drains hot or low-disk hosts"
+  ],
+  "alternatives": [],
+  "tags": [
+    "DevOps",
+    "Developer",
+    "Productivity"
+  ],
+  "status": "verified",
+  "featured": false,
+  "trending": true,
+  "lastVerified": "2026-11-24",
+  "releaseDate": "2026-11-23",
+  "releaseYear": "2026",
+  "releaseMonth": "2026-11",
+  "launchDate": "2026-11-23",
+  "launchYear": "2026",
+  "launchMonth": "2026-11",
+  "lastSyncedDate": "2026-11-24"
+},
   {
     "id": "testsigma",
     "name": "Testsigma",
